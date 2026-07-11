@@ -1,12 +1,14 @@
 {
   "version": "1.0.0",
   "updated": "2026-07-11",
+  "source": "MLBBHub hero pages",
+  "total": 130,
   "heroes": [
     {
       "slug": "aamon",
       "name": "Aamon",
-      "title": "Duke of Shards",
-      "description": "Aamon is a burst assassin who uses camouflage and shard attacks to eliminate isolated enemies.",
+      "title": "<!-- -->Duke of Shards<!-- -->",
+      "description": "Aamon enters the (Camouflage) state each time he hits an enemy with a skill, during which he cannot be targeted, restores 25( +15% Total Magic Power) plus 3% of his lost HP every 0.6s, and gains 60% extra Movement Speed that rapidly decays over 3s.\\nUpon leaving the (Camouflage) state, Aamon immediately resets his Basic Attack's cooldown and enhances his Basic Attacks within the next 2.5s. Each enhanced Basic Attack deals 70( +100% Total Physical Attack) (+115% Total Magic Power) (Magic Damage) and reduces Aamon's skill cooldowns by 0.5s. The first enhanced Basic Attack's damage is increased to 120% if Aamon leaves the (Camouflage) state actively.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Aamon enters the \"},{\"type\":\"text\",\"text\":\"(Camouflage)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" state each time he hits an enemy with a skill, during which he cannot be targeted, restores 25( +15% Total Magic Power) plus 3% of his lost HP every 0.6s, and gains 60% extra Movement Speed that rapidly decays over 3s.\\nUpon leaving the \"},{\"type\":\"text\",\"text\":\"(Camouflage)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":",
       "difficulty": "Medium",
       "specialty": [
         "Chase",
@@ -14,10 +16,582 @@
       ]
     },
     {
+      "slug": "akai",
+      "name": "Akai",
+      "title": "<!-- -->Panda Warrior<!-- -->",
+      "description": "Akai gains a 25( +5% Total HP) shield for 4s on each skill cast and marks enemy heroes and Creeps hit by his skills.\\nAkai's Basic Attacks deal 25( +5% Total HP) extra (Physical Damage) to marked enemies.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Akai gains a 25( +5% Total HP) shield for 4s on each skill cast and marks enemy heroes and Creeps hit by his skills.\\nAkai's Basic Attacks deal 25( +5% Total HP) extra \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" to marked enemies.\"}],\"tips\":\"Getting a Shield on every skill cast makes Akai rathertanky during the early game, as well as provides a lot of opportunities foroutplays. The extra shield makes Akai a very formidable opponent in a 1v1scenario. When jungling, space out the usage of Skill 1 and Skill 2 to allow your shield to tank the damage from the jungle monsters, as Akai's passive shield has an internal cooldown.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Guard",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "aldous",
+      "name": "Aldous",
+      "title": "<!-- -->Soul Contractor<!-- -->",
+      "description": "After every 2 Basic Attacks, Aldous gains a 500 (+3 times the number of (Soul Steal) stacks) shield for 3s on his next Basic Attack.\\nThis effect can only be triggered once every 5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After every 2 Basic Attacks, Aldous gains a 500 (+3 times the number of \"},{\"type\":\"text\",\"text\":\"(Soul Steal)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" stacks) shield for 3s on his next Basic Attack.\\nThis effect can only be triggered once every 5s.\"}],\"tips\":\"After every 3 attacks, the damage dealt by Aldous' next attack will be transformed into a shield that lasts for seconds. Activates every 3 seconds.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"After every 3 attacks, the damage dealt by Aldous' next attack will be transformed into a shield that lasts for seconds. Activates every 3 seconds. \"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_17f31391481c569bdb6691e9feb3fc21.png\",\"tags\":[\"Shield\"]},{\"name\":\"Contract: Soul Steal\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Burst",
+        "Support"
+      ]
+    },
+    {
+      "slug": "alice",
+      "name": "Alice",
+      "title": "<!-- -->Queen of Blood<!-- -->",
+      "description": "When Alice's skills hit, she gains 1 stack(s) of Crimson, lasting 4s. Once Crimson reaches 2 stacks, Blood Banquet activates, dealing 25 (+30% Total Magic Power) plus 0.5%-2.5% of the target's Max HP (scales with level) as Magic Damage to nearby units (hitting heroes with skills refreshes the duration) and recovering 10 (+3% Extra Max HP) HP for Alice every 0.5s.\\nWhile Blood Banquet is active, Alice gains 8% Movement Speed. Blood Banquet can deal up to 70(+10*Hero Level) Magic Damage to creeps.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When Alice's skills hit, she gains 1 stack(s) of \"},{\"type\":\"text\",\"text\":\"Crimson\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\", lasting 4s. Once \"},{\"type\":\"text\",\"text\":\"Crimson\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" reaches 2 stacks, \"},{\"type\":\"text\",\"text\":\"Blood Banquet\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" activates, dealing 25\"},{\"type\":\"text\",\"text\":\" (+30% Total Magic Power)\",\"color\":\"#62f8fe\"},{\"type\":\"text\",\"text\":\" plus 0.5%-2.5% of the target's Max HP (scales with level) as Magic Damage to nearby units (hitting heroes with skills refreshes the duration) and recovering 10 (+3% Extra Max HP) HP for Alice every 0.5s.\\nWhile",
+      "difficulty": "Medium",
+      "specialty": [
+        "Charge",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "alpha",
+      "name": "Alpha",
+      "title": "<!-- -->Blade of Enmity<!-- -->",
+      "description": "When Alpha uses a skill, Beta will be summoned to attack. Enemies that are hit by Beta 2 time(s) will be (Locked On).\\n(Locked On): After Alpha deals damage to the target, Beta will fire a laser at them, dealing 80( +80% Extra Physical Attack) ((+8*Hero Level)) (True Damage) and briefly applying a powerful slow effect.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When Alpha uses a skill, Beta will be summoned to attack. Enemies that are hit by Beta 2 time(s) will be \"},{\"type\":\"text\",\"text\":\"(Locked On)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\".\\n\"},{\"type\":\"text\",\"text\":\"(Locked On)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\": After Alpha deals damage to the target, Beta will fire a laser at them, dealing 80\"},{\"type\":\"text\",\"text\":\"( +80% Extra Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" ((+8*Hero Level)) (True Damage) and briefly applying a powerful slow effect.\"}],\"tips\":\"Beta akan membantu menyerang musuh jadi jangan terlalu sering dekat dengan musuh agar HP Anda tetap terjaga.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Beta akan membantu menyerang musuh jadi jangan terlalu sering dekat dengan musuh agar HP Anda tetap terjaga.\"}],\"cooldown\":null,\"manaCost\":null,\"icon",
+      "difficulty": "Easy",
+      "specialty": [
+        "Charge",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "alucard",
+      "name": "Alucard",
+      "title": "<!-- -->Demon Hunter<!-- -->",
+      "description": "After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal ( +140% Total Physical Attack) Physical Damage.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal \"},{\"type\":\"text\",\"text\":\"( +140% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" Physical Damage.\"}],\"tips\":\"This passive gives Aluchan the “chasing effect” using your AA after every skills will move you to the target you’re trying to attack.\\nThis works on all targets, including Towers so do take note.\\nAlways use your AA after every skill to make use of passives extra damage.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"This passive gives Aluchan the “chasing effect” using your AA after every skills will move you to the target you’re trying to attack.\"},{\"type\":\"lineBreak\"},{\"type\":\"text\",\"text\":\"This works on all targets, including Towers so do take note.\"},{\"type\":\"lineBreak\"},{\"type\":\"text\",\"text\":\"Always use your AA after every skill to make use of passives extra damage.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Chase",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "angela",
+      "name": "Angela",
+      "title": "<!-- -->Bunnylove<!-- -->",
+      "description": "Angela gains 7.5% extra Movement Speed for 4s each time she casts a skill (up to 30%). When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Angela gains 7.5% extra Movement Speed for 4s each time she casts a skill (up to 30%). When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.\"}],\"tips\":\"Using skills increases her movement speed. Attached allies also benefit from this speed increase.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Using skills increases her movement speed. Attached allies also benefit from this speed increase.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_a43559c89c118c816b669fa49b45e76f.png\",\"tags\":[\"Speed Up\"]},{\"name\":\"Love Waves\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Guard",
+        "Support"
+      ]
+    },
+    {
+      "slug": "argus",
+      "name": "Argus",
+      "title": "<!-- -->Dark Angel<!-- -->",
+      "description": "When Argus' Meteoric Sword reaches 100 (Malice Energy), he will launch a (Demonic Slash) with his next Basic Attack, dealing 200( +100% Total Physical Attack) (Physical Damage) and recovering 200( +10% Total Physical Attack) HP. This attack ignores 40% of the target's Physical Defense.\\nArgus' Meteoric Sword gains 5 (Malice Energy) per second, and each of his Basic Attacks grants 10 (Malice Energy) (critical strikes grant an additional 5 energy).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When Argus' Meteoric Sword reaches 100 \"},{\"type\":\"text\",\"text\":\"(Malice Energy)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", he will launch a \"},{\"type\":\"text\",\"text\":\"(Demonic Slash)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" with his next Basic Attack, dealing 200\"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" and recovering 200\"},{\"type\":\"text\",\"text\":\"( +10% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" HP. This attack ignores 40% of the target's Physical Defense.\\nArgus' Meteoric Sword gains 5 \"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Charge",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "arlott",
+      "name": "Arlott",
+      "title": "<!-- -->Lone Lancer<!-- -->",
+      "description": "Arlott possesses a demonic eye that will (Mark) enemy units near Arlott that become affected by control effects for 8s.\\nThe eye will also automatically (Mark) a nearby enemy hero in vision every 8s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Arlott possesses a demonic eye that will \"},{\"type\":\"text\",\"text\":\"(Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" enemy units near Arlott that become affected by control effects for 8s.\\nThe eye will also automatically \"},{\"type\":\"text\",\"text\":\"(Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" a nearby enemy hero in vision every 8s.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_98ae9dc84bff0054295750fee5f63035.png\",\"tags\":[\"Buff\"]},{\"name\":\"Dauntless Strike\",\"type\":\"Skill 1\",\"description\":\"Arlott swings his lance forward, dealing 200( +60% Total Physical Attack) (Physical Damage) and briefly stunning targets in an area. Targets hit by the further part of the AOE will be stunned for 1s instead.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Arlott swings his lance forward, dealing 200\"},{\"type\":\"text\",\"text\":\"( +60% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Charge",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "atlas",
+      "name": "Atlas",
+      "title": "<!-- -->Ocean Gladiator<!-- -->",
+      "description": "Atlas generates (Frigid Breath) around him for 5s each time he casts a skill. Enemies affected by (Frigid Breath) will have their Movement Speed gradually reduced over 3s, after which they'll be frozen for 0.5s.\\nAtlas gains 11-25 extra Physical & Magic Defense when (Frigid Breath) is present.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Atlas generates \"},{\"type\":\"text\",\"text\":\"(Frigid Breath)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" around him for 5s each time he casts a skill. Enemies affected by \"},{\"type\":\"text\",\"text\":\"(Frigid Breath)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" will have their Movement Speed gradually reduced over 3s, after which they'll be frozen for 0.5s.\\nAtlas gains 11-25 extra Physical & Magic Defense when \"},{\"type\":\"text\",\"text\":\"(Frigid Breath)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" is present.\"}],\"tips\":\"The CC and durability provided by this skill can significantly reduce the threats that Altas faces in close-quarter combats.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"The CC and durability provided by this skill can significantly reduce the threats that Altas faces in close-quarter combats. \"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Crowd Control",
+        "Initiator"
+      ]
+    },
+    {
+      "slug": "aulus",
+      "name": "Aulus",
+      "title": "<!-- -->Warrior of Ferocity<!-- -->",
+      "description": "Aulus adds a stack of (Fighting Spirit) to his axe per second for 3s after dealing damage to any enemy (up to 4 stacks). Each stack grants 3-12 extra (Physical Attack) and 1-4 (Physical Penetration) (scales with (Undying Fury) level).\\nAulus also gains 10% extra Movement Speed and 27-125 Basic Attack Damage at max (Fighting Spirit) stacks (scales with level).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Aulus adds a stack of \"},{\"type\":\"text\",\"text\":\"(Fighting Spirit)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" to his axe per second for 3s after dealing damage to any enemy (up to 4 stacks). Each stack grants 3-12 extra \"},{\"type\":\"text\",\"text\":\"(Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" and 1-4 \"},{\"type\":\"text\",\"text\":\"(Physical Penetration)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (scales with \"},{\"type\":\"text\",\"text\":\"(Undying Fury)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" level).\\nAulus also gains 10% extra Movement Speed and 27-125 Basic Attack Damage at max \"},{\"type\":\"text\",\"text\":\"(Fighting Spirit)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" stacks (scales with level).\"}],\"tips\":\"Aulus' key skill. Focus on the duration of \\\"Fury Spirit\\",
+      "difficulty": "Easy",
+      "specialty": [
+        "Damage",
+        "Charge"
+      ]
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "title": "<!-- -->Maiden of the Glacier<!-- -->",
+      "description": "Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible during this time and gradually recovering 30% Max HP. This effect has a 150s cooldown.\\nAurora's freeze effects can also affect Turrets.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Upon taking fatal damage, Aurora freezes herself for 1.5s, becoming invincible during this time and gradually recovering 30% Max HP. This effect has a 150s cooldown.\\nAurora's freeze effects can also affect Turrets.\"}],\"tips\":\"Spam frost shock & bitter frost (Be sure to hit minions in order not to waste your skills) until you get the passive skill (The Pink Ice). Once collected, any of your skills can freeze the target. Be sure to hit frozen enemies with your skills to deal extra magic damage. Best skill to be used after collecting the passive skill is the Coldness Destroy. It has wide AOE that can freeze almost 5 of your enemies.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Crowd Control",
+        "Poke"
+      ]
+    },
+    {
+      "slug": "badang",
+      "name": "Badang",
+      "title": "<!-- -->Tribal Warrior<!-- -->",
+      "description": "After every 4 Basic Attacks, Badang's next Basic Attack deals 50( +30% Total Physical Attack) extra (Physical Damage) to enemies hit and knocks them back. Enemies that are knocked into obstacles will be stunned for 0.6s (minions and creeps are stunned directly).\\n(Fist Wind) generated by Badang's skills can also trigger this effect.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After every 4 Basic Attacks, Badang's next Basic Attack deals 50\"},{\"type\":\"text\",\"text\":\"( +30% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" extra \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" to enemies hit and knocks them back. Enemies that are knocked into obstacles will be stunned for 0.6s (minions and creeps are stunned directly).\\n\"},{\"type\":\"text\",\"text\":\"(Fist Wind)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" generated by Badang's skills can also trigger this effect.\"}],\"tips\":\"Better use the control effect with Fist Break and slay enemies with ease.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Better use the control effect with Fist Break and slay enemies with ease.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Charge",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "balmond",
+      "name": "Balmond",
+      "title": "<!-- -->Bloody Beast<!-- -->",
+      "description": "Balmond recovers 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a hero.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Balmond recovers 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a hero.\"}],\"tips\":\"On fighter build pls always remember ur passive skill. try to near enemy minions for fight/war on early game.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"On fighter build pls always remember ur passive skill. try to near enemy minions for fight/war on early game.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_a9aa00dcaf998c9636e1dbb874a225c5.png\",\"tags\":[\"Heal\"]},{\"name\":\"Soul Lock\",\"type\":\"Skill 1\",\"description\":\"Balmond charges in the target direction for a set distance or until he hits an enemy hero, dealing 150( +60% Total Physical Attack) (Physical Damage) to enemies along the way. The enemy hero hit will be knocked back slightly and slowed by 60% for 2s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Balmond charges in the target direction for a set distance or until he hits an enemy hero, dealing 150\"},{\"type\":\"text\",\"text\":\"( +60% Total Physical Attack)\",\"color\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Damage",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "bane",
+      "name": "Bane",
+      "title": "<!-- -->Frozen King<!-- -->",
+      "description": "Bane infuses his weapon with a stack of (Tidal Energy) each time he uses a skill (up to 2 stacks). Each of his subsequent Basic Attacks consumes a stack to deal (Physical Damage) equal to ( +100% Total Physical Attack) plus 3.5(+0.3*Hero Level)% of the target's Max HP to nearby enemies.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Bane infuses his weapon with a stack of \"},{\"type\":\"text\",\"text\":\"(Tidal Energy)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time he uses a skill (up to 2 stacks). Each of his subsequent Basic Attacks consumes a stack to deal \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" equal to \"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" plus 3.5(+0.3*Hero Level)% of the target's Max HP to nearby enemies.\"}],\"tips\":\"Setiap 6 detik sekali Basic Attack Bane akan meningkat dan menimbulkan Splash, musuh yang berada di belakang target yang dipukul akan terkena Damage yang sangat besar dan mendapatkan efek Slow. (termasuk Turret).\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Push",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "barats",
+      "name": "Barats",
+      "title": "<!-- -->Dino Rider<!-- -->",
+      "description": "Detona gains a stack of (Big Guy) for 12s each time it or Barats damages an enemy with their skills (up to 10 stacks). Each stack of (Big Guy) increases Detona's size, and grants 4-10 extra Hybrid Defense (scales with the level of (Detona's Welcome)) and 5% extra Resilience. At max stacks, Detona's Basic Attacks will be replaced with (Trample), which deals ( +140% Total Physical Attack) (+4% Total HP) (Physical Damage) to enemies in a circular area, slows them by 40% for 0.2s, and refreshes the duration of (Big Guy) with each hit.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Detona gains a stack of \"},{\"type\":\"text\",\"text\":\"(Big Guy)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" for 12s each time it or Barats damages an enemy with their skills (up to 10 stacks). Each stack of \"},{\"type\":\"text\",\"text\":\"(Big Guy)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" increases Detona's size, and grants 4-10 extra Hybrid Defense (scales with the level of \"},{\"type\":\"text\",\"text\":\"(Detona's Welcome)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\") and 5% extra Resilience. At max stacks, Detona's Basic Attacks will be replaced with \"},{\"type\":\"text\",\"text\":\"(Trample)\",\"color\":\"#404495\"},{\"type\":\"text\",",
+      "difficulty": "Medium",
+      "specialty": [
+        "Damage",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "baxia",
+      "name": "Baxia",
+      "title": "<!-- -->Mystic Tortoise<!-- -->",
+      "description": "Baxia activates the \\\"Baxia Mark\\\" permanently, reducing the final damage received by 25.\\nAt the same time, Baxia will reduce the Shield and HP Regen of enemies hit by his skills by 50% for 4s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Baxia activates the \\\"Baxia Mark\\\" permanently, reducing the final damage received by 25.\\nAt the same time, Baxia will reduce the Shield and HP Regen of enemies hit by his skills by 50% for 4s.\"}],\"tips\":\"Baxia activates the Baxia Mark permanently, reducing the final damage received (the amount of DMG reduced increases with hero’s level). At the same time, Baxia will reduce the regen effect of the hit target.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Baxia activates the Baxia Mark permanently, reducing the final damage received (the amount of DMG reduced increases with hero’s level). At the same time, Baxia will reduce the regen effect of the hit target.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_3d613bfe966ceef6b69452592a41820e.png\",\"tags\":[\"Buff\",\"Debuff\"]},{\"name\":\"Baxia-Shield Unity\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Support",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "beatrix",
+      "name": "Beatrix",
+      "title": "<!-- -->Dawnbreak Soldier<!-- -->",
+      "description": "Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower.\\n(Nibiru) Basic Attack - Rapid Fire: Lets loose a volley of 4 shots at the target, each shot dealing ( +51% Total Physical Attack) -( +65% Total Physical Attack) (Physical Damage) (inherits a portion of Attack Effects). Deals 75% damage to Creeps.\\nBeatrix cannot Crit, and converts every 1% Critical Chance gained into 1 Physical Attack.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower.\\n\"},{\"type\":\"text\",\"text\":\"(Nibiru)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" Basic Attack - Rapid Fire: Lets loose a volley of 4 shots at the target, each shot dealing \"},{\"type\":\"text\",\"text\":\"( +51% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" -\"},{\"type\":\"text\",\"text\":\"( +65% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "belerick",
+      "name": "Belerick",
+      "title": "<!-- -->Guard of Nature<!-- -->",
+      "description": "For every 50 damage inflicted upon Belerick, he has a 25% chance to shoot the nearest enemy unit, dealing (Magic Damage) equal to 55(+5*Hero Level) plus 1.8% of his Max HP (scales with level). This attack can be triggered once every 0.4s.\\nHis HP obtained from Equipment and Emblems is increased by 30%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"For every 50 damage inflicted upon Belerick, he has a 25% chance to shoot the nearest enemy unit, dealing (Magic Damage) equal to 55(+5*Hero Level) plus 1.8% of his Max HP (scales with level). This attack can be triggered once every 0.4s.\\nHis HP obtained from Equipment and Emblems is increased by 30%.\"}],\"tips\":\"For Belerick, it is a passive as much as a DPS skill. Using the 1st skill, Belerick is able to control where to cast the passive. The 2nd skill is sure to trigger his passive. Players can utilize the combo to make Belerick a strong hero when laning.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"For Belerick, it is a passive as much as a DPS skill. Using the 1st skill, Belerick is able to control where to cast the passive. The 2nd skill is sure to trigger his passive. Players can utilize the combo to make Belerick a strong hero when laning.",
+      "difficulty": "Easy",
+      "specialty": [
+        "Crowd Control",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "benedetta",
+      "name": "Benedetta",
+      "title": "<!-- -->Shadow Ranger<!-- -->",
+      "description": "When holding down the (Basic Attack) button, Benedetta enters the Swordout state and charges up Sword Intent. If the (Basic Attack) button is released after the Sword Intent is fully charged, Benedetta will use Swordout Slash in (the direction she's facing) and dash forward, dealing ( +215% Total Physical Attack) (Physical Damage) to enemies on the path (counts as Skill Damage and is reduced to 50% on Minions and Creeps).\\nBenedetta can only use Swordout Slash when her Sword Intent is fully charged and she is in Swordout state by holding down the (Basic Attack) button.\\nBenedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When holding down the \"},{\"type\":\"text\",\"text\":\"(Basic Attack)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" button, Benedetta enters the Swordout state and charges up Sword Intent. If the \"},{\"type\":\"text\",\"text\":\"(Basic Attack)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" button is released after the Sword Intent is fully charged, Benedetta will use Swordout Slash in \"},{\"type\":\"text\",\"text\":\"(the direction she's facing)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "brody",
+      "name": "Brody",
+      "title": "<!-- -->The Lone Star<!-- -->",
+      "description": "With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his Basic Attacks (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed Bonus. Each Basic Attack deals ( +140% Total Physical Attack) ((+45*Hero Level)) (Physical Damage) (of which the damage scaling with level cannot be critical), increases Movement Speed by 30% (which will decay rapidly in 1.2s), and applies 1 stack of (Abyss Mark) on the enemy, capped at 4 stacks.\\nEach stack of (Abyss Mark) increases Brody's damage against the target by 5% and his Movement Speed by 5%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his Basic Attacks (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed Bonus. Each Basic Attack deals \"},{\"type\":\"text\",\"text\":\"( +140% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" ((+45*Hero Level)) \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Burst",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "bruno",
+      "name": "Bruno",
+      "title": "<!-- -->The Protector<!-- -->",
+      "description": "Bruno gains 2% extra Crit Chance each time he deals damage with his skills (up to 10 stacks).\\nBruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Bruno gains 2% extra Crit Chance each time he deals damage with his skills (up to 10 stacks).\\nBruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources.\"}],\"tips\":\"Setiap menggunakan Skill, Critical Hit Bruno akan selalu meningkat, dsini kita dapat memanfaatkanya dengan cara selalu menggunakan Skill saat War agar Critical Hit Bruno meningkat dan menyebabkan Damage yang besar.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Setiap menggunakan Skill, Critical Hit Bruno akan selalu meningkat, dsini kita dapat memanfaatkanya dengan cara selalu menggunakan Skill saat War agar Critical Hit Bruno meningkat dan menyebabkan Damage yang besar.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_0850ac06412b0171aef0eba541581199.png\",\"tags\":[\"Buff\"]},{\"name\":\"Volley Shot\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "carmilla",
+      "name": "Carmilla",
+      "title": "<!-- -->Shadow of Twilight<!-- -->",
+      "description": "Each time Carmilla deals damage to an enemy hero, she steals 7-11 Physical & Magic Defense (scales with level) from them. The stolen Physical & Magic Defense can stack up to 5 times and lasts 5s. However, Carmilla can only steal defense from the same enemy hero once every 5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each time Carmilla deals damage to an enemy hero, she steals 7-11 Physical & Magic Defense (scales with level) from them. The stolen Physical & Magic Defense can stack up to 5 times and lasts 5s. However, Carmilla can only steal defense from the same enemy hero once every 5s.\"}],\"tips\":\"This skill increases Carmilla’s defense and grants her an edge when fighting. Combined with the regen effect of Crimson Flower, Carmilla’s durability could be increased.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"This skill increases Carmilla’s defense and grants her an edge when fighting. Combined with the regen effect of Crimson Flower, Carmilla’s durability could be increased.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_0260af174d1081a18480eee6545f98a6.png\",\"tags\":[\"Buff\",\"Debuff\"]},{\"name\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Crowd Control",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "cecilion",
+      "name": "Cecilion",
+      "title": "<!-- -->Embrace of Night<!-- -->",
+      "description": "Cecilion gains 10 extra Max Mana and recovers 10 Mana each time his skill hits an enemy. Cooldown: 1s.\\nCecilion has higher Max Mana and Mana Regen, and his skill damage scales with his Max Mana.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Cecilion gains 10 extra Max Mana and recovers 10 Mana each time his skill hits an enemy. Cooldown: 1s.\\nCecilion has higher Max Mana and Mana Regen, and his skill damage scales with his Max Mana.\"}],\"tips\":\"With this Skill, Cecilion’s power accumulates with each attack. With enough mana accumulated, he can consistently poke out with his first Skill.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"With this Skill, Cecilion’s power accumulates with each attack. With enough mana accumulated, he can consistently poke out with his first Skill.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_3d927bf75488e56e28187ea65cafcfa5.png\",\"tags\":[\"Buff\"]},{\"name\":\"Bat Impact\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Poke",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "change",
+      "name": "Chang'e",
+      "title": "<!-- -->Moon Palace Immortal<!-- -->",
+      "description": "Each time Chang'e deals damage to an enemy, she leaves a mark on them. Each mark reduces the target's Movement Speed by 1%, stacking up to 20%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each time Chang'e deals damage to an enemy, she leaves a mark on them. Each mark reduces the target's Movement Speed by 1%, stacking up to 20%.\"}],\"tips\":\"While a skill is a active, Chang’e gains 1 stack of Rabbit Blessing every time she inflicts damage upon an enemy hero. Once Chang’e has accumulated 40 stacks, she can exchange them to permanently boost her magic attack by 30 points. Upon death, Chang’e loses 15 stacks. (Stacks that were already exchanged are not affected.)\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"While a skill is a active, Chang’e gains 1 stack of Rabbit Blessing every time she inflicts damage upon an enemy hero. Once Chang’e has accumulated 40 stacks, she can exchange them to permanently boost her magic attack by 30 points. Upon death, Chang’e loses 15 stacks. (Stacks that were already exchanged are not affected.)\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_4d7332d176c72445d8cc3ee0317dacde.png\",\"tags\":[",
+      "difficulty": "Medium",
+      "specialty": [
+        "Poke",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "chip",
+      "name": "Chip",
+      "title": "<!-- -->Phase Technician<!-- -->",
+      "description": "Chip starts eating potato chips once every 2s when out of combat, regenerating HP equal to 300 plus 15% of lost HP after finishing a whole bag (requires 4 bites). After eating a bag of chips, Chip will be full and cannot eat again for 5s. (The bite count will be saved if he enters combat before finishing a whole bag.)\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Chip starts eating potato chips once every 2s when out of combat, regenerating HP equal to 300 plus 15% of lost HP after finishing a whole bag (requires 4 bites). After eating a bag of chips, Chip will be full and cannot eat again for 5s. (The bite count will be saved if he enters combat before finishing a whole bag.)\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_87767306b09462d012792603a99a862c.png\",\"tags\":[\"Heal\"]},{\"name\":\"Crash Course\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Support",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "chou",
+      "name": "Chou",
+      "title": "<!-- -->Kung Fu Boy<!-- -->",
+      "description": "After traveling 10 units, Chou deals 180% damage on his next Basic Attack (cannot Crit) and briefly slows the target by 80%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After traveling 10 units, Chou deals 180% damage on his next Basic Attack (cannot Crit) and briefly slows the target by 80%.\"}],\"tips\":\"Chou's passive skill is used when Chou's hand has flared which indicates his passive ability is active so that it can produce 200% Basic attack.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Chou's passive skill is used when Chou's hand has flared which indicates his passive ability is active so that it can produce 200% Basic attack.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_aca76a3a3dda44b6a0c3a72ff9bbcb94.png\",\"tags\":[\"Buff\"]},{\"name\":\"Jeet Kune Do\",\"type\":\"Skill 1\",\"description\":\"Chou strikes in the target direction, dealing 180( +70% Total Physical Attack) (Physical Damage) to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne.\\nHitting an enemy hero with the 3rd cast resets the cooldown of (Shunpo).\",\"descriptionRich\":[{\"type\":\"text\",",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Control"
+      ]
+    },
+    {
+      "slug": "cici",
+      "name": "Cici",
+      "title": "<!-- -->Buoyant Performer<!-- -->",
+      "description": "Cici generates a stack of Delight after dealing damage, increasing her Movement Speed by 0.75% and Spell Vamp by 0.75% per stack up to 10 times, doubling the effects at full stacks.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Cici generates a stack of Delight after dealing damage, increasing her Movement Speed by 0.75% and Spell Vamp by 0.75% per stack up to 10 times, doubling the effects at full stacks.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6d7f05670808b2e7662aab8303594fc5.png\",\"tags\":[\"Buff\"]},{\"name\":\"Yo-Yo Blitz\",\"type\":\"Skill 1\",\"description\":\"Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5s, hitting them up to 10 times, and dealing (Physical Damage) equal to 60 plus 3( )% of the target's Max HP per hit. Cici can move and use other skills during this attack.\\nIf there is no enemy within range, Yoyo will attack Turrets or the Base instead.\\nThis skill deals 20% extra damage to Minions.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Damage",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "claude",
+      "name": "Claude",
+      "title": "<!-- -->Master Thief<!-- -->",
+      "description": "(Dexter) assists Claude on each of his Basic Attacks, dealing 20( +30% Total Physical Attack) (Physical Damage) to the same target (inherits a portion of Attack Effects).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"(Dexter)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" assists Claude on each of his Basic Attacks, dealing 20\"},{\"type\":\"text\",\"text\":\"( +30% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" to the same target (inherits a portion of Attack Effects).\"}],\"tips\":\"Due to this skill, equipments that boost basic attacks should be Claude's major concentration\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Due to this skill, equipments that boost basic attacks should be Claude's major concentration\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e7d29db8de0b94e9eba7f11ccc9ba5fe.png\",\"tags\":[\"Buff\"]},{\"name\":\"Art of Thievery\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Burst",
+        "Chase"
+      ]
+    },
+    {
+      "slug": "clint",
+      "name": "Clint",
+      "title": "<!-- -->West Justice<!-- -->",
+      "description": "After each skill cast, Clint's next Basic Attack within 4s penetrates a line of enemies, dealing 50( +120% Total Physical Attack) (Physical Damage). This damage can trigger attack effects, and the part affected by Physical Attack can Crit.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After each skill cast, Clint's next Basic Attack within 4s penetrates a line of enemies, dealing 50\"},{\"type\":\"text\",\"text\":\"( +120% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\". This damage can trigger attack effects, and the part affected by Physical Attack can Crit.\"}],\"tips\":\"This is a very strong passive, and helps with sustainability in the laning phase, as well as reaching squishier back-row heroes.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"This is a very strong passive, and helps with sustainability in the laning phase, as well as reaching squishier back-row heroes.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_4f34f91aa8c276c6c68c0fb062645591.png\",\"tags\":[\"Burst\"]},{\"name\":\"Quick Draw\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "title": "<!-- -->Starsoul Magician<!-- -->",
+      "description": "Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s.\"}],\"tips\":\"His passive allows all his skills to reduce 0.5 seconds upon hitting an enemy.\\nThis passive is really strong and a cooldown+magic damage build will make Cyclops really Over Powered.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"His passive allows all his skills to reduce 0.5 seconds upon hitting an enemy. \"},{\"type\":\"lineBreak\"},{\"type\":\"text\",\"text\":\"This passive is really strong and a cooldown+magic damage build will make Cyclops really Over Powered.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f7b43d6e79d4116016d639302e00ebc4.png\",\"tags\":[\"Buff\"]},{\"name\":\"Stardust Shock\",\"type\":\"Skill 1\",\"description\":\"Cyclops casts two Stardust Disks in the target direction, each dealing 275( +60% Total Magic Power) (Magic Damage) to enemies in its path.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Damage",
+        "Control"
+      ]
+    },
+    {
+      "slug": "diggie",
+      "name": "Diggie",
+      "title": "<!-- -->Timekeeper<!-- -->",
+      "description": "Upon death, Diggie reverses time and turns back to egg form, in which he can continue to move around and gains a new set of skills. He cannot be targeted in egg form and will revive after a period of time.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Upon death, Diggie reverses time and turns back to egg form, in which he can continue to move around and gains a new set of skills. He cannot be targeted in egg form and will revive after a period of time.\"}],\"tips\":\"Chick mode not only can distract enemies, it can also be used to scout out the mode. The insignificant damage can be used to interrupt enemy Recall and Regen.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Chick mode not only can distract enemies, it can also be used to scout out the mode. The insignificant damage can be used to interrupt enemy Recall and Regen.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c925354be703b164f4cb1e334f7f0999.png\",\"tags\":[\"Buff\"]},{\"name\":\"Auto Alarm Bomb\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Guard",
+        "Poke"
+      ]
+    },
+    {
+      "slug": "dyrroth",
+      "name": "Dyrroth",
+      "title": "<!-- -->Prince of the Abyss<!-- -->",
+      "description": "When Dyrroth's Rage reaches 50%, he will enhance (\\\"Burst Strike\\\") and (\\\"Spectre Step\\\").\\nAfter every 2 Basic Attacks, Dyrroth will release Circle Strike, dealing ( +140% Total Physical Attack) (Physical Damage) to enemies in the circle and regenerating HP according to the damage he deals (Circle Strike doesn't have Attack Effect). Each time he hits an enemy hero, the CD of (\\\"Burst Strike\\\") and (\\\"Spectre Step\\\") will be decreased by 1s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When Dyrroth's Rage reaches 50%, he will enhance \"},{\"type\":\"text\",\"text\":\"(\\\"Burst Strike\\\")\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" and \"},{\"type\":\"text\",\"text\":\"(\\\"Spectre Step\\\")\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\".\\nAfter every 2 Basic Attacks, Dyrroth will release Circle Strike, dealing \"},{\"type\":\"text\",\"text\":\"( +140% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" to enemies in the circle and regenerating HP according to the damage he deals (Circle Strike doesn't have Attack Effect). Each time he hits an enemy hero, the CD of \"},{\"type\":\"text\",\"text\":\"(\\\"Burst Strike\\\")\",",
+      "difficulty": "Medium",
+      "specialty": [
+        "Charge",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "edith",
+      "name": "Edith",
+      "title": "<!-- -->Ancient Guard<!-- -->",
+      "description": "After each skill cast, Edith and Phylax become Overloaded for 3s, during which all Basic Attacks will trigger chain lightning, dealing extra (Magic Damage) equal to ( +30% Total Magic Power) plus 4(+0.25*Hero Level)% of the target's Max HP to up to 4 enemies.\\nChain lightning damage against Minions is increased to 150%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After each skill cast, Edith and Phylax become Overloaded for 3s, during which all Basic Attacks will trigger chain lightning, dealing extra (Magic Damage) equal to ( +30% Total Magic Power) plus 4(+0.25*Hero Level)% of the target's Max HP to up to 4 enemies.\\nChain lightning damage against Minions is increased to 150%.\"}],\"tips\":\"Edith has the potential to overwhelm her enemy in the early to mid game. With her Passive Overload, she can clear the lanes and suppress her enemy with ease from afar while quickly leveling up to Lv.4.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Edith has the potential to overwhelm her enemy in the early to mid game. With her Passive Overload, she can clear the lanes and suppress her enemy with ease from afar while quickly leveling up to Lv.4.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Control",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "esmeralda",
+      "name": "Esmeralda",
+      "title": "<!-- -->Astrologer<!-- -->",
+      "description": "Esmeralda manipulates Stardust and Frostmoon: Stardust deals Physical Damage while Frostmoon deals Magic Damage and gives the target a shield equal to 135% of Frostmoon's damage dealt. Each Basic Attack deals ( +100% Total Physical Attack) (Physical Damage) and 100( +75% Total Magic Power) (Magic Damage).\\nThe damage dealt by Esmeralda ignores all shield effects and gradually converts her shield into HP.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Esmeralda manipulates Stardust and Frostmoon: Stardust deals Physical Damage while Frostmoon deals Magic Damage and gives the target a shield equal to 135% of Frostmoon's damage dealt. Each Basic Attack deals \"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" and 100( +75% Total Magic Power) (Magic Damage).\\nThe damage dealt by Esmeralda ignores all shield effects and gradually converts her shield into HP.\"}],\"tips\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Regen",
+        "Mixed Damage"
+      ]
+    },
+    {
+      "slug": "estes",
+      "name": "Estes",
+      "title": "<!-- -->Moon Elf King<!-- -->",
+      "description": "Scripture of the Moon Elf slowly charges Estes with energy. When the energy reaches 100 stacks, Estes' next Basic Attack will become enhanced, dealing 250( +100% Total Physical Attack) (+150% Total Magic Power) (Magic Damage) to the target and 125( +50% Total Physical Attack) (+75% Total Magic Power) (Magic Damage) to nearby enemies, and slowing them by 60% for 1.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Scripture of the Moon Elf slowly charges Estes with energy. When the energy reaches 100 stacks, Estes' next Basic Attack will become enhanced, dealing 250\"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+150% Total Magic Power) (Magic Damage) to the target and 125\"},{\"type\":\"text\",\"text\":\"( +50% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+75% Total Magic Power) (Magic Damage) to nearby enemies, and slowing them by 60% for 1.5s.\"}],\"tips\":\"Code of Moon Elves, can charge energy and improves its basic attack dealing 450 magic damage. This basic attack will surely slow down its target. Also, it can make a splash damage dealing 225 magic damage towards nearby enemies.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Regen",
+        "Guard"
+      ]
+    },
+    {
+      "slug": "eudora",
+      "name": "Eudora",
+      "title": "<!-- -->Lightning Weaver<!-- -->",
+      "description": "Eudora's skills inflict (Superconductor) for 3s on hit and can trigger additional effects against enemies affected by (Superconductor).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Eudora's skills inflict \"},{\"type\":\"text\",\"text\":\"(Superconductor)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" for 3s on hit and can trigger additional effects against enemies affected by \"},{\"type\":\"text\",\"text\":\"(Superconductor)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\".\"}],\"tips\":\"Skill gives the target a Superconductor effect which will amplify the effects of other abilities.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Skill gives the target a Superconductor effect which will amplify the effects of other abilities.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_4ac316bbaf343836fdc741c84ca5da45.png\",\"tags\":[\"Buff\"]},{\"name\":\"Forked Lightning\",\"type\":\"Skill 1\",\"description\":\"Eudora casts forked lightning in the target direction, dealing 350( +150% Total Magic Power) (Magic Damage) to enemies in a fan-shaped area.\\nEnemies affected by (Superconductor) will take 190( +30% Total Magic Power) extra (Magic Damage) after a short delay.\",",
+      "difficulty": "Easy",
+      "specialty": [
+        "Control",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "fanny",
+      "name": "Fanny",
+      "title": "<!-- -->Blade Dancer<!-- -->",
+      "description": "During flight, Fanny deals 10%-20% extra damage to enemies hit (scales with flying speed) and applies a stack of (Prey Mark) to them (up to 2 stacks) on each attack. Her subsequent skill hits on marked enemy heroes restore 7 energy per stack for her. The energy restoration is reduced if she hits multiple enemy heroes within a short period of time.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"During flight, Fanny deals 10%-20% extra damage to enemies hit (scales with flying speed) and applies a stack of \"},{\"type\":\"text\",\"text\":\"(Prey Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" to them (up to 2 stacks) on each attack. Her subsequent skill hits on marked enemy heroes restore 7 energy per stack for her. The energy restoration is reduced if she hits multiple enemy heroes within a short period of time.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_9010ffb0bfdac45531cb9977a26ae32d.png\",\"tags\":[\"Buff\"]},{\"name\":\"Tornado Strike\",\"type\":\"Skill 1\",\"description\":\"Fanny whirls her blades, dealing 300( +83% Total Physical Attack) (Physical Damage) to nearby enemies.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Chase",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "faramis",
+      "name": "Faramis",
+      "title": "<!-- -->Soul Binder<!-- -->",
+      "description": "Every 4s, Faramis' next skill against enemy heroes and summoned objects generates a soul fragment on the spot. Faramis can absorb the soul fragment to restore 100( +50% Total Magic Power) HP and gain 2 extra Magic Power (up to 40 stacks). Upon death, he consumes the absorbed soul fragments to reduce the respawn timer, each reducing the timer by 3% (up to 90%). Enemies that die around Faramis also have a chance to drop soul fragments.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Every 4s, Faramis' next skill against enemy heroes and summoned objects generates a soul fragment on the spot. Faramis can absorb the soul fragment to restore 100( +50% Total Magic Power) HP and gain 2 extra Magic Power (up to 40 stacks). Upon death, he consumes the absorbed soul fragments to reduce the respawn timer, each reducing the timer by 3% (up to 90%). Enemies that die around Faramis also have a chance to drop soul fragments.\"}],\"tips\":\"The main regeneration skill for Faramis. He can collect souls nearby to restore himself. Meanwhile, the souls he collects will shorten the time of his next respawn so that he can come back to the battlefield quickly.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Guard",
+        "Charge"
+      ]
+    },
+    {
+      "slug": "floryn",
+      "name": "Floryn",
+      "title": "<!-- -->Budding Hope<!-- -->",
+      "description": "Dew's (Lantern) will permanently increase Floryn's attributes by a small amount.\\nAfter leaving combat for 5s, Floryn can share the (Flower of Hope) with an allied hero (30s cooldown), which will grant them a 150( +80% Total Magic Power) shield each time they are healed by Floryn.\\nFloryn will never sell the (Lantern).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Dew's \"},{\"type\":\"text\",\"text\":\"(Lantern)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" will permanently increase Floryn's attributes by a small amount.\\nAfter leaving combat for 5s, Floryn can share the \"},{\"type\":\"text\",\"text\":\"(Flower of Hope)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" with an allied hero (30s cooldown), which will grant them a 150( +80% Total Magic Power) shield each time they are healed by Floryn.\\nFloryn will never sell the \"},{\"type\":\"text\",\"text\":\"(Lantern)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\".\"}],\"tips\":\"Try to hit enemies with Floryn's skills to stack up her Passive to maximize the power of Lantern.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Try to hit enemies with Floryn's skills to stack up her Passive to maximize the power of Lantern.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Poke",
+        "Guard"
+      ]
+    },
+    {
+      "slug": "franco",
+      "name": "Franco",
+      "title": "<!-- -->Frozen Warrior<!-- -->",
+      "description": "If no damage is taken within 5s, Franco gains 10% Movement Speed, recovers 1% Max HP per second, and begins accumulating (Wasteland Force) (up to 10 stacks).\\nFranco will consume all (Wasteland Force) stacks on his next skill cast to increase the skill's damage by up to 150%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"If no damage is taken within 5s, Franco gains 10% Movement Speed, recovers 1% Max HP per second, and begins accumulating \"},{\"type\":\"text\",\"text\":\"(Wasteland Force)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" (up to 10 stacks).\\nFranco will consume all \"},{\"type\":\"text\",\"text\":\"(Wasteland Force)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" stacks on his next skill cast to increase the skill's damage by up to 150%.\"}],\"tips\":\"Wasteland Force adalah Skill pasif yang membuat Franco menjadi Ganker sekaligus Tank yang menakutkan. Pasif ini membuat Anda bertahan lebih lama di Lane dan memudahkan Anda untuk mengambil posisi dengan baik di dalam semak-semak.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Initiator",
+        "Control"
+      ]
+    },
+    {
+      "slug": "fredrinn",
+      "name": "Fredrinn",
+      "title": "<!-- -->Rogue Appraiser<!-- -->",
+      "description": "Fredrinn gains 1 (Combo Point) that lasts 5s each time his skill hits a non-minion enemy, up to 4 (Combo Points). His Ultimates cost different numbers of (Combo Points).\\nFredrinn stores 100% of the damage he receives as (Crystal Energy), which decays after 5s at a rate of 10% Max HP per second.\\nFredrinn can convert the stored (Crystal Energy) into HP by 20% of his damage dealt (10% for damage dealt to minions). Gaining a (Combo Point) resets the decaying timer.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Fredrinn gains 1 \"},{\"type\":\"text\",\"text\":\"(Combo Point)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" that lasts 5s each time his skill hits a non-minion enemy, up to 4 \"},{\"type\":\"text\",\"text\":\"(Combo Points)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\". His Ultimates cost different numbers of \"},{\"type\":\"text\",\"text\":\"(Combo Points)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\".\\nFredrinn stores 100% of the damage he receives as \"},{\"type\":\"text\",\"text\":\"(Crystal Energy)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", which decays after 5s at a rate of 10% Max HP per second.\\nFredrinn can convert the stored \"},{\"type\":\"text\",\"text\":\"(Crystal Energy)\",\"color\":\"#404495\"},{\"type\":\"text\",",
+      "difficulty": "Medium",
+      "specialty": [
+        "Damage",
+        "Chase"
+      ]
+    },
+    {
+      "slug": "gatotkaca",
+      "name": "Gatotkaca",
+      "title": "<!-- -->Mighty Legend<!-- -->",
+      "description": "Gatotkaca gains Physical Defense equal to 2% of his lost HP (up to 200). For every 300 damage he takes (calculated before damage reduction), he gains 5 Rage (up to 100).\\nUpon reaching over 25 Rage, Gatotkaca's next Basic Attack becomes enhanced, consuming all Rage to deal extra (Magic Damage) and recover HP. The extra damage scales with his Rage, level, and Magic Power.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Gatotkaca gains Physical Defense equal to 2% of his lost HP (up to 200). For every 300 damage he takes (calculated before damage reduction), he gains 5 Rage (up to 100).\\nUpon reaching over 25 Rage, Gatotkaca's next Basic Attack becomes enhanced, consuming all Rage to deal extra (Magic Damage) and recover HP. The extra damage scales with his Rage, level, and Magic Power.\"}],\"tips\":\"Skill regenerasi utama Anda. Steel Bones membuat Gatotkaca bisa bertahan di Lane lebih lama dan lebih sering melakukan Tanking. Dengan Skill ini walaupun HP Anda di bawah 50%, Anda tidak perlu takut untuk maju dan menahan serangan dari lawan saat sekutu Anda ingin menghabiskan atau mengejar lawan.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Crowd Control",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "gloo",
+      "name": "Gloo",
+      "title": "<!-- -->Swamp Spirits<!-- -->",
+      "description": "Enemies gain a stack of (Sticky) each time they're hit by Gloo's skills, decreasing their Movement Speed by 6% for 6s. Stacks up to 5.\\nEach stack of (Sticky) on an enemy reduces their damage dealt to Gloo by 6%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Enemies gain a stack of \"},{\"type\":\"text\",\"text\":\"(Sticky)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time they're hit by Gloo's skills, decreasing their Movement Speed by 6% for 6s. Stacks up to 5.\\nEach stack of \"},{\"type\":\"text\",\"text\":\"(Sticky)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on an enemy reduces their damage dealt to Gloo by 6%.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_4d78367e0a6c4f3269f64ddfad7f96d7.png\",\"tags\":[\"Slow\",\"Buff\"]},{\"name\":\"Slam, Slam\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Regen",
+        "Control"
+      ]
+    },
+    {
+      "slug": "gord",
+      "name": "Gord",
+      "title": "<!-- -->Professor of the Mystics<!-- -->",
+      "description": "After Gord hits an enemy 4 times with Basic Attacks or skills within a short period of time, the next attack on the target will deal an additional 140( +60% Total Magic Power) (True Damage) and slow them by 20% for 1s (the slow effect stacks up to 2 times).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After Gord hits an enemy 4 times with Basic Attacks or skills within a short period of time, the next attack on the target will deal an additional 140( +60% Total Magic Power) (True Damage) and slow them by 20% for 1s (the slow effect stacks up to 2 times).\"}],\"tips\":\"Selalu berlatih agar semua Skill dapat pas mengenai lawan, meskipun sulit namun Gord adalah Hero berbahaya yang dapat memberikan Damage terbesar pada musuh.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Selalu berlatih agar semua Skill dapat pas mengenai lawan, meskipun sulit namun Gord adalah Hero berbahaya yang dapat memberikan Damage terbesar pada musuh.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_d001e3ffc019ed6a944faa42e6bc7d4c.png\",\"tags\":[\"Buff\",\"Slow\"]},{\"name\":\"Mystic Projectile\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Poke",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "granger",
+      "name": "Granger",
+      "title": "<!-- -->Death Chanter<!-- -->",
+      "description": "Granger's unique Demon Hunting Gun and Cannon are powered by Demonic Energy. Both his weapons start with 800 max Energy. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Killing a Minion / Creep permanently increases their max Energy by 6 / 6, and instantly restores their Energy by 5% / 5%, respectively. Each kill or assist on an enemy hero permanently increases both weapons' max Energy by 12 and instantly restores 10% Energy.\\n\\nEvery 1% Cooldown Reduction converts to 2 Physical Attack. Demonic Energy costs are not affected by Energy Cost Reduction.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Granger's unique Demon Hunting \"},{\"type\":\"text\",\"text\":\"Gun\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" and \"},{\"type\":\"text\",\"text\":\"Cannon\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" are powered by Demonic Energy. Both his weapons start with 800 max Energy. His \"},{\"type\":\"text\",\"text\":\"Gun\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" restores 8% Energy per second while his \"},{\"type\":\"text\",\"text\":\"Cannon\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Burst",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "grock",
+      "name": "Grock",
+      "title": "<!-- -->Fortress Titan<!-- -->",
+      "description": "Grock gains a Shield equal to 14% of his Max HP and empowers the next Basic Attack to deal Physical Damage equal to 4 (+2% Total Physical Defense)% of the target's Max HP (capped at 300(+20*Hero Level) against non-hero units). This effect has a 18-12s cooldown (decreases with level), which reduces by 200% when near terrain.\\n\\nGrock's skills cannot be interrupted, and he gains 30(+6*Hero Level)% extra Physical Defense while the Shield is active.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Grock gains a Shield equal to 14% of his Max HP and empowers the next Basic Attack to deal \"},{\"type\":\"text\",\"text\":\"Physical Damage\",\"color\":\"#fb1f1f\"},{\"type\":\"text\",\"text\":\" equal to 4 (+2% Total Physical Defense)% of the target's Max HP (capped at 300(+20*Hero Level) against non-hero units). This effect has a 18-12s cooldown (decreases with level), which reduces by 200% when near terrain.\\n\\nGrock's skills cannot be interrupted, and he gains 30(+6*Hero Level)% extra Physical Defense while the Shield is active.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_bb06fa77cd649eff0cc061706e029182.png\",\"tags\":[\"Buff\"]},{\"name\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Crowd Control",
+        "Initiator"
+      ]
+    },
+    {
+      "slug": "guinevere",
+      "name": "Guinevere",
+      "title": "<!-- -->Ms. Violet<!-- -->",
+      "description": "Guinevere deals 25% extra damage to airborne enemies and deals ( +80% Total Physical Attack) (+60% Total Magic Power) (Magic Damage) with her Basic Attacks.\\nGuinevere builds Super Magic each time she deals damage. Once fully charged, her next Basic Attack becomes guided, dealing 80( +100% Total Physical Attack) (+120% Total Magic Power) (Magic damage) on hit and restoring 80 HP plus 8% of her lost HP.\\nEnemies hit by Guinevere's skills or enhanced Basic Attack will be marked for 5s. Those with 3 marks will be knocked airborne when hit by her Violet Requiem.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Guinevere deals 25% extra damage to airborne enemies and deals \"},{\"type\":\"text\",\"text\":\"( +80% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+60% Total Magic Power) (Magic Damage) with her Basic Attacks. \\nGuinevere builds Super Magic each time she deals damage. Once fully charged, her next Basic Attack becomes guided, dealing 80\"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Burst",
+        "Magic Damage"
+      ]
+    },
+    {
+      "slug": "gusion",
+      "name": "Gusion",
+      "title": "<!-- -->Holy Blade<!-- -->",
+      "description": "Each skill cast adds a rune to Gusion's dagger (stacks up to 4 times). Each stack enhances Gusion's next Basic Attack to deal additional damage equal to 3% of the target's lost HP and restore 50( +25% Total Magic Power) HP to himself.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each skill cast adds a rune to Gusion's dagger (stacks up to 4 times). Each stack enhances Gusion's next Basic Attack to deal additional damage equal to 3% of the target's lost HP and restore 50( +25% Total Magic Power) HP to himself.\"}],\"tips\":\"Because this skill's damage is based on the target's missing HP, it's suitable for finishing off enemies.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Because this skill's damage is based on the target's missing HP, it's suitable for finishing off enemies.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_dd599ad04fa456a864ea1e34e14d7739.png\",\"tags\":[\"Buff\",\"Heal\"]},{\"name\":\"Sword Spike\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Burst",
+        "Magic Damage"
+      ]
+    },
+    {
+      "slug": "hanabi",
+      "name": "Hanabi",
+      "title": "<!-- -->Scarlet Flower<!-- -->",
+      "description": "Hanabi's Basic Attacks and skills will launch Petal Blades after hitting a target, bouncing up to 4 times to nearby enemies (the first bounce deals 40% of the initial damage, and subsequent bounces deal 85% of the previous). Bounces from her Basic Attacks inherit a portion of Attack Effects.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Hanabi's Basic Attacks and skills will launch Petal Blades after hitting a target, bouncing up to 4 times to nearby enemies (the first bounce deals 40% of the initial damage, and subsequent bounces deal 85% of the previous). Bounces from her Basic Attacks inherit a portion of Attack Effects.\"}],\"tips\":\"The Scarlet Shadow’s secret technique. When Hanabi has full HP, health that would have been granted from Lifesteal is converted into a shield. When this shield is active, Hanabi is immune to all control effects.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"The Scarlet Shadow’s secret technique. When Hanabi has full HP, health that would have been granted from Lifesteal is converted into a shield. When this shield is active, Hanabi is immune to all control effects.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "hanzo",
+      "name": "Hanzo",
+      "title": "<!-- -->Akuma Ninja<!-- -->",
+      "description": "When units die near Hanzo, the demon Hanekage absorbs their souls and converts them into (Demon Blood).\\nHanzo gains 2 (Demon Blood) for each non-hero unit and 20 (Demon Blood) for each hero that dies in his vicinity.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When units die near Hanzo, the demon Hanekage absorbs their souls and converts them into \"},{\"type\":\"text\",\"text\":\"(Demon Blood)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\".\\nHanzo gains 2 \"},{\"type\":\"text\",\"text\":\"(Demon Blood)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" for each non-hero unit and 20 \"},{\"type\":\"text\",\"text\":\"(Demon Blood)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" for each hero that dies in his vicinity.\"}],\"tips\":\"Even when Hanzo is in a defensive status, he can also recover Demon Blood depending on his Passive. The sufficiency of Demon Blood is a must for Hanzo to perform attack or escape.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\" Even when Hanzo is in a defensive status, he can also recover Demon Blood depending on his Passive. The sufficiency of Demon Blood is a must for Hanzo to perform attack or escape.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Poke",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "harith",
+      "name": "Harith",
+      "title": "<!-- -->Time Traveler<!-- -->",
+      "description": "Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.\"}],\"tips\":\"This skill can minimize the debuffs when being controlled, so his survivability is ensured.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"This skill can minimize the debuffs when being controlled, so his survivability is ensured.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f5ef9a005278e374f023e9279989be02.png\",\"tags\":[\"Buff\"]},{\"name\":\"Synchro Fission\",\"type\":\"Skill 1\",\"description\":\"Harith creates a phantom of himself in a distant location. Harith and his phantom will then release (Synchro Fission) toward each other, dealing 236( +84% Total Magic Power) (Magic Damage) to all enemy units on the path. When the 2 energy waves collide, an explosion occurs, dealing 590( +210% Total Magic Power) (Magic Damage) to all enemies in the explosion area.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "harley",
+      "name": "Harley",
+      "title": "<!-- -->Mage Genius<!-- -->",
+      "description": "Harley's mastery of magic allows his Basic Attacks and skills to reduce the enemy's Magic Defense by 2 and increase his Attack Speed by 5%-10% (scales with level) for 3s on hit. This effect stacks up to 10 times.\\nHarley's Basic Attacks deal 60( +50% Total Physical Attack) (+60% Total Magic Power) (Magic Damage).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Harley's mastery of magic allows his Basic Attacks and skills to reduce the enemy's Magic Defense by 2 and increase his Attack Speed by 5%-10% (scales with level) for 3s on hit. This effect stacks up to 10 times.\\nHarley's Basic Attacks deal 60\"},{\"type\":\"text\",\"text\":\"( +50% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+60% Total Magic Power) (Magic Damage).\"}],\"tips\":\"Use basic attack on the enemy during the Ultimate, increasing the damage.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Use basic attack on the enemy during the Ultimate, increasing the damage.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_3e9d943a0869ad60139cba7c8d3a3f0f.png\",\"tags\":[\"Debuff\"]},{\"name\":\"Poker Trick\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Burst",
+        "Poke"
+      ]
+    },
+    {
       "slug": "hayabusa",
       "name": "Hayabusa",
-      "title": "Crimson Shadow",
-      "description": "Hayabusa is an isolation assassin designed to mark one target, eliminate them quickly, and escape before the enemy team can respond.",
+      "title": "<!-- -->Crimson Shadow<!-- -->",
+      "description": "Hayabusa's attacks apply a stack of (Shadow Mark) on hit (up to 4 stacks). Each stack lasts 6s and increases Hayabusa's damage to the enemy by 5%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Hayabusa's attacks apply a stack of \"},{\"type\":\"text\",\"text\":\"(Shadow Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on hit (up to 4 stacks). Each stack lasts 6s and increases Hayabusa's damage to the enemy by 5%.\"}],\"tips\":\"Use the combo, teleport right into the enemy + 1st skill. When your teleporting shadow hits and enemy, it counts to the stack of the passive and if all 3 shurikens hit the enemy, you heal some health. This passive does not work on minions.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Use the combo, teleport right into the enemy + 1st skill. When your teleporting shadow hits and enemy, it counts to the stack of the passive and if all 3 shurikens hit the enemy, you heal some health. This passive does not work on minions.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1255ed2b33be690a777dce8a797557c1.png\",\"tags\":[\"Buff\"]},{\"name\":\"Ninjutsu: Phantom Shuriken\",\"type\":\"Skill 1\",\"description\":",
       "difficulty": "Medium",
       "specialty": [
         "Chase",
@@ -25,14 +599,836 @@
       ]
     },
     {
-      "slug": "gusion",
-      "name": "Gusion",
-      "title": "Holy Blade",
-      "description": "Gusion is a high-mobility assassin who relies on fast skill combinations and precise positioning.",
+      "slug": "helcurt",
+      "name": "Helcurt",
+      "title": "<!-- -->Shadowbringer<!-- -->",
+      "description": "Helcurt remains in Prowler state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating (+30% Total Physical Attack) HP if he has not dealt any damage.\\nHe gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4s upon being spotted and leaves Prowler state 0.75s later.\\nAny hero killed after being hit by Helcurt leaves a dark fog that explodes and spreads with a cooldown of 10s. Helcurt Conceals himself while within the dark fog.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Helcurt remains in \"},{\"type\":\"text\",\"text\":\"Prowler\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating \"},{\"type\":\"text\",\"text\":\" (+30% Total Physical Attack)\",\"color\":\"#fba51f\"},{\"type\":\"text\",\"text\":\" HP if he has not dealt any damage.\\nHe gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4s upon being spotted and leaves \"},{\"type\":\"text\",\"text\":\"Prowler\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" state 0.75s later.\\nAny hero killed after being hit by Helcurt leaves a \"},{\"type\":\"text\",\"text\":\"dark fog\",\"color",
+      "difficulty": "Medium",
+      "specialty": [
+        "Push",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "hilda",
+      "name": "Hilda",
+      "title": "<!-- -->Power of Megalith<!-- -->",
+      "description": "Hilda regenerates 2% of her max HP per second while in the bush. When entering the bush, she gains a shield equal to 15% of her max HP. After leaving the bush, the shield lasts for 5s. This effect has a 10s cooldown.\\nHilda's Basic Attack and Skills apply a (Wilderness Mark) on hit, which lasts up to 4s and stacks up to 6. Each stack reduces the target's Physical Defense and Magic Defense by 4%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Hilda regenerates 2% of her max HP per second while in the bush. When entering the bush, she gains a shield equal to 15% of her max HP. After leaving the bush, the shield lasts for 5s. This effect has a 10s cooldown.\\nHilda's Basic Attack and Skills apply a \"},{\"type\":\"text\",\"text\":\"(Wilderness Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on hit, which lasts up to 4s and stacks up to 6. Each stack reduces the target's Physical Defense and Magic Defense by 4%.\"}],\"tips\":\"Her passive is a very strong tool for fights, she can always do trade damage in her lane then go to the bush to heal herself. Always maximize the use for this passive because it will help you a lot when laning.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Damage",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "hylos",
+      "name": "Hylos",
+      "title": "<!-- -->Grand Warden<!-- -->",
+      "description": "Hylos gains 1.5 extra Max HP for every 1 extra Max Mana he possesses.\\nWhen out of Mana, Hylos can use his HP for skill casts.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Hylos gains 1.5 extra Max HP for every 1 extra Max Mana he possesses.\\nWhen out of Mana, Hylos can use his HP for skill casts.\"}],\"tips\":\"It is recommended to build mana providing equipment, as it will also give you health at the same time. In some situations if you run out of mana, you may use health to cast skills and finish off enemies.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"It is recommended to build mana providing equipment, as it will also give you health at the same time. In some situations if you run out of mana, you may use health to cast skills and finish off enemies.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_81f19961357acccd7005193849dc05ac.png\",\"tags\":[\"Buff\"]},{\"name\":\"Law and Order\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Guard",
+        "Initiator"
+      ]
+    },
+    {
+      "slug": "irithel",
+      "name": "Irithel",
+      "title": "<!-- -->Jungle Heart<!-- -->",
+      "description": "Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal ( +55% Total Physical Attack) (Physical Damage) per bolt (inherits a portion of Attack Effects).\\nMoving will build up (Jungle Heart), up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt(s).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal \"},{\"type\":\"text\",\"text\":\"( +55% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" per bolt (inherits a portion of Attack Effects).\\nMoving will build up \"},{\"type\":\"text\",\"text\":\"(Jungle Heart)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt(s).\"}],\"tips\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Finisher",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "ixia",
+      "name": "Ixia",
+      "title": "<!-- -->Arclight Outlaw<!-- -->",
+      "description": "Ixia's Basic Attacks and skills apply a stack of (Starlium Charge) to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of (Starlium Charge), the attack will consume the stacks and be replaced with (Siphon Starlium), dealing ( +150% Total Physical Attack) (+20000% Lifesteal) plus (+10*Hero Level) (Physical Damage) to the target. Ixia recovers HP equal to the damage dealt by (Siphon Starlium) (only 20(+10000% Lifesteal)% against non-hero units).\\n(Siphon Starlium) can trigger on all enemies in front of Ixia that are within her Basic Attack range, but it cannot Crit.\\nIxia's Basic Attacks cannot trigger Lifesteal.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Ixia's Basic Attacks and skills apply a stack of \"},{\"type\":\"text\",\"text\":\"(Starlium Charge)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of \"},{\"type\":\"text\",\"text\":\"(Starlium Charge)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", the attack will consume the stacks and be replaced with \"},{\"type\":\"text\",\"text\":\"(Siphon Starlium)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", dealing \"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "jawhead",
+      "name": "Jawhead",
+      "title": "<!-- -->Steel Sweetheart<!-- -->",
+      "description": "Each time Jawhead deals damage to a target, he inflicts a stack of Mecha Suppression on them for 3s (up to 10 stacks). Each stack of Mecha Suppression increases the amount of Basic Attack damage Jawhead deals to the target by 8%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each time Jawhead deals damage to a target, he inflicts a stack of Mecha Suppression on them for 3s (up to 10 stacks). Each stack of Mecha Suppression increases the amount of Basic Attack damage Jawhead deals to the target by 8%.\"}],\"tips\":\"Try to focus attacks on the same target, as this can quickly stack your passive, resulting in higher attack damage.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Try to focus attacks on the same target, as this can quickly stack your passive, resulting in higher attack damage.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_be1d9f5cde5273770efe9549f6d374e0.png\",\"tags\":[\"Buff\"]},{\"name\":\"Smart Missiles\",\"type\":\"Skill 1\",\"description\":\"Jawhead launches up to 12 missiles at random nearby enemies over 5s, each missile dealing 135( +30% Total Physical Attack) (Physical Damage) to the enemy hit.\",\"descriptionRich\":[{",
+      "difficulty": "Medium",
+      "specialty": [
+        "Charge",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "johnson",
+      "name": "Johnson",
+      "title": "<!-- -->Wild Engine<!-- -->",
+      "description": "When Johnson's HP drops below 30%, he gains a 300( +700% Total Physical Defense) shield for 10s. Cooldown: 100s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When Johnson's HP drops below 30%, he gains a 300( +700% Total Physical Defense) shield for 10s. Cooldown: 100s.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_df5fccf91538ea84c5ce22d59d217a5a.png\",\"tags\":[\"Shield\"]},{\"name\":\"Impact Wrench\",\"type\":\"Skill 1\",\"description\":\"Johnson throws his wrench toward the target location, dealing 120( +220% Total Physical Defense) (Magic Damage) to enemies in its path. Enemies around the landing point are stunned for 0.8s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Johnson throws his wrench toward the target location, dealing 120( +220% Total Physical Defense) (Magic Damage) to enemies in its path. Enemies around the landing point are stunned for 0.8s.\"}],\"cooldown\":\"8s\",\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_931a5157d2fadc2f1fe0d6d4941c2939.png\",\"tags\":[\"CC\",\"AOE\"]},{\"name\":\"Electromagnetic Waves\",\"type\":\"Skill 2\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Support",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "joy",
+      "name": "Joy",
+      "title": "<!-- -->Pirate Fairy<!-- -->",
+      "description": "Joy becomes (Angry!) each time her skill hits a non-Minion enemy, dealing 100( +100% Total Magic Power) (Magic Damage) and increasing her Movement Speed by 60% that decays over 4s (hitting the (Leonin Crystal) will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target.\\nJoy's Basic Attack will deal 65( +25% Total Physical Attack) (+65% Total Magic Power) (Magic Damage).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Joy becomes \"},{\"type\":\"text\",\"text\":\"(Angry!)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time her skill hits a non-Minion enemy, dealing 100( +100% Total Magic Power) (Magic Damage) and increasing her Movement Speed by 60% that decays over 4s (hitting the \"},{\"type\":\"text\",\"text\":\"(Leonin Crystal)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target.\\nJoy's Basic Attack will deal 65\"},{\"type\":\"text\",\"text\":\"( +25% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+65% Total Magic Power) (Magic Damage).\"}],\"tips\":\"This Passive skill grants you more agility and protection!\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Chase",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "julian",
+      "name": "Julian",
+      "title": "<!-- -->Scarlet Raven<!-- -->",
+      "description": "After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9-6s Cooldown (decreases with his level), but his Basic Attacks within the next 5s will deal 75( +100% Total Physical Attack) (+120% Total Magic Power) (Magic Damage) and pull the target toward him.\\nJulian gains 15% extra Hybrid Lifesteal for 5s each time he hits an enemy hero with his skills (up to 3 stacks).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9-6s Cooldown (decreases with his level), but his Basic Attacks within the next 5s will deal 75\"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+120% Total Magic Power) (Magic Damage) and pull the target toward him.\\nJulian gains 15% extra Hybrid Lifesteal for 5s each time he hits an enemy hero with his skills (up to 3 stacks).\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_d6959e0e4dc3c4aebc7d311b1d96a1f4.png\",\"tags\":[\"Buff\"]},{\"name\":\"Scythe\",\"type\":\"Skill 1\",",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Magic Damage"
+      ]
+    },
+    {
+      "slug": "kadita",
+      "name": "Kadita",
+      "title": "<!-- -->Ocean Goddess<!-- -->",
+      "description": "Kadita gains the (Blessing of the Ocean) every 30s. The Blessing is triggered when she takes damage from enemy heroes and lasts 4s, allowing her to recover 65% of the HP lost within the duration afterward.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Kadita gains the \"},{\"type\":\"text\",\"text\":\"(Blessing of the Ocean)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" every 30s. The Blessing is triggered when she takes damage from enemy heroes and lasts 4s, allowing her to recover 65% of the HP lost within the duration afterward.\"}],\"tips\":\"Use her 1st skill when the passive is stacked and poke enemies while taking no damage.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Use her 1st skill when the passive is stacked and poke enemies while taking no damage.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_cd01187439b79c1916a9c74a3b34a006.png\",\"tags\":[\"Heal\"]},{\"name\":\"Ocean Ode\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Burst",
+        "Charge"
+      ]
+    },
+    {
+      "slug": "kagura",
+      "name": "Kagura",
+      "title": "<!-- -->Onmyouji Master<!-- -->",
+      "description": "Upon retrieving the (Seimei Umbrella), Kagura gains a 280( +50% Total Magic Power) shield, stuns nearby enemies for 0.5s, and slows them by 60% for 1s. Cooldown: 4.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Upon retrieving the \"},{\"type\":\"text\",\"text\":\"(Seimei Umbrella)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", Kagura gains a 280( +50% Total Magic Power) shield, stuns nearby enemies for 0.5s, and slows them by 60% for 1s. Cooldown: 4.5s.\"}],\"tips\":\"One of your most important skills, this is what makes her an insane poking machine..\\nReuniting with her umbrella would trigger the passive, which gives her a mini stun and a tiny shield.\\nThere are 3 ways in reuniting with the umbrella that could trigger her passive.\\nWalking out of range from the umbrella\\nUsing “2” to teleport to the umbrella\\nWalking over to the umbrella.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"One of your most important skills, this is what makes her an insane poking machine..\"},{\"type\":\"lineBreak\"},{\"type\":\"text\",\"text\":\"Reuniting with her umbrella would trigger the passive, which gives her a mini stun and a tiny shield.\"},{\"type\":\"lineBreak\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Poke",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "kaja",
+      "name": "Kaja",
+      "title": "<!-- -->Nazar King<!-- -->",
+      "description": "Kaja achieves Wrath Sanction every 6s. His next Basic Attack will send lightning at enemies, dealing (Magic Damage) equal to 100( +100% Total Magic Power) plus 4% of targets' Max HP and (paralyzing) them. The lightning will jump to enemies nearby as well (up to 3 times).\\nIncreases damage by 200% of targets' Max HP on Minions and Creeps.\\n(Paralyze): Slows enemy heroes and summons while reducing their damage by 3% (up to 8 stacks) for 5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Kaja achieves Wrath Sanction every 6s. His next Basic Attack will send lightning at enemies, dealing (Magic Damage) equal to 100( +100% Total Magic Power) plus 4% of targets' Max HP and \"},{\"type\":\"text\",\"text\":\"(paralyzing)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" them. The lightning will jump to enemies nearby as well (up to 3 times).\\nIncreases damage by 200% of targets' Max HP on Minions and Creeps.\\n\"},{\"type\":\"text\",\"text\":\"(Paralyze)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\": Slows enemy heroes and summons while reducing their damage by 3% (up to 8 stacks) for 5s.\"}],\"tips\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Control",
+        "Charge"
+      ]
+    },
+    {
+      "slug": "kalea",
+      "name": "Kalea",
+      "title": "<!-- -->Surging Wave<!-- -->",
+      "description": "After casting a skill, Kalea creates a Water Zone on the ground. When Kalea casts a skill within this zone, she will absorb the Water Zone to enhance her next three Basic Attacks with different effects:\\nFirst Basic Attack: Kalea dashes to the target, dealing (+100% Total Physical Attack) Physical Damage.\\nSecond Basic Attack: Kalea unleashes a flurry of attacks, dealing 140 (+8*Hero Level) (+100% Total Physical Attack) Physical Damage and recovering 40 (+10% Total HP) (+60% Total Magic Power) HP for herself and the nearby ally with the lowest HP.\\nThird Basic Attack: Kalea uses her tail to strike the area around her target, dealing 70 (+4*Hero Level) (+100% Total Physical Attack) Physical Damage and creating a new Water Zone. Enhanced Basic Attacks are not affected by Attack Speed.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After casting a skill, Kalea creates a \"},{\"type\":\"text\",\"text\":\"Water Zone\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" on the ground. When Kalea casts a skill within this zone, she will absorb the Water Zone to enhance her next three Basic Attacks with different effects:\\nFirst Basic Attack: Kalea dashes to the target, dealing \"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Control",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "karina",
+      "name": "Karina",
+      "title": "<!-- -->Shadow Blade<!-- -->",
+      "description": "Karina's third consecutive attack on the same enemy deals extra (True Damage) equal to 50 plus 5( +3% Total Magic Power)% of their lost HP (up to 2000 (True Damage) against creeps).\\nIf the target is an enemy hero, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Karina's third consecutive attack on the same enemy deals extra (True Damage) equal to 50 plus 5( +3% Total Magic Power)% of their lost HP (up to 2000 (True Damage) against creeps).\\nIf the target is an enemy hero, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5s.\"}],\"tips\":\"This is Karina's key skill for securing kills, due to it doing more damage to low health targets. The true damage effect ignores the enemy's physical and magical resists.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"This is Karina's key skill for securing kills, due to it doing more damage to low health targets. The true damage effect ignores the enemy's physical and magical resists.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_fb37b0cbc5e9952ec756e3f58c5df22f.png\",\"tags\":[\"Buff\",\"Damage\"]},{\"name\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Magic Damage"
+      ]
+    },
+    {
+      "slug": "karrie",
+      "name": "Karrie",
+      "title": "<!-- -->Lost Star<!-- -->",
+      "description": "Karrie's Basic Attacks and skills apply a stack of (Lightwheel Mark) on hit. Once a target has 5 stacks of (Lightwheel Marks), the marks will turn into a lightwheel, dealing (True Damage) equal to 5( +1% Extra Physical Attack)% of the target's Max HP to them (only up to 300 damage against Creeps).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Karrie's Basic Attacks and skills apply a stack of \"},{\"type\":\"text\",\"text\":\"(Lightwheel Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on hit. Once a target has 5 stacks of \"},{\"type\":\"text\",\"text\":\"(Lightwheel Marks)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", the marks will turn into a lightwheel, dealing (True Damage) equal to 5\"},{\"type\":\"text\",\"text\":\"( +1% Extra Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\"% of the target's Max HP to them (only up to 300 damage against Creeps).\"}],\"tips\":\"Because this passive skill deal percentage damage instead of static damage , it is best used to enemy with high health . The bigger the maximum HP , the bigger the damage.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "khaleed",
+      "name": "Khaleed",
+      "title": "<!-- -->Desert Scimitar<!-- -->",
+      "description": "Khaleed accumulates (Desert Power) while moving. After (Desert Power) is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next Basic Attack deal 50( +140% Total Physical Attack) (Physical Damage) to the target (cannot Crit), and reducing the target's Movement Speed by 40% for 1.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Khaleed accumulates \"},{\"type\":\"text\",\"text\":\"(Desert Power)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" while moving. After \"},{\"type\":\"text\",\"text\":\"(Desert Power)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next Basic Attack deal 50\"},{\"type\":\"text\",\"text\":\"( +140% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" to the target (cannot Crit), and reducing the target's Movement Speed by 40% for 1.5s.\"}],\"tips\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Damage",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "khufra",
+      "name": "Khufra",
+      "title": "<!-- -->Desert Tyrant<!-- -->",
+      "description": "Khufra activates the Spell Curse left by Esmeralda every 12s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals (Magic Damage) equal to ( +120% Total Physical Attack) plus 6% of the target's Max HP. He also slows the target by 30% for 1.5s and heals 8% of his Max HP on hit.\\nEach time Khufra applies a control effect to an enemy hero with his skill, the cooldown of (Spell Curse) is reduced by 4s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Khufra activates the Spell Curse left by Esmeralda every 12s, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range and deals (Magic Damage) equal to \"},{\"type\":\"text\",\"text\":\"( +120% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" plus 6% of the target's Max HP. He also slows the target by 30% for 1.5s and heals 8% of his Max HP on hit.\\nEach time Khufra applies a control effect to an enemy hero with his skill, the cooldown of \"},{\"type\":\"text\",\"text\":\"(Spell Curse)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" is reduced by 4s.\"}],\"tips\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Initiator",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "kimmy",
+      "name": "Kimmy",
+      "title": "<!-- -->Hoverjet Outrider<!-- -->",
+      "description": "Kimmy can move and aim in different directions while using her Spray Gun, but she cannot lock onto a specific target. Each Chemical Bolt deals (+18% Total Physical Attack) (+24% Total Magic Power) Magic Damage. Hitting enemy heroes or non-hero units restores 6 / 3 Starlium, respectively. At max Starlium, she continuously consumes it to enhance her Basic Attacks, making them deal (+22.5% Total Physical Attack) (+30% Total Magic Power) damage and pierce targets (enhanced Basic Attacks only benefit from 50% Spell Vamp).\\nKimmy can keep moving while shooting and does not benefit from Attack Speed Bonus. Every 1% Attack Speed gained is converted to 1 Magic Power.\\nKimmy's Basic Attacks only deal 60% damage to Turrets.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Kimmy can move and aim in different directions while using her Spray Gun, but she cannot lock onto a specific target. Each \"},{\"type\":\"text\",\"text\":\"Chemical Bolt\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" deals \"},{\"type\":\"text\",\"text\":\" (+18% Total Physical Attack)\",\"color\":\"#fba51f\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(+24% Total Magic Power)\",\"color\":\"#62f8fe\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Damage",
+        "Magic Damage"
+      ]
+    },
+    {
+      "slug": "lancelot",
+      "name": "Lancelot",
+      "title": "<!-- -->Blade of Roses<!-- -->",
+      "description": "Each time Lancelot charges, his damage is increased by 7.5% for 4s, up to 30%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each time Lancelot charges, his damage is increased by 7.5% for 4s, up to 30%.\"}],\"tips\":\"While engaging Solo or with the teammates.First Hit the second ability to make damage then the first ability to make some combos and to distract the enemy, then finish him with the Ultimate if he still alive then hit the second ability again.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"While engaging Solo or with the teammates.First Hit the second ability to make damage then the first ability to make some combos and to distract the enemy, then finish him with the Ultimate if he still alive then hit the second ability again.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ae0f65f46319169e0086c9249b921b16.png\",\"tags\":[\"Buff\"]},{\"name\":\"Puncture\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "lapu-lapu",
+      "name": "Lapu-Lapu",
+      "title": "<!-- -->Courageous Blade<!-- -->",
+      "description": "Lapu-Lapu accumulates 10 (Bravery Blessing) each time he deals damage (halved for damage dealt to non-hero units). When (Bravery Blessing) is full, Lapu-Lapu's next (Basic Attack) will make him dash toward the target, dealing ( +150% Total Physical Attack) (Physical Damage) (cannot Crit) and granting him a shield that absorbs 250 (+65*Hero Level) damage for 2.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Lapu-Lapu accumulates 10 \"},{\"type\":\"text\",\"text\":\"(Bravery Blessing)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time he deals damage (halved for damage dealt to non-hero units). When \"},{\"type\":\"text\",\"text\":\"(Bravery Blessing)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" is full, Lapu-Lapu's next \"},{\"type\":\"text\",\"text\":\"(Basic Attack)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" will make him dash toward the target, dealing \"},{\"type\":\"text\",\"text\":\"( +150% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" (cannot Crit) and granting him a shield that absorbs 250 (+65*Hero Level) damage for 2.5s.\"}],\"tips\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "layla",
+      "name": "Layla",
+      "title": "<!-- -->Energy Gunner<!-- -->",
+      "description": "Layla deals increased damage to enemies farther away from her (starting at 100% and increasing to 115% at 6 units away). This does not include Turrets.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Layla deals increased damage to enemies farther away from her (starting at 100% and increasing to 115% at 6 units away). This does not include Turrets.\"}],\"tips\":\"Keep a long distance from your foe if you want to beat your foes easily. This is quiet useful for her by the way.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Keep a long distance from your foe if you want to beat your foes easily. This is quiet useful for her by the way.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ba25b082b2a373138d398a32499e0544.png\",\"tags\":[\"Buff\"]},{\"name\":\"Malefic Bomb\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "leomord",
+      "name": "Leomord",
+      "title": "<!-- -->Sworn Sword<!-- -->",
+      "description": "Leomord's Basic Attacks are guaranteed to Crit against enemies below 50% Max HP, dealing 200% damage.\\nLeomord converts every 1% Crit Chance gained into 1 Physical Attack.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Leomord's Basic Attacks are guaranteed to Crit against enemies below 50% Max HP, dealing 200% damage.\\nLeomord converts every 1% Crit Chance gained into 1 Physical Attack.\"}],\"tips\":\"Passive effects make it easy for Leomord to finish off low-HP units. Making good use of 2 other skills in the mounted state, and Leomord could cut into fights and reduce enemies’ HP to below 30% and slay them with basic attacks in combination with skill “Inspire”.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Passive effects make it easy for Leomord to finish off low-HP units. Making good use of 2 other skills in the mounted state, and Leomord could cut into fights and reduce enemies’ HP to below 30% and slay them with basic attacks in combination with skill “Inspire”.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_04b94a8560d7cba08238b017a929611e.png\",\"tags\":[\"Buff\"]},{\"name\":\"Momentum\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "lesley",
+      "name": "Lesley",
+      "title": "<!-- -->Deadly Sniper<!-- -->",
+      "description": "If Lesley doesn't take damage for 5s, her next Basic Attack gains extra range and 50% Crit Chance and deals 100( +100% Total Physical Attack) (True Damage) (20% extra damage against minions).\\nEach point of fixed Physical Penetration Lesley acquires is converted into 0.5% Crit Damage, but her base Crit Damage is reduced to 130%.\\nLesley's Basic Attack restores 5 points of energy and her (Lethal Shot) doubles the amount of energy restored. The (Lethal Shot) effect will activate immediately after Lesley uses a skill.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"If Lesley doesn't take damage for 5s, her next Basic Attack gains extra range and 50% Crit Chance and deals 100\"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (True Damage) (20% extra damage against minions).\\nEach point of fixed Physical Penetration Lesley acquires is converted into 0.5% Crit Damage, but her base Crit Damage is reduced to 130%.\\nLesley's Basic Attack restores 5 points of energy and her \"},{\"type\":\"text\",\"text\":\"(Lethal Shot)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" doubles the amount of energy restored. The \"},{\"type\":\"text\",\"text\":\"(Lethal Shot)\",\"color\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "ling",
+      "name": "Ling",
+      "title": "<!-- -->Cyan Finch<!-- -->",
+      "description": "Ling's superb Lightness Skill allows him to leap among walls. He gains 4 extra Lightness Points per second when he's on a wall and 5 extra Lightness Points each time he deals damage.\\nLing gains 1.5 times Crit Chance from all sources but only has 150% Crit Damage.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Ling's superb Lightness Skill allows him to leap among walls. He gains 4 extra Lightness Points per second when he's on a wall and 5 extra Lightness Points each time he deals damage.\\nLing gains 1.5 times Crit Chance from all sources but only has 150% Crit Damage.\"}],\"tips\":\"Ling's superb lightness skill helps him leap from wall to wall to chase enemies. When resting on the wall, Ling restores extra Lightness Points per second. Every time Ling deals damage to enemies, he restores extra Lightness Points. Ling’s lightness skill grants him Crit Chance, but decreases his Crit Damage.\\n\\nThe Crit Chance of Ling’s Passive Skill grants him the possibility of dealing Burst DMG in Early Game. With proper equipment and emblems, the Crit Chance could greatly increase the burst DMG he deals.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "lolita",
+      "name": "Lolita",
+      "title": "<!-- -->Steel Elf<!-- -->",
+      "description": "Every 2.5s, the Noumenon Energy Core grants a 50 (+10*Hero Level) shield to Lolita and nearby allies. This shield can stack up to 6 times and lasts 30s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Every 2.5s, the Noumenon Energy Core grants a 50 (+10*Hero Level) shield to Lolita and nearby allies. This shield can stack up to 6 times and lasts 30s.\"}],\"tips\":\"If Lolita already has a shield and shield is fully charged, nearby Allies will receive the shield. So if there are 4 allies around you that doesnt have a shield, they will all receive it at the same time.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"If Lolita already has a shield and shield is fully charged, nearby Allies will receive the shield. So if there are 4 allies around you that doesnt have a shield, they will all receive it at the same time.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_8c26e0d0018fb46934ec1e079ddbe695.png\",\"tags\":[\"Shield\"]},{\"name\":\"Power Charge\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Guard",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "lukas",
+      "name": "Lukas",
+      "title": "<!-- -->Beast of Light<!-- -->",
+      "description": "Lukas gains 0.5 Resolve per second and 2 Resolve when dealing damage to heroes.\\nUpon reaching 100 Resolve, he can use Unleash the Beast to transform into Sacred Beast.\\n\\nSacred Beast: Greatly increases combat attributes. He continuously consumes Resolve and ends when Resolve is depleted.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Lukas gains 0.5 \"},{\"type\":\"text\",\"text\":\"Resolve\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" per second and 2 \"},{\"type\":\"text\",\"text\":\"Resolve\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" when dealing damage to heroes.\\nUpon reaching 100 Resolve, he can use \"},{\"type\":\"text\",\"text\":\"Unleash the Beast\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" to transform into \"},{\"type\":\"text\",\"text\":\"Sacred Beast\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\".\\n\\n\"},{\"type\":\"text\",\"text\":\"Sacred Beast\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\": Greatly increases combat attributes. He continuously consumes \"},{\"type\":\"text\",\"text\":\"Resolve\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" and ends when \"},{\"type\":\"text\",\"text\":\"Resolve\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" is depleted.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Regen",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "lunox",
+      "name": "Lunox",
+      "title": "<!-- -->Twilight Goddess<!-- -->",
+      "description": "Lunox is twisted by the powers of Chaos and Order.\\nWhen Lunox uses (Power of Order), she gains 1% Spell Vamp for every 1% (Magic Penetration).\\nWhen Lunox uses (Power of Chaos), she gains 1% (Magic Penetration) for every 1% of Spell Vamp.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Lunox is twisted by the powers of Chaos and Order.\\nWhen Lunox uses \"},{\"type\":\"text\",\"text\":\"(Power of Order)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", she gains 1% Spell Vamp for every 1% (Magic Penetration).\\nWhen Lunox uses \"},{\"type\":\"text\",\"text\":\"(Power of Chaos)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", she gains 1% (Magic Penetration) for every 1% of Spell Vamp.\"}],\"tips\":\"Chaos Assault is recommended when there’s advantage in attack, which grants magic PEN for higher damage dealt. Select Starlight Pulse in laning to boost double resist.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Chaos Assault is recommended when there’s advantage in attack, which grants magic PEN for higher damage dealt. Select Starlight Pulse in laning to boost double resist.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
       "difficulty": "Hard",
       "specialty": [
         "Burst",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "luo-yi",
+      "name": "Luo Yi",
+      "title": "<!-- -->Yin-yang Geomancer<!-- -->",
+      "description": "Luo Yi's skills can create (Sigils of Yin/Yang) on the battlefield. Each Sigil lasts up to 6s.\\nSigils of opposite attributes will trigger (Yin-Yang Reaction) when they are within a certain distance, dealing 365 (+20*Hero Level) (+190% Total Magic Power) (Magic Damage) to the marked enemies, stunning them for 0.3s, and pulling them toward each other.\\nEach time Luo Yi applies a new Sigil to a marked enemy, she gains a 300 (+10*Hero Level) (+150% Total Magic Power) shield (up to 3 stacks) and 50% extra Movement Speed that decays over 2s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Luo Yi's skills can create \"},{\"type\":\"text\",\"text\":\"(Sigils of Yin/Yang)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on the battlefield. Each Sigil lasts up to 6s.\\nSigils of opposite attributes will trigger \"},{\"type\":\"text\",\"text\":\"(Yin-Yang Reaction)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Support",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "lylia",
+      "name": "Lylia",
+      "title": "<!-- -->Little Witch<!-- -->",
+      "description": "Lylia gets power from Gloom, increasing her Movement Speed by 15%. Each Gloom upgrade further increases this bonus by 5%.\\nGloom gains an upgrade every time he devours Shadow Energy, up to 5 times. Gloom upgrade increases the detonation damage of Shadow Energy.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Lylia gets power from Gloom, increasing her Movement Speed by 15%. Each Gloom upgrade further increases this bonus by 5%.\\nGloom gains an upgrade every time he devours Shadow Energy, up to 5 times. Gloom upgrade increases the detonation damage of Shadow Energy.\"}],\"tips\":\"Lylia gets power from Gloom, increasing her Movement Speed. Each time Gloom levels up, she will increase extra Movement Speed. Gloom will increase his levels by devouring Shadow Energy. Up to 5. The higher his level is, the more damage he can deal.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Lylia gets power from Gloom, increasing her Movement Speed. Each time Gloom levels up, she will increase extra Movement Speed. Gloom will increase his levels by devouring Shadow Energy. Up to 5. The higher his level is, the more damage he can deal.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Push",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "marcel",
+      "name": "Marcel",
+      "title": "<!-- -->Split-Soul Artist<!-- -->",
+      "description": "Marcel's split soul, Clemar, enters the camera to freeze the moment. His Basic Attacks deal 50 (+40% Total Physical Attack)(+40% Total Magic Defense)(+40% Total Physical Defense) Physical Damage. His Extra HP is converted into 1.5% Hybrid Defense.\\n\\nClemar automatically snaps photos of enemy heroes near Marcel, causing a brief Frozen Moment and dealing 20 (+ 5% of Max HP) True Damage (triggers Attack Effects). It also grants a shield of the same value to Marcel and a nearby allied hero. Cooldown: 12s per target.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Marcel's split soul, \"},{\"type\":\"text\",\"text\":\"Clemar\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\", enters the camera to freeze the moment. His Basic Attacks deal 50\"},{\"type\":\"text\",\"text\":\" (+40% Total Physical Attack)\",\"color\":\"#fba51f\"},{\"type\":\"text\",\"text\":\"(+40% Total Magic Defense)\",\"color\":\"#62f8fe\"},{\"type\":\"text\",\"text\":\"(+40% Total Physical Defense)\",\"color\":\"#fba51f\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"Physical Damage\",\"color\":\"#fb1f1f\"},{\"type\":\"text\",\"text\":\". His Extra HP is converted into 1.5% Hybrid Defense.\\n\\n\"},{\"type\":\"text\",\"text\":\"Clemar\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Crowd Control",
+        "Support"
+      ]
+    },
+    {
+      "slug": "martis",
+      "name": "Martis",
+      "title": "<!-- -->Ashura King<!-- -->",
+      "description": "Each time Martis uses a skill, his Attack Speed will be increased by 30%, 120% maximum. Lasts 4s. He gains (+8*Hero Level) extra Attack at full stacks.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each time Martis uses a skill, his Attack Speed will be increased by 30%, 120% maximum. Lasts 4s. He gains (+8*Hero Level) extra Attack at full stacks.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f48a1786aeb1572d0309f509ddd0b444.png\",\"tags\":[\"Buff\"]},{\"name\":\"Asura Aura\",\"type\":\"Skill 1\",\"description\":\"Martis draws enemies to a fan-shaped area in front of him and deals 350 (+130% Extra Physical Attack) Physical Damage, slowing them by 40% for 2s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Martis draws enemies to a fan-shaped area in front of him and deals 350\"},{\"type\":\"text\",\"text\":\" (+130% Extra Physical Attack)\",\"color\":\"#fba51f\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"Physical Damage\",\"color\":\"#fb1f1f\"},{\"type\":\"text\",\"text\":\", slowing them by 40% for 2s. \"}],\"cooldown\":\"7s\",\"manaCost\":null,\"icon\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Charge"
+      ]
+    },
+    {
+      "slug": "mathilda",
+      "name": "Mathilda",
+      "title": "<!-- -->Swift Plume<!-- -->",
+      "description": "Mathilda gains (Ancestral Guidance) while moving. When it's fully charged, her next Basic Attack will be enhanced, dealing 200( +100% Total Physical Attack) (+100% Total Magic Power) (Magic Damage) to the target and granting her 80 extra Movement Speed that decays over 2.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Mathilda gains \"},{\"type\":\"text\",\"text\":\"(Ancestral Guidance)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" while moving. When it's fully charged, her next Basic Attack will be enhanced, dealing 200\"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+100% Total Magic Power) (Magic Damage) to the target and granting her 80 extra Movement Speed that decays over 2.5s.\"}],\"tips\":\"Mathilda gains Ancestral Guidance while moving. When it is fully charged, her next Basic Attack will be enhanced, dealing extra Damage to the target and increasing her Movement Speed.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Mathilda gains Ancestral Guidance while moving. When it is fully charged, her next Basic Attack will be enhanced, dealing extra Damage to the target and increasing her Movement Speed.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Initiator",
+        "Guard"
+      ]
+    },
+    {
+      "slug": "melissa",
+      "name": "Melissa",
+      "title": "<!-- -->Cursed Needle<!-- -->",
+      "description": "\\\"My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?\\\"\\n(Melissa deals 125% damage to Minions, Creeps, and Summoned Units.)\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"\\\"My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?\\\"\\n(Melissa deals 125% damage to Minions, Creeps, and Summoned Units.)\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1885d2903ffe007effddfef83f69f28f.png\",\"tags\":[\"Buff\"]},{\"name\":\"Falling!\",\"type\":\"Skill 1\",\"description\":\"\\\"Watch me slide forward and increase my Attack Speed for 3 seconds— Ah, that was just boring…\\\"\\n\\\"(Muddles), go that way!\\\"\\n\\\"(Cuddles), come here!\\\"\\n(The skill's cooldown is reduced by 0.5s each time Melissa damages the enemy by attacking (Muddles).)\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"\\\"Watch me slide forward and increase my Attack Speed for 3 seconds— Ah, that was just boring…\\\"\\n\\\"\"},{\"type\":\"text\",\"text\":\"(Muddles)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", go that way!\\\"\\n\\\"\"},{\"type\":\"text\",\"text\":\"(Cuddles)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", come here!\\",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "minotaur",
+      "name": "Minotaur",
+      "title": "<!-- -->Son of Minos<!-- -->",
+      "description": "When Minotaur applies a control effect to an enemy hero with a skill, he will also reduce their Hybrid Defense by 5 (+0.5*Hero Level) for 2s. When Minotaur heals an ally hero with a skill, he will also increase their Hybrid Defense by 5 (+0.5*Hero Level) for 2s. These effects are doubled in (Enraged) state.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When Minotaur applies a control effect to an enemy hero with a skill, he will also reduce their Hybrid Defense by 5 (+0.5*Hero Level) for 2s. When Minotaur heals an ally hero with a skill, he will also increase their Hybrid Defense by 5 (+0.5*Hero Level) for 2s. These effects are doubled in \"},{\"type\":\"text\",\"text\":\"(Enraged)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" state.\"}],\"tips\":\"Be always on the lead. Position yourself in front of the creeps and more often, in front of the hero you're sharing the lane with. This will force your enemy hero and creeps to attack you first which will help your rage meter to be filled.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "minsitthar",
+      "name": "Minsitthar",
+      "title": "<!-- -->Courageous Warrior<!-- -->",
+      "description": "Minsitthar's Basic Attacks and skills apply a stack of (Mark of the King), up to 5 stacks. Upon reaching max stacks, the next attack detonates all (Mark of the King) stacks, dealing (Physical Damage) equal to 300( +6% Total HP) of Minsitthar's Max HP and stunning the target for 0.8s while healing Minsitthar for 300( +6% Total HP) HP. Can only trigger once every 6s on the same target.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Minsitthar's Basic Attacks and skills apply a stack of \"},{\"type\":\"text\",\"text\":\"(Mark of the King)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", up to 5 stacks. Upon reaching max stacks, the next attack detonates all \"},{\"type\":\"text\",\"text\":\"(Mark of the King)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" stacks, dealing \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" equal to 300( +6% Total HP) of Minsitthar's Max HP and stunning the target for 0.8s while healing Minsitthar for 300( +6% Total HP) HP. Can only trigger once every 6s on the same target.\"}],\"tips\":\"With this passive, Minsithar can perform more ganks with his teammates without the worry of his farming falling behind.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Initiator",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "miya",
+      "name": "Miya",
+      "title": "<!-- -->Moonlight Archer<!-- -->",
+      "description": "Each time Miya hits a target with her Basic Attack, she gains 5% Attack Speed for 4s. Stacks up to 5 times.\\nAfter reaching full stacks, Miya summons a (Moonlight Shadow) with each Basic Attack that deals 30( +30% Total Physical Attack) (Physical Damage) and inherits a portion of Attack Effects.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each time Miya hits a target with her Basic Attack, she gains 5% Attack Speed for 4s. Stacks up to 5 times.\\nAfter reaching full stacks, Miya summons a \"},{\"type\":\"text\",\"text\":\"(Moonlight Shadow)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" with each Basic Attack that deals 30\"},{\"type\":\"text\",\"text\":\"( +30% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" and inherits a portion of Attack Effects.\"}],\"tips\":\"Miya’s basic attacks increase her attack speed, so her damage will increase the longer she stays in combat. Before engaging a hero, try to build up and maintain your passive attack speed boost by continually attacking minions.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "moskov",
+      "name": "Moskov",
+      "title": "<!-- -->Spear of Quiescence<!-- -->",
+      "description": "Moskov's Basic Attacks can penetrate the target and deal ( +68% Total Physical Attack)-( +110% Total Physical Attack) (Physical Damage) to enemies behind them (inherits Attack Effects). Each Basic Attack hit reduces the cooldowns of (Abyss Walker) and (Spear of Misery) by 0.8s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Moskov's Basic Attacks can penetrate the target and deal \"},{\"type\":\"text\",\"text\":\"( +68% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\"-\"},{\"type\":\"text\",\"text\":\"( +110% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" to enemies behind them (inherits Attack Effects). Each Basic Attack hit reduces the cooldowns of \"},{\"type\":\"text\",\"text\":\"(Abyss Walker)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" and \"},{\"type\":\"text\",\"text\":\"(Spear of Misery)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" by 0.8s.\"}],\"tips\":\"On a team clash always keep an eye where enemy heroes will be closer to each other or they align on a perpendicular manner, this will give more advantage for you since you can take hits on them and share the damage.\",\"tipsRich\":[{\"type\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Chase"
+      ]
+    },
+    {
+      "slug": "nana",
+      "name": "Nana",
+      "title": "<!-- -->Feline Wizard<!-- -->",
+      "description": "Upon taking fatal damage, Nana removes all debuffs on her and transforms, becoming untargetable and invincible, and gains 30% Movement Speed for 2s. She also recovers 10% Max HP over the duration.\\nNana can only transform once every 150s and cannot cast skills in the transformed form.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Upon taking fatal damage, Nana removes all debuffs on her and transforms, becoming untargetable and invincible, and gains 30% Movement Speed for 2s. She also recovers 10% Max HP over the duration.\\nNana can only transform once every 150s and cannot cast skills in the transformed form.\"}],\"tips\":\"If you guys follow the 1-1-3/3-1-1 Lane formation, Nana would fit in the lane with 3 people, to maximise the gold drop.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"If you guys follow the 1-1-3/3-1-1 Lane formation, Nana would fit in the lane with 3 people, to maximise the gold drop.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_40f1ef3190c16e8bedac960e5d600ae0.png\",\"tags\":[\"Death Immunity\"]},{\"name\":\"Magic Boomerang\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Poke",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "natalia",
+      "name": "Natalia",
+      "title": "<!-- -->Bright Claw<!-- -->",
+      "description": "If Natalia stays in a bush without taking damage for 1s, she will enter (Camouflage) state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal 200( +110% Total Physical Attack) (Physical Damage) while silencing the target for 0.25s.\\nDealing damage, taking damage or using skills will immediately end the (Camouflage) state, but her next Basic Attack will remain enhanced for another 1s.\\nNatalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"If Natalia stays in a bush without taking damage for 1s, she will enter \"},{\"type\":\"text\",\"text\":\"(Camouflage)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal 200\"},{\"type\":\"text\",\"text\":\"( +110% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" while silencing the target for 0.25s.\\nDealing damage, taking damage or using skills will immediately end the \"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Chase",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "natan",
+      "name": "Natan",
+      "title": "<!-- -->Spacetime Walker<!-- -->",
+      "description": "Natan gains a stack of (Entanglement) each time he or his (Reverse-Clone) hits an enemy with a skill (up to 6 stacks). Each stack lasts 5s and grants 7.5% Attack Speed and 7.5% Movement Speed.\\nNatan's Basic Attack projectiles will return to Natan after reaching the maximum range, dealing an extra 30( +50% Total Physical Attack) (+70% Total Magic Power) (Magic Damage) to enemies along the way (inherits a portion of Attack Effects).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Natan gains a stack of \"},{\"type\":\"text\",\"text\":\"(Entanglement)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time he or his \"},{\"type\":\"text\",\"text\":\"(Reverse-Clone)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" hits an enemy with a skill (up to 6 stacks). Each stack lasts 5s and grants 7.5% Attack Speed and 7.5% Movement Speed.\\nNatan's Basic Attack projectiles will return to Natan after reaching the maximum range, dealing an extra 30\"},{\"type\":\"text\",\"text\":\"( +50% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+70% Total Magic Power) (Magic Damage) to enemies along the way (inherits a portion of Attack Effects).\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Burst",
         "Magic Damage"
+      ]
+    },
+    {
+      "slug": "nolan",
+      "name": "Nolan",
+      "title": "<!-- -->Cosmic Wayfinder<!-- -->",
+      "description": "Nolan's skills will leave a (Rift). When a rift comes into contact with another rift, they will (activate) and pull enemies to their center and deal 220( +140% Extra Physical Attack) (Physical Damage) after a short delay. Each time a rift activation hits an enemy, Nolan will gain 15 Energy. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced by 40%.\\n(Cosmic Leap): If Nolan does not deal or take damage for 5s, he enhances his next Basic Attack to dash to the target, dealing ( +120% Total Physical Attack) (Physical Damage) and leaving a (Rift). (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Nolan's skills will leave a \"},{\"type\":\"text\",\"text\":\"(Rift)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\". When a rift comes into contact with another rift, they will \"},{\"type\":\"text\",\"text\":\"(activate)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" and pull enemies to their center and deal 220\"},{\"type\":\"text\",\"text\":\"( +140% Extra Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "novaria",
+      "name": "Novaria",
+      "title": "<!-- -->Star Rebel<!-- -->",
+      "description": "(Astral Spheres) summoned by Novaria will continuously slow nearby enemies by 20% and grant vision of them.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"(Astral Spheres)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" summoned by Novaria will continuously slow nearby enemies by 20% and grant vision of them.\"}],\"tips\":\"Helps Novaria grasp the movement of enemy heroes so that she can hit them with [Star Shatter] more easily.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Helps Novaria grasp the movement of enemy heroes so that she can hit them with [Star Shatter] more easily.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_5ccfda460fb3ed4b4d044247fbe72ff0.png\",\"tags\":[\"Buff\"]},{\"name\":\"Astral Meteor\",\"type\":\"Skill 1\",\"description\":\"Novaria summons an (Astral Sphere) at the target location, continuously dealing 75( +25% Total Magic Power) (Magic Damage) to nearby enemies. After 2s, the sphere will explode, dealing (Magic Damage) equal to 260( +50% Total Magic Power) plus 4% of the enemy's Max HP to nearby enemies, and increasing (Astral Sphere's) slow effect to 2.5 times the original slow effect.\",\"descriptionRich\":[{\"type\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Burst",
+        "Poke"
+      ]
+    },
+    {
+      "slug": "obsidia",
+      "name": "Obsidia",
+      "title": "<!-- -->Sovereign of Dark's End<!-- -->",
+      "description": "Obsidia gains Bone Energy whenever she deals damage. Basic Attacks grant 1 Energy against non-hero units and 2 against hero units. Skills grant Energy equal to 3 times the amount granted by Basic Attacks against the same unit type. No Energy is gained from hitting creeps.\\n\\nAt 30 Bone Energy, it forms a Bone Shard (up to 25 shards). Killing an enemy hero instantly grants 1 Bone Shard(s). When Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing (+6% Total Physical Attack) Physical Damage (inherits 6% Attack Effects).\\n\\nObsidia's Basic Attacks deal 70 (+70% Total Physical Attack) Physical Damage (inherits 100% Attack Effects).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Obsidia gains \"},{\"type\":\"text\",\"text\":\"Bone Energy\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" whenever she deals damage. Basic Attacks grant 1 Energy against non-hero units and 2 against hero units. Skills grant Energy equal to 3 times the amount granted by Basic Attacks against the same unit type. No Energy is gained from hitting creeps.\\n\\nAt 30 \"},{\"type\":\"text\",\"text\":\"Bone Energy\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\", it forms a \"},{\"type\":\"text\",\"text\":\"Bone Shard\",\"color\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Finisher",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "odette",
+      "name": "Odette",
+      "title": "<!-- -->Swan Princess<!-- -->",
+      "description": "Each skill cast grants extra range on Odette's next Basic Attack within 8s and causes it to bounce between enemies (or an enemy and herself if only one enemy is in range), dealing 144-200( +50% Total Magic Power) (Magic Damage) per hit.\\nOdette's skills will also trigger this effect when hitting an enemy. This effect stacks up to 3 times.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Each skill cast grants extra range on Odette's next Basic Attack within 8s and causes it to bounce between enemies (or an enemy and herself if only one enemy is in range), dealing 144-200( +50% Total Magic Power) (Magic Damage) per hit.\\nOdette's skills will also trigger this effect when hitting an enemy. This effect stacks up to 3 times.\"}],\"tips\":\"Because passive skills can be processed through ordinary skills, it is good to use when enemies are in close position to each other to be more effective.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Because passive skills can be processed through ordinary skills, it is good to use when enemies are in close position to each other to be more effective.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Burst",
+        "Poke"
+      ]
+    },
+    {
+      "slug": "paquito",
+      "name": "Paquito",
+      "title": "<!-- -->The Heavenly Fist<!-- -->",
+      "description": "After every 3 skill casts, Paquito enters the (Champ Stance), gaining an enhanced skill ignoring his current cooldowns. He gains 60% extra Movement Speed that decays over 1.8s after casting the enhanced skill.\\nPaquito's Basic Attacks only deal ( +85% Total Physical Attack) (Physical Damage).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After every 3 skill casts, Paquito enters the \"},{\"type\":\"text\",\"text\":\"(Champ Stance)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", gaining an enhanced skill ignoring his current cooldowns. He gains 60% extra Movement Speed that decays over 1.8s after casting the enhanced skill.\\nPaquito's Basic Attacks only deal \"},{\"type\":\"text\",\"text\":\"( +85% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\".\"}],\"tips\":\"Paquito punches in a specified direction, dealing Physical Damage to the target hit. If a hero is hit, Paquito gains Shield. [Champ Stance] Enhanced: Paquito's heavy punch becomes even fiercer, dealing Physical Damage and granting him Shield (this enhanced shield can stack with the non-enhanced shield, too).\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Chase",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "pharsa",
+      "name": "Pharsa",
+      "title": "<!-- -->Wings of Vengeance<!-- -->",
+      "description": "Every 8s, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy hero, dealing 8% extra (Magic Damage) equal to the target's Max HP (+ 1% for every 200 Magic Power owned) and slowing them by 60% for 1s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Every 8s, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy hero, dealing 8% extra (Magic Damage) equal to the target's Max HP (+ 1% for every 200 Magic Power owned) and slowing them by 60% for 1s.\"}],\"tips\":\"Try to ensure verri's hits land on heroes!\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Try to ensure verri's hits land on heroes!\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ebde3d94865d5d05527b4becf8099d61.png\",\"tags\":[\"Damage\",\"Slow\"]},{\"name\":\"Curse of Crow\",\"type\":\"Skill 1\",\"description\":\"Pharsa unleashes a blast of magic at the target location, dealing 300( +120% Total Magic Power) (Magic Damage) to enemies hit and marking them for 4s.\\nPharsa's subsequent attack against marked enemies will consume the mark and stun them for 1s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Burst",
+        "Poke"
+      ]
+    },
+    {
+      "slug": "phoveus",
+      "name": "Phoveus",
+      "title": "<!-- -->Chains of Sin<!-- -->",
+      "description": "(Astaros) keeps a watchful gaze over an area of 8 units around Phoveus. If it sees an enemy hero using Blink or Charge skills, it will be activated and cast a Mark upon them for 3s. During this time, Phoveus can rapidly blink to their location to deliver a fierce blow, dealing 600( +180% Total Magic Power) (Magic Damage) to the target and their vicinity and gaining a 160( +50% Total Magic Power) (+5% Total HP) Shield.\\nOnce Phoveus activates this effect, this skill can be cast repeatedly at the cost of Mana for up to 12s before entering cooldown, as long as the required conditions are met.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"(Astaros)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Regen",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "popol-and-kupa",
+      "name": "Popol and Kupa",
+      "title": "<!-- -->Icefield Companions<!-- -->",
+      "description": "Popol sets a trap at the target location that will detonate after a short delay once triggered, dealing 70( +20% Total Magic Power) (Magic Damage) to the enemy that steps on it, immobilizing them for 1s, and creating a frost zone for 4s. Enemies in the frost zone will have their Movement Speed reduced by 20%.\\nPopol gains a trap charge every 22s (up to 3). Up to 3 traps can exist at the same time on the battlefield, each lasting up to 60s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Popol sets a trap at the target location that will detonate after a short delay once triggered, dealing 70( +20% Total Magic Power) (Magic Damage) to the enemy that steps on it, immobilizing them for 1s, and creating a frost zone for 4s. Enemies in the frost zone will have their Movement Speed reduced by 20%.\\nPopol gains a trap charge every 22s (up to 3). Up to 3 traps can exist at the same time on the battlefield, each lasting up to 60s.\"}],\"tips\":\"Popol and Kupa become enraged, gaining extra attack speed and movement speed. At the same time, Kupa will enter “Alpha Wolf Form”, restoring all HP and boosting the power of their 1st and 2nd skill.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Push",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "rafaela",
+      "name": "Rafaela",
+      "title": "<!-- -->Wings of Holiness<!-- -->",
+      "description": "Rafaela can cast a special skill every 10s. After channeling for 2.5s, she instantly resurrects an ally and increases their Movement Speed by 30% for 5s (taking damage from heroes and Legend Creeps interrupts channeling and puts the skill on base cooldown).\\nThis skill's cooldown is increased by 600% of the target's remaining respawn time, capped at 240s. This skill is not affected by Cooldown Reduction.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Rafaela can cast a special skill every 10s. After channeling for 2.5s, she instantly resurrects an ally and increases their Movement Speed by 30% for 5s (taking damage from heroes and Legend Creeps interrupts channeling and puts the skill on base cooldown).\\nThis skill's cooldown is increased by 600% of the target's remaining respawn time, capped at 240s. This skill is not affected by Cooldown Reduction.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_eb33edd56da79e4dbe8601648e2cb07a.png\",\"tags\":[\"Buff\"]},{\"name\":\"Light of Retribution\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Regen",
+        "Guard"
+      ]
+    },
+    {
+      "slug": "roger",
+      "name": "Roger",
+      "title": "<!-- -->Dire Wolf Hunter<!-- -->",
+      "description": "Roger can freely switch between human and wolf forms.\\nIn human form, Roger's Basic Attack and skills deal additional damage equal to 5% of the target's current HP.\\nIn wolf form, Roger's Basic Attack and skills deal additional damage equal to 5% of the target's lost HP.\\nThis effect can only deal up to 60 additional damage against Creeps.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Roger can freely switch between human and wolf forms.\\nIn human form, Roger's Basic Attack and skills deal additional damage equal to 5% of the target's current HP.\\nIn wolf form, Roger's Basic Attack and skills deal additional damage equal to 5% of the target's lost HP.\\nThis effect can only deal up to 60 additional damage against Creeps.\"}],\"tips\":\"You can use the human form to kite enemies, and the wolf form to fight.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"You can use the human form to kite enemies, and the wolf form to fight.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_09769166146e91d618341d4a45dbbf70.png\",\"tags\":[\"Buff\"]},{\"name\":\"Open Fire\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "ruby",
+      "name": "Ruby",
+      "title": "<!-- -->Little Red Hood<!-- -->",
+      "description": "Ruby starts with 10% Spell Vamp and her skills have a 125% Spell Vamp Ratio (but her Basic Attacks cannot trigger Lifesteal).\\nAfter each skill cast, Ruby can dash to another location and gain 9 (+1.8*Hero Level) Physical & Magic Defense (scales with level) for 4s (stacks up to 3 times).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Ruby starts with 10% Spell Vamp and her skills have a 125% Spell Vamp Ratio (but her Basic Attacks cannot trigger Lifesteal).\\nAfter each skill cast, Ruby can dash to another location and gain 9 (+1.8*Hero Level) Physical & Magic Defense (scales with level) for 4s (stacks up to 3 times).\"}],\"tips\":\"It can pass through base walls for real..as long as the walls is not too thickother than that is useless so use it wisely if you're in Pursuit or Escaping saw a wall.Just cast your skill nearby walls and just move foward because when you use a flicker you might be dead twice before you can use it again.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Crowd Control",
+        "Regen"
+      ]
+    },
+    {
+      "slug": "saber",
+      "name": "Saber",
+      "title": "<!-- -->Wandering Sword<!-- -->",
+      "description": "Saber's attacks reduce enemies' Physical Defense by 3-8 for 5s on hit. This effect stacks up to 5 times.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Saber's attacks reduce enemies' Physical Defense by 3-8 for 5s on hit. This effect stacks up to 5 times.\"}],\"tips\":\"Use Flying Sword to poke enemies as well as to apply passive stacks\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Use Flying Sword to poke enemies as well as to apply passive stacks\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1ec282b532be7af31153ce75b206f112.png\",\"tags\":[\"Debuff\"]},{\"name\":\"Orbiting Swords\",\"type\":\"Skill 1\",\"description\":\"Saber releases 5 swords that orbit around him and deal 80( +30% Extra Physical Attack) (Physical Damage) to nearby enemies on hit. The swords will retract back to him after a while.\\nWhen the swords are present, Saber sends a sword at his target on each attack, dealing 210( +60% Extra Physical Attack) (Physical Damage) to the target and 50% of the damage to other enemies it passes through (damage against Minions is reduced to 50%). Each sword attack also reduces the cooldown of (Charge) by 1s.\",\"descriptionRich\":[{\"type\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Charge",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "selena",
+      "name": "Selena",
+      "title": "<!-- -->Abyssal Witch<!-- -->",
+      "description": "Selena can switch freely between her two forms.\\n(Elven Form): Selena applies (Abyssal Mark) when her skills deal damage. Marks last 8s and can stack up to 2 times.\\n(Abyssal Form): Selena's Basic Attacks become melee and deal ( +25% Total Magic Power) additional (Magic Damage). Her skills deal 240-450( +40% Total Magic Power) additional (Magic Damage) to enemies with (Abyssal Mark) and reduce their mark stacks by 1. This damage is increased to 200% against Creeps.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Selena can switch freely between her two forms.\\n\"},{\"type\":\"text\",\"text\":\"(Elven Form)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\": Selena applies \"},{\"type\":\"text\",\"text\":\"(Abyssal Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" when her skills deal damage. Marks last 8s and can stack up to 2 times.\\n\"},{\"type\":\"text\",\"text\":\"(Abyssal Form)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\": Selena's Basic Attacks become melee and deal ( +25% Total Magic Power) additional (Magic Damage). Her skills deal 240-450( +40% Total Magic Power) additional (Magic Damage) to enemies with \"},{\"type\":\"text\",\"text\":\"(Abyssal Mark)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Initiator",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "silvanna",
+      "name": "Silvanna",
+      "title": "<!-- -->Imperial Knightess<!-- -->",
+      "description": "Silvanna's Basic Attacks deal 25( +45% Total Physical Attack) (+75% Total Magic Power) (Magic Damage).\\nSilvanna's attacks apply a mark on enemy heroes for 5s on hit, each mark reducing their Physical & Magic Defense by 3-6 (up to 5 stacks).\\nSilvanna deals 30% extra damage to enemy heroes with the max number of marks.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Silvanna's Basic Attacks deal 25\"},{\"type\":\"text\",\"text\":\"( +45% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" (+75% Total Magic Power) (Magic Damage).\\nSilvanna's attacks apply a mark on enemy heroes for 5s on hit, each mark reducing their Physical & Magic Defense by 3-6 (up to 5 stacks).\\nSilvanna deals 30% extra damage to enemy heroes with the max number of marks.\"}],\"tips\":\"When utilizing the 2nd Skill, try to stack the marks of the target to the limit in order to deal massive damage.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"When utilizing the 2nd Skill, try to stack the marks of the target to the limit in order to deal massive damage.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_8a659e353c870bc077564afaaf4d8c2c.png\",",
+      "difficulty": "Easy",
+      "specialty": [
+        "Initiator",
+        "Magic Damage"
+      ]
+    },
+    {
+      "slug": "sora",
+      "name": "Sora",
+      "title": "<!-- -->Shifting Cloud<!-- -->",
+      "description": "Sora can ascend to Thunder or Torrent by using his Ultimate. After ascending, dealing damage to heroes or summoned units grants 1 stack of Cloudstep. Upon reaching 5 stacks, he unlocks his True Art.\\n\\nThunder: Adopts an assassin style, converting 30% Max HP into Physical Attack (Equal to 10% of Max HP).\\nTorrent: Adopts a tank style, converting 30% Physical Attack into Max HP (Gains 10 HP for every 1 Attack).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Sora can ascend to \"},{\"type\":\"text\",\"text\":\"Thunder\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" or \"},{\"type\":\"text\",\"text\":\"Torrent\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" by using his Ultimate. After ascending, dealing damage to heroes or summoned units grants 1 stack of \"},{\"type\":\"text\",\"text\":\"Cloudstep\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\". Upon reaching 5 stacks, he unlocks his True Art.\\n\\n\"},{\"type\":\"text\",\"text\":\"Thunder\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\": Adopts an assassin style, converting 30% Max HP into Physical Attack (Equal to 10% of Max HP).\\n\"},{\"type\":\"text\",\"text\":\"Torrent\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Charge",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "sun",
+      "name": "Sun",
+      "title": "<!-- -->Monkey King<!-- -->",
+      "description": "Enemies hit by Sun and his Doppelgangers will have their Physical Defense reduced by 4% (stacks up to 10 times). Sun recovers HP equal to 50% of the Doppelganger's Physical Attack each time a Doppelganger deals damage.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Enemies hit by Sun and his Doppelgangers will have their Physical Defense reduced by 4% (stacks up to 10 times). Sun recovers HP equal to 50% of the Doppelganger's Physical Attack each time a Doppelganger deals damage.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6d93eddf722334375d384ee8965f95f7.png\",\"tags\":[\"Debuff\",\"Heal\"]},{\"name\":\"Endless Variety\",\"type\":\"Skill 1\",\"description\":\"Sun hurls his (Golden Staff) in the target direction, dealing 200( +40% Total Physical Attack) (Physical Damage) to enemies in its path. Upon hitting an enemy hero or Creep, or reaching the maximum range, the (Golden Staff) morphs into a Doppelganger that lasts 5s and inherits 40% of Sun's attributes (and a portion of his Attack Effects).\\n(Endless Variety) and (Swift Exchange) are learned and upgraded together and share the same cooldown.\",\"descriptionRich\":[{\"type\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Push",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "suyou",
+      "name": "Suyou",
+      "title": "<!-- -->Mask of the Immortal<!-- -->",
+      "description": "Tap-casting any skill will put Suyou in his Mortal form, granting him 40 Movement Speed and decreasing the interval between Basic Attacks.\\nHold-casting any skill will put Suyou in his Immortal form, increasing the damage of Basic Attacks to 125% and granting him 20% Physical Damage Reduction. In this form, for every 20 extra Physical Attack Suyou has, he gains 1% Physical Damage Reduction (up to 40%).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Tap-casting\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" any skill will put Suyou in his Mortal form, granting him 40 Movement Speed and decreasing the interval between Basic Attacks.\\n\"},{\"type\":\"text\",\"text\":\"Hold-casting\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" any skill will put Suyou in his Immortal form, increasing the damage of Basic Attacks to 125% and granting him 20% Physical Damage Reduction. In this form, for every 20 extra Physical Attack Suyou has, he gains 1% Physical Damage Reduction (up to 40%).\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_8b4882f70a3c4538683a2cb8739c7027.png\",\"tags\":[\"Buff\"]},{\"name\":\"Blade Surge\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "terizla",
+      "name": "Terizla",
+      "title": "<!-- -->Executioner<!-- -->",
+      "description": "Terizla gains 1% extra Damage Reduction (up to 30%) for every 2.5% HP lost.\\nHe cannot gain extra Attack Speed and will convert every 1% extra Attack Speed he's supposed to receive into 1 extra Physical Attack.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Terizla gains 1% extra Damage Reduction (up to 30%) for every 2.5% HP lost.\\nHe cannot gain extra Attack Speed and will convert every 1% extra Attack Speed he's supposed to receive into 1 extra Physical Attack.\"}],\"tips\":\"\\\"Terizla's lost HP will be converted to a limited amount of Damage Reduction. His Attack Speed can't be increased. Every 1% increase in Attack Speed will be converted to Physical Attack.\\nThe lower the HP of Terizla, the more damage resistant he becomes. This could enable him to draw fire more effectively in team offensives. \\\"\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"\\\"Terizla's lost HP will be converted to a limited amount of Damage Reduction. His Attack Speed can't be increased. Every 1% increase in Attack Speed will be converted to Physical Attack. \"},{\"type\":\"lineBreak\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Burst",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "thamuz",
+      "name": "Thamuz",
+      "title": "<!-- -->Lord Lava<!-- -->",
+      "description": "When Thamuz is holding his (Scythes), each of his Basic Attacks has a chance to conjure a burst of Lava Energy beneath the target that erupts after a 0.7s delay, dealing 50( +110% Total Physical Attack) (True Damage).\\nWhen without (Scythes), Thamuz gains 25% extra Movement Speed and will enhance his next Basic Attack after retrieving the (Scythes). The enhanced Basic Attack slows the target by 30% and is guaranteed to trigger Lava Energy.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"When Thamuz is holding his \"},{\"type\":\"text\",\"text\":\"(Scythes)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", each of his Basic Attacks has a chance to conjure a burst of Lava Energy beneath the target that erupts after a 0.7s delay, dealing 50( +110% Total Physical Attack) (True Damage).\\nWhen without \"},{\"type\":\"text\",\"text\":\"(Scythes)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", Thamuz gains 25% extra Movement Speed and will enhance his next Basic Attack after retrieving the \"},{\"type\":\"text\",\"text\":\"(Scythes)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\". The enhanced Basic Attack slows the target by 30% and is guaranteed to trigger Lava Energy.\"}],\"tips\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "tigreal",
+      "name": "Tigreal",
+      "title": "<!-- -->Warrior of Dawn<!-- -->",
+      "description": "Tigreal gains a stack of (Fearless) each time he uses a skill or is hit by a Basic Attack. After getting 4 stacks, Tigreal will consume all (Fearless) stacks to block the next incoming Basic Attack (including attacks from Turrets).\\n[C8Attacks from Minions do not grant] (Fearless) [C8stacks nor trigger its effect].\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Tigreal gains a stack of \"},{\"type\":\"text\",\"text\":\"(Fearless)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time he uses a skill or is hit by a Basic Attack. After getting 4 stacks, Tigreal will consume all \"},{\"type\":\"text\",\"text\":\"(Fearless)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" stacks to block the next incoming Basic Attack (including attacks from Turrets).\\n[C8Attacks from Minions do not grant] \"},{\"type\":\"text\",\"text\":\"(Fearless)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" [C8stacks nor trigger its effect].\"}],\"tips\":\"Remember to do basic attacks between spells to harden you even more. You don't need to hit enemies to activate your passive so do it before Teamfights, or when you considerate it is necessary.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "uranus",
+      "name": "Uranus",
+      "title": "<!-- -->Aesthereal Defender<!-- -->",
+      "description": "Uranus absorbs the energy generated by incoming attacks to strengthen himself, regenerating a certain amount of HP every 0.8s. Each stack lasts 10s. When at max stacks (20), Uranus regenerates 48-224 HP (scales with level).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Uranus absorbs the energy generated by incoming attacks to strengthen himself, regenerating a certain amount of HP every 0.8s. Each stack lasts 10s. When at max stacks (20), Uranus regenerates 48-224 HP (scales with level).\"}],\"tips\":\"Try to maintain Uranus’s Radiance at a high number of stacks to greatly improve his ability to recover. One of the easiest methods is to purposely lure an enemy turret’s attack with Uranus.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Try to maintain Uranus’s Radiance at a high number of stacks to greatly improve his ability to recover. One of the easiest methods is to purposely lure an enemy turret’s attack with Uranus. \"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_90324508ebba14fda61e55dfcf44b366.png\",\"tags\":[\"Heal\"]},{\"name\":\"Ionic Edge\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Regen"
+      ]
+    },
+    {
+      "slug": "vale",
+      "name": "Vale",
+      "title": "<!-- -->Windtalker<!-- -->",
+      "description": "Vale gains 1 stack of (Windtalk) each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Vale gains 1 stack of \"},{\"type\":\"text\",\"text\":\"(Windtalk)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_0cc954742ae3f2acd7c50523c5d34172.png\",\"tags\":[\"Buff\",\"Speed Up\"]},{\"name\":\"Wind Blade\",\"type\":\"Skill 1\",\"description\":\"Vale unleashes two wind blades toward the left and right of a target area, each dealing 250( +80% Total Magic Power) (Magic Damage) to enemies hit.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Vale unleashes two wind blades toward the left and right of a target area, each dealing 250( +80% Total Magic Power) (Magic Damage) to enemies hit.\"}],\"tips\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Burst",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "valentina",
+      "name": "Valentina",
+      "title": "<!-- -->Prophetess of the Night<!-- -->",
+      "description": "Valentina gains 8-50 extra EXP each time she deals damage to an enemy hero. Cooldown: 2s.\\nIf the enemy hero's level isn't higher than Valentina's, 30% of the damage dealt is converted into her HP. The EXP scales with Valentina's level.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Valentina gains 8-50 extra EXP each time she deals damage to an enemy hero. Cooldown: 2s. \\nIf the enemy hero's level isn't higher than Valentina's, 30% of the damage dealt is converted into her HP. The EXP scales with Valentina's level.\"}],\"tips\":\"Primal Force is the secret weapon that ensures Valentina's always in the lead: the mechanism promises her advantages in terms of level and survivability.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Primal Force is the secret weapon that ensures Valentina's always in the lead: the mechanism promises her advantages in terms of level and survivability.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f2707973fdd30d201d53b1ff21d1a6c7.png\",\"tags\":[\"Buff\",\"Heal\"]},{\"name\":\"Shadow Strike\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Burst",
+        "Finisher"
+      ]
+    },
+    {
+      "slug": "valir",
+      "name": "Valir",
+      "title": "<!-- -->Son of Flames<!-- -->",
+      "description": "Valir's skills apply a stack of Ablaze to enemies hit, dealing them (Magic Damage) equal to 0.6% of their Max HP per second for 4s.\\nAt 3 stacks, the fire detonates, dealing (Magic Damage) equal to 6% of the target's Max HP to the enemy and stunning them for 1s (the same target can only be stunned by Valir's skills once every 7s.)\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Valir's skills apply a stack of Ablaze to enemies hit, dealing them (Magic Damage) equal to 0.6% of their Max HP per second for 4s.\\nAt 3 stacks, the fire detonates, dealing (Magic Damage) equal to 6% of the target's Max HP to the enemy and stunning them for 1s (the same target can only be stunned by Valir's skills once every 7s.)\"}],\"tips\":\"This is Valir's core skill. When your passive is cooling down, try using Burst Fire to chase down enemies with your teammates. If you'd rather play it safe, you can also try using Searing Torrent continuously to interrupt enemy skills.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Damage",
+        "Guard"
+      ]
+    },
+    {
+      "slug": "vexana",
+      "name": "Vexana",
+      "title": "<!-- -->Shimmer of Hope<!-- -->",
+      "description": "Vexana and the (Eternal Guard) inflict (Nether Curse) on enemies hit. The Curse lasts 5s and will cause the affected enemy to explode upon death, dealing 108-500( +60% Total Magic Power) (Magic Damage) to nearby enemies (base damage scales with level).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Vexana and the \"},{\"type\":\"text\",\"text\":\"(Eternal Guard)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" inflict \"},{\"type\":\"text\",\"text\":\"(Nether Curse)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on enemies hit. The Curse lasts 5s and will cause the affected enemy to explode upon death, dealing 108-500( +60% Total Magic Power) (Magic Damage) to nearby enemies (base damage scales with level).\"}],\"tips\":\"This passive is very useful when clearing out minion wave as well as harrassing an enemy in lane. This passive will be used effectively when you use\\n\\\"Nether Snare\\\" in the middle of the minion wave. This will apply the passive on each minion and will eventually explode when the minion dies. The explosion covers a certain area that can damage the enemy health bar.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Poke",
+        "Control"
+      ]
+    },
+    {
+      "slug": "wanwan",
+      "name": "Wanwan",
+      "title": "<!-- -->Agile Tiger<!-- -->",
+      "description": "Enemy heroes hit by Wanwan's attacks will have their weakness exposed and position revealed for 5s. When hitting an enemy's weakness, Wanwan deals 67(+3*Hero Level) extra (True Damage) and increases their damage taken from her subsequent attacks by 10% for 5s.\\nWanwan can dash a short distance after each arrow fired from her Basic Attack. The dash speed scales with her Attack Speed.\\nWanwan's Basic Attack deals ( +100% Total Physical Attack) Physical Damage.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Enemy heroes hit by Wanwan's attacks will have their weakness exposed and position revealed for 5s. When hitting an enemy's weakness, Wanwan deals 67(+3*Hero Level) extra (True Damage) and increases their damage taken from her subsequent attacks by 10% for 5s.\\nWanwan can dash a short distance after each arrow fired from her Basic Attack. The dash speed scales with her Attack Speed.\\nWanwan's Basic Attack deals \"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" Physical Damage.\"}],\"tips\":\"Since she could move a short distance after attacking, she could easily dodge damage from the enemies and poke them while dealing damage.\",\"tipsRich",
+      "difficulty": "Hard",
+      "specialty": [
+        "Finisher",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "x-borg",
+      "name": "X.Borg",
+      "title": "<!-- -->Firaga Armor<!-- -->",
+      "description": "X.Borg's Firaga Armor inherits 120% of his Max HP and absorbs all incoming damage when it's active. When the Armor is destroyed, X.Borg will disengage from it and roll in the direction of the Joystick (he is immune to damage during this process). The Armor's energy will gradually regenerate while X.Borg is in the Armorless State. At full energy, X.Borg re-equips the Armor and restores it to 30% of his Max HP.\\nX.Borg's fire damage causes enemies to heat up. Enemies at maximum temperature will drop Firaga supplies when they take fire damage from X.Borg. Picking up a Firaga supply restores 10% of the Armor's HP, or 10 energy while in the Armorless State.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Regen",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "xavier",
+      "name": "Xavier",
+      "title": "<!-- -->Defier of Light<!-- -->",
+      "description": "Xavier enhances his subsequent skills each time his skill hits an enemy hero. (Stage I:) Increases Movement Speed by 50% when subsequent skills hit, decaying over 1.2s. (Stage II:) Width of subsequent skills will be greatly increased. (Stage III:) Skill Cooldown reduced by 4s (12s for the Ultimate). At (Stage III), Xavier enters the (Transcendence) state.\\n(Transcendence:) All of Xavier's skills are enhanced to (Stage III) state for 5s (this duration is extended by 1s each time Xavier's skill hits an enemy).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Xavier enhances his subsequent skills each time his skill hits an enemy hero. \"},{\"type\":\"text\",\"text\":\"(Stage I:)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" Increases Movement Speed by 50% when subsequent skills hit, decaying over 1.2s. \"},{\"type\":\"text\",\"text\":\"(Stage II:)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" Width of subsequent skills will be greatly increased. \"},{\"type\":\"text\",\"text\":\"(Stage III:)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" Skill Cooldown reduced by 4s (12s for the Ultimate). At \"},{\"type\":\"text\",\"text\":\"(Stage III)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\", Xavier enters the \"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Damage",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "yi-sun-shin",
+      "name": "Yi Sun-shin",
+      "title": "<!-- -->Paenlong Legend<!-- -->",
+      "description": "Yi Sun-shin attacks with his (longbow) or (glaive) according to his distance from the target.\\n(Weapon Mastery): After each weapon swap, the next two attacks will be enhanced. The first attack deals 70%-100% Crit Damage and the second attack deals 55%-70% Crit Damage. Each enhanced attack grants 20% Movement Speed for 1s and reduces the cooldown of (Traceless) by 1s.\\nAfter every 180s or when Yi Sun-shin respawns, a (Turtle Ship) will spawn at the allied Base. Yi Sun-shin can board the (Turtle Ship), gaining 60% Movement Speed (decays to after s) and enhancing (Traceless).\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Yi Sun-shin attacks with his \"},{\"type\":\"text\",\"text\":\"(longbow)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" or \"},{\"type\":\"text\",\"text\":\"(glaive)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" according to his distance from the target.\\n\"},{\"type\":\"text\",\"text\":\"(Weapon Mastery)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\": After each weapon swap, the next two attacks will be enhanced. The first attack deals 70%-100% Crit Damage and the second attack deals 55%-70% Crit Damage. Each enhanced attack grants 20% Movement Speed for 1s and reduces the cooldown of \"},{\"type\":\"text",
+      "difficulty": "Medium",
+      "specialty": [
+        "Finisher",
+        "Chase"
+      ]
+    },
+    {
+      "slug": "yin",
+      "name": "Yin",
+      "title": "<!-- -->Martial Genius<!-- -->",
+      "description": "If there are no allied heroes within 4 units of Yin, his damage is increased to 120% and he gains 8% Spell Vamp.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"If there are no allied heroes within 4 units of Yin, his damage is increased to 120% and he gains 8% Spell Vamp.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_10e337fa6398a8ea4a471155c8c22c1c.png\",\"tags\":[\"Buff\"]},{\"name\":\"Charged Punch\",\"type\":\"Skill 1\",\"description\":\"Yin gains 60% extra Movement Speed (decays over 3s).\\nYin can launch an enhanced Basic Attack that deals 25( +100% Total Physical Attack) (Physical Damage) within the duration. Upon hitting an enemy with the enhanced Basic Attack, Yin will throw another charged punch forward, dealing 360( +200% Extra Physical Attack) (Physical Damage) to enemies in the path.\\nSuccessfully throwing the charged punch reduces the skill's cooldown by 35%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Yin gains 60% extra Movement Speed (decays over 3s).\\nYin can launch an enhanced Basic Attack that deals 25\"},{\"type\":\"text\",\"text\":\"( +100% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" \"},{",
+      "difficulty": "Medium",
+      "specialty": [
+        "Burst",
+        "Control"
+      ]
+    },
+    {
+      "slug": "yu-zhong",
+      "name": "Yu Zhong",
+      "title": "<!-- -->Black Dragon<!-- -->",
+      "description": "Yu Zhong applies (Sha Residue) to enemy heroes every time he deals damage to them. (Sha Residue) erupts upon reaching 5 stacks on a target. Then it begins consuming 1 stack every 0.4s to deal (Physical Damage) equal to 30( +20% Extra Physical Attack) plus 2.5% of the target's lost HP to the target. Each stack consumed restores 6% of Yu Zhong's lost HP. When (Sha Residue) erupts, Yu Zhong also gains 30% Movement Speed for 3s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Yu Zhong applies \"},{\"type\":\"text\",\"text\":\"(Sha Residue)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" to enemy heroes every time he deals damage to them. \"},{\"type\":\"text\",\"text\":\"(Sha Residue)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" erupts upon reaching 5 stacks on a target. Then it begins consuming 1 stack every 0.4s to deal \"},{\"type\":\"text\",\"text\":\"(Physical Damage)\",\"color\":\"#C53535\"},{\"type\":\"text\",\"text\":\" equal to 30\"},{\"type\":\"text\",\"text\":\"( +20% Extra Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" plus 2.5% of the target's lost HP to the target. Each stack consumed restores 6% of Yu Zhong's lost HP. When \"},{\"type\":\"text\",\"text\":\"(Sha Residue)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Regen",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "yve",
+      "name": "Yve",
+      "title": "<!-- -->Astrowarden<!-- -->",
+      "description": "Yve gains a stack of (Galactic Power) each time she hits an enemy hero with (Void Blast) or (Void Crystal) (up to 10 stacks).\\nEach stack of (Galactic Power) allows Yve to launch an extra attack on the next (Real World Manipulation) cast and increases the amount of shield gained by 5%.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Yve gains a stack of \"},{\"type\":\"text\",\"text\":\"(Galactic Power)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" each time she hits an enemy hero with \"},{\"type\":\"text\",\"text\":\"(Void Blast)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" or \"},{\"type\":\"text\",\"text\":\"(Void Crystal)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" (up to 10 stacks).\\nEach stack of \"},{\"type\":\"text\",\"text\":\"(Galactic Power)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" allows Yve to launch an extra attack on the next \"},{\"type\":\"text\",\"text\":\"(Real World Manipulation)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" cast and increases the amount of shield gained by 5%.\"}],\"tips\":\"With Passive, Yve can poke enemies during the laning phase to gain stacks, so as to gain more casts of her Ultimate.\",\"tipsRich\":[{\"type\":\"text\",\"text\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Poke",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "zetian",
+      "name": "Zetian",
+      "title": "<!-- -->Celestial Empress<!-- -->",
+      "description": "Phoenix Crown: When Zetian hits enemy heroes with Phoenix Strike or Phoenix Descent, she gains 1% Spell Vamp for 5s (up to 10 stacks).\\n\\nCelestial Robe: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who approaches her, dealing 90(+10*Hero Level) (+50% Total Magic Power) Magic Damage. She also gains a 300(+20*Hero Level) (+50% Total Magic Power) shield for 3s. Cooldown: 120s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Phoenix Crown\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\": When Zetian hits enemy heroes with \"},{\"type\":\"text\",\"text\":\"Phoenix Strike\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" or \"},{\"type\":\"text\",\"text\":\"Phoenix Descent\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\", she gains 1% Spell Vamp for 5s (up to 10 stacks).\\n\\n\"},{\"type\":\"text\",\"text\":\"Celestial Robe\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\": The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who approaches her, dealing 90(+10*Hero Level)\"},{\"type\":\"text\",\"text\":\" (+50% Total Magic Power)\",\"color\":\"#62f8fe\"},{\"type\":\"text\",\"text\":\" Magic Damage. She also gains a 300(+20*Hero Level)\"},{\"type\":\"text\",\"text\":",
+      "difficulty": "Easy",
+      "specialty": [
+        "Damage",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "zhask",
+      "name": "Zhask",
+      "title": "<!-- -->The King of Swarms<!-- -->",
+      "description": "Upon death, Zhask summons a frenzied (Nightmaric Spawn) on the spot, which gradually loses HP over time until death.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Upon death, Zhask summons a frenzied \"},{\"type\":\"text\",\"text\":\"(Nightmaric Spawn)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on the spot, which gradually loses HP over time until death.\"}],\"tips\":\"Using this ultimate in critical moments will allow your Spawn to deal legendary amounts of damage, as no hero can match the power of a full form Nightmaric Spawn. However, the crack in the planescape can only be sustained for 10 seconds, so use your time wisely.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"Using this ultimate in critical moments will allow your Spawn to deal legendary amounts of damage, as no hero can match the power of a full form Nightmaric Spawn. However, the crack in the planescape can only be sustained for 10 seconds, so use your time wisely.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c917fad570226db1fe802ef590ce37dc.png\",\"tags\":[\"Summon\"]},{\"name\":\"Nightmaric Spawn\",\"type\":\"Skill 1\",\"description\":",
+      "difficulty": "Hard",
+      "specialty": [
+        "Chase",
+        "Damage"
+      ]
+    },
+    {
+      "slug": "zhuxin",
+      "name": "Zhuxin",
+      "title": "<!-- -->Beacon of Spirits<!-- -->",
+      "description": "Every time Zhuxin channels Lantern Flare, she converts the Mana spent into up to 15 Crimson Butterflies to follow her Spirit Lantern. After Zhuxin stops channeling Lantern Flare, the Crimson Butterflies will gradually disappear, each restoring 5% of her Max Mana.\\nZhuxin has a naturally high base Max Mana, but it doesn't scale with her level.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Every time Zhuxin channels \"},{\"type\":\"text\",\"text\":\"Lantern Flare\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\", she converts the Mana spent into up to 15 \"},{\"type\":\"text\",\"text\":\"Crimson Butterflies\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" to follow her \"},{\"type\":\"text\",\"text\":\"Spirit Lantern\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\". After Zhuxin stops channeling \"},{\"type\":\"text\",\"text\":\"Lantern Flare\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\", the \"},{\"type\":\"text\",\"text\":\"Crimson Butterflies\",\"color\":\"#a6aafb\"},{\"type\":\"text\",\"text\":\" will gradually disappear, each restoring 5% of her Max Mana.\\nZhuxin has a naturally high base Max Mana, but it doesn't scale with her level.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":",
+      "difficulty": "Medium",
+      "specialty": [
+        "Damage",
+        "Crowd Control"
+      ]
+    },
+    {
+      "slug": "zilong",
+      "name": "Zilong",
+      "title": "<!-- -->Spear of Dragon<!-- -->",
+      "description": "After every 3 Basic Attacks, Zilong triggers (Dragon Flurry) on the next Basic Attack, hitting the target 3 times. Each hit deals 30( +40% Total Physical Attack) Basic Attack damage and heals himself for 30( +20% Total Physical Attack) HP.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"After every 3 Basic Attacks, Zilong triggers \"},{\"type\":\"text\",\"text\":\"(Dragon Flurry)\",\"color\":\"#404495\"},{\"type\":\"text\",\"text\":\" on the next Basic Attack, hitting the target 3 times. Each hit deals 30\"},{\"type\":\"text\",\"text\":\"( +40% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" Basic Attack damage and heals himself for 30\"},{\"type\":\"text\",\"text\":\"( +20% Total Physical Attack)\",\"color\":\"#D58E1F\"},{\"type\":\"text\",\"text\":\" HP.\"}],\"tips\":\"During early laning phase, attack enemy minions to trigger his passive ability that allows him to attack the hero behind minions\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"During early laning phase, attack enemy minions to trigger his passive ability that allows him to attack the hero behind minions\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_588b6273f7a0153bebe86f7ed6bb7e18.png\",",
+      "difficulty": "Easy",
+      "specialty": [
+        "Chase",
+        "Damage"
       ]
     }
   ]
