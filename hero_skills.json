@@ -1,0 +1,4430 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-07-11",
+  "source": "MLBBHub hero pages",
+  "max_displayed_skills": 4,
+  "changeable_skills_included": false,
+  "total": 130,
+  "heroes": [
+    {
+      "slug": "aamon",
+      "name": "Aamon",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Slayer Shards",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_db82969869000375f7e6f1ab7ae895b3.png",
+          "type": "Skill 2",
+          "description": "Aamon throws a shard forward, dealing 120( +50% Total Magic Power) (Magic Damage) to enemies along the way. The shard will return to Aamon after a short delay and allow him to enter the (Camouflage) state. If the shard hits a non-minion enemy, it'll slow them by 50% for 2s and return to Aamon immediately."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Soul Shards",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_51b68183615922a3891919cd0a0d5536.png",
+          "type": "Skill 1",
+          "description": "(Passive:) Aamon charges his armor each time he casts a skill or hits an enemy with a skill or enhanced Basic Attack. At 5 charges, Aamon throws 5 shards at the target on his next attack, each shard dealing 50( +15% Total Magic Power) (Magic Damage). The shards will then scatter around the target. (Active:) Aamon throws a shard at a nearby enemy, dealing 175( +60% Total Magic Power) (Magic Damage)."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Endless Shards",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_2fe1e567c14d3bd648184285b7d9d427.png",
+          "type": "Ultimate",
+          "description": "Aamon throws all shards at a designated enemy and slows them by 30% for 1.5s. After a short delay, the shards will fly to the enemy's location again, each dealing 90( +24% Total Magic Power)-150( +40% Total Magic Power) (Magic Damage). The number of shards increases with Aamon's armor charges and the shards on the ground (8-25). The damage dealt increases with the target's lost HP, to the max when the target's HP is below 30%. The same target takes less damage from subsequent attacks."
+        }
+      ]
+    },
+    {
+      "slug": "akai",
+      "name": "Akai",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "aldous",
+      "name": "Aldous",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Aldous in Mobile Legends: Burst Pickoff",
+          "icon": "",
+          "type": "",
+          "description": "Snowball setup for games where Aldous has reliable isolated targets and needs the first punch to end the fight."
+        }
+      ]
+    },
+    {
+      "slug": "alice",
+      "name": "Alice",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Alice in Mobile Legends: EXP Anti-Burst Control",
+          "icon": "",
+          "type": "",
+          "description": "Safer EXP setup for high-control or burst-heavy drafts where Alice must survive the first collapse before draining."
+        }
+      ]
+    },
+    {
+      "slug": "alpha",
+      "name": "Alpha",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "alucard",
+      "name": "Alucard",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "How to Build Alucard in Mobile Legends: Jungle Sustain Default",
+          "icon": "",
+          "type": "",
+          "description": "Default ranked jungle setup for extended ult fights, Turtle contests, and bruiser-style cleanup."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "angela",
+      "name": "Angela",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "argus",
+      "name": "Argus",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "How to Build Argus in Mobile Legends: Split-Push Crit Pressure",
+          "icon": "",
+          "type": "",
+          "description": "Greedier side-lane build for low-control drafts where Argus can stay on turrets and force isolated duels."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "arlott",
+      "name": "Arlott",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Final Slash",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_af90127587cb7de4dbd3bfcea3307021.png",
+          "type": "Ultimate",
+          "description": "Arlott cleaves in front of him, dealing 400( +80% Total Physical Attack) (Physical Damage) to targets in the area while pushing them to the end of the AOE and briefly revealing their location."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Demon Gaze",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_98ae9dc84bff0054295750fee5f63035.png",
+          "type": "Passive",
+          "description": "Arlott possesses a demonic eye that will (Mark) enemy units near Arlott that become affected by control effects for 8s. The eye will also automatically (Mark) a nearby enemy hero in vision every 8s."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Dauntless Strike",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_bf3b2fb8a6fd0341b092063718a5b9b4.png",
+          "type": "Skill 1",
+          "description": "Arlott swings his lance forward, dealing 200( +60% Total Physical Attack) (Physical Damage) and briefly stunning targets in an area. Targets hit by the further part of the AOE will be stunned for 1s instead."
+        }
+      ]
+    },
+    {
+      "slug": "atlas",
+      "name": "Atlas",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "aulus",
+      "name": "Aulus",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "How to Build Aurora in Mobile Legends: Ultimate Reset Control",
+          "icon": "",
+          "type": "",
+          "description": "Snowball control setup for games where Aurora can safely collect assists and cycle Frigid Glacier through consecutive objective fights."
+        },
+        {
+          "position": "Skill 1",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 2",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "badang",
+      "name": "Badang",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Badang in Mobile Legends: Anti-Sustain Wall Punish",
+          "icon": "",
+          "type": "",
+          "description": "Anti-heal EXP build for sustain lanes and shield-heavy drafts where Sea Halberd must arrive before greed damage."
+        }
+      ]
+    },
+    {
+      "slug": "balmond",
+      "name": "Balmond",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "bane",
+      "name": "Bane",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Bane in Mobile Legends: Jungle Objective Tempo",
+          "icon": "",
+          "type": "",
+          "description": "Jungle setup for Turtle tempo, Ice Retribution chase control, and objective fights where Bane plays as a damage bruiser."
+        }
+      ]
+    },
+    {
+      "slug": "barats",
+      "name": "Barats",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Barats in Mobile Legends: Roam Wall-Set Engage",
+          "icon": "",
+          "type": "",
+          "description": "Roam Barats trades jungle income for Conceal or Flicker angles that force a short-range swallow into terrain."
+        }
+      ]
+    },
+    {
+      "slug": "baxia",
+      "name": "Baxia",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "beatrix",
+      "name": "Beatrix",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "belerick",
+      "name": "Belerick",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "How to Build Belerick in Mobile Legends: Roam Punishment",
+          "icon": "",
+          "type": "",
+          "description": "Default roam setup for punishing attack-speed carries that keep hitting your frontline."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Belerick in Mobile Legends: Fog Engage",
+          "icon": "",
+          "type": "",
+          "description": "Engage variant for teams that need Belerick to create the first body-range taunt from fog."
+        }
+      ]
+    },
+    {
+      "slug": "benedetta",
+      "name": "Benedetta",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "brody",
+      "name": "Brody",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "bruno",
+      "name": "Bruno",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "carmilla",
+      "name": "Carmilla",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "cecilion",
+      "name": "Cecilion",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "change",
+      "name": "Chang'e",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "chip",
+      "name": "Chip",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "chou",
+      "name": "Chou",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "cici",
+      "name": "Cici",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Performer's Delight",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6d7f05670808b2e7662aab8303594fc5.png",
+          "type": "Passive",
+          "description": "Cici generates a stack of Delight after dealing damage, increasing her Movement Speed by 0.75% and Spell Vamp by 0.75% per stack up to 10 times, doubling the effects at full stacks."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Buoyant Bounce",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f49eea2c0866fad182a898eedb8afc72.png",
+          "type": "Skill 2",
+          "description": "Cici leaps to a target location. If she lands on any unit (not including Turrets and Base), she can leap again in the Joystick's direction. If she lands on an enemy with the first leap, she deals 200( +40% Total Physical Attack) (Physical Damage) to them."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Yo-Yo Blitz",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_35698dd184befabba3199661018bdf38.png",
+          "type": "Skill 1",
+          "description": "Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5s, hitting them up to 10 times, and dealing (Physical Damage) equal to 60 plus 3( )% of the target's Max HP per hit. Cici can move and use other skills during this attack. If there is no enemy within range, Yoyo will attack Turrets or the Base instead. This skill deals 20% extra damage to Minions."
+        }
+      ]
+    },
+    {
+      "slug": "claude",
+      "name": "Claude",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Claude in Mobile Legends: CC-Heavy Survival",
+          "icon": "",
+          "type": "",
+          "description": "Defensive setup for control-heavy drafts where Claude must survive the first lockout before committing Blazing Duet."
+        }
+      ]
+    },
+    {
+      "slug": "clint",
+      "name": "Clint",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "diggie",
+      "name": "Diggie",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "dyrroth",
+      "name": "Dyrroth",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "edith",
+      "name": "Edith",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "esmeralda",
+      "name": "Esmeralda",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "How to Build Esmeralda in Mobile Legends: Jungle Tempo",
+          "icon": "",
+          "type": "",
+          "description": "Jungle variant for tempo drafts that want Esmeralda farming into skirmishes instead of anchoring EXP lane."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "estes",
+      "name": "Estes",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "eudora",
+      "name": "Eudora",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Eudora in Mobile Legends: Reset Teamfight Control",
+          "icon": "",
+          "type": "",
+          "description": "Assist-driven teamfight setup for games where Eudora can repeatedly trigger Thunder's Wrath around grouped objectives."
+        }
+      ]
+    },
+    {
+      "slug": "fanny",
+      "name": "Fanny",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "faramis",
+      "name": "Faramis",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "How to Build Faramis in Mobile Legends: Mid Ultimate Tempo",
+          "icon": "",
+          "type": "",
+          "description": "Default mid setup that rushes mana, cooldown, and ultimate resets before adding anti-sustain damage and late magic scaling."
+        },
+        {
+          "position": "Skill 1",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 2",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "floryn",
+      "name": "Floryn",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Sprout",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_8eaeefe76d960607dafc49229eb08597.png",
+          "type": "Skill 2",
+          "description": "Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing 175( +90% Total Magic Power) (Magic Damage) to nearby enemies and stunning them for 0.7s (and revealing their positions briefly)."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Sow",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c6013f24a0d60e559d6d0ec3ed98b3fe.png",
+          "type": "Skill 1",
+          "description": "Floryn tosses an Energy Seed at the target enemy, dealing 180( +100% Total Magic Power) (Magic Damage). Healing Fruits will then spawn and bounce to nearby allied heroes, restoring their (HP) by 175( +90% Total Magic Power)."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Bloom",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_03fedb79f8a7dec957408802fa28f840.png",
+          "type": "Ultimate",
+          "description": "Floryn resonates with Dew's power, restoring 250( +100% Total Magic Power) (HP) to all allied heroes 2 times no matter where they are on the battlefield. This effect also removes any Healing Reduction or Shield Reduction effects on allied heroes, and makes them immune to those effects for 2s."
+        }
+      ]
+    },
+    {
+      "slug": "franco",
+      "name": "Franco",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Franco in Mobile Legends: Roam Conceal Pickoff",
+          "icon": "",
+          "type": "",
+          "description": "Default ranked Franco setup for fast bush-to-bush rotations, Conceal pickoffs, and repeated Flicker suppression attempts."
+        }
+      ]
+    },
+    {
+      "slug": "fredrinn",
+      "name": "Fredrinn",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "gatotkaca",
+      "name": "Gatotkaca",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "gloo",
+      "name": "Gloo",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Stick, Stick",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_4d78367e0a6c4f3269f64ddfad7f96d7.png",
+          "type": "Passive",
+          "description": "Enemies gain a stack of (Sticky) each time they're hit by Gloo's skills, decreasing their Movement Speed by 6% for 6s. Stacks up to 5. Each stack of (Sticky) on an enemy reduces their damage dealt to Gloo by 6%."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Slam, Slam",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_79eeaa75b48d109dd048a18b06d97c2c.png",
+          "type": "Skill 1",
+          "description": "Gloo reaches out and slams the ground, dealing 80( +80% Total Magic Power) (Magic Damage) to the enemy. At the final location, a (Goo) is left behind that explodes after 3s to deal 200( +8% Total HP) (Magic Damage) to nearby enemies and immobilize them for 1s. If Gloo touches the (Goo), it will explode immediately, reset the skill's CD, and heal Gloo for 3% of Max HP."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Spread, Spread",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_975a075bf3dc864116d9fd55ce33aedc.png",
+          "type": "Skill 2",
+          "description": "Gloo splits into Goos, dealing 100 (+80% Total Magic Power) Magic Damage to enemies in a fan-shaped area and immobilizing them for 0.5s. For the next 4s, Gloo gains 10% Movement Speed and deals 80 (+15% Total Magic Power) Magic Damage every 0.25s to enemies it touches. If this skill hits a Goo, Gloo charges toward it, dragging enemies in its path along for a distance."
+        }
+      ]
+    },
+    {
+      "slug": "gord",
+      "name": "Gord",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "granger",
+      "name": "Granger",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "grock",
+      "name": "Grock",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "guinevere",
+      "name": "Guinevere",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "gusion",
+      "name": "Gusion",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Gusion in Mobile Legends: Mid Execute Burst",
+          "icon": "",
+          "type": "",
+          "description": "Mid-lane burst setup for waveclear into roam timing, with Execute covering targets that survive the first full combo."
+        }
+      ]
+    },
+    {
+      "slug": "hanabi",
+      "name": "Hanabi",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "How to Build Hanabi in Mobile Legends: Gold Lane Shield DPS",
+          "icon": "",
+          "type": "",
+          "description": "Default gold lane setup that turns Hanabi's attack-effect bounces into a steady shielded DPS pattern."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Hanabi in Mobile Legends: Front-to-Back Anti-Tank",
+          "icon": "",
+          "type": "",
+          "description": "Front-to-back setup for tank-heavy games where Hanabi can hit the nearest durable target from behind peel."
+        }
+      ]
+    },
+    {
+      "slug": "hanzo",
+      "name": "Hanzo",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "harith",
+      "name": "Harith",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Harith in Mobile Legends: Gold Anti-CC Sustain",
+          "icon": "",
+          "type": "",
+          "description": "Safer gold lane setup for CC-heavy drafts where Harith must survive the first lockout before chaining Chrono Dash shields."
+        }
+      ]
+    },
+    {
+      "slug": "harley",
+      "name": "Harley",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "hayabusa",
+      "name": "Hayabusa",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "helcurt",
+      "name": "Helcurt",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "hilda",
+      "name": "Hilda",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Hilda in Mobile Legends: EXP Bruiser Execute",
+          "icon": "",
+          "type": "",
+          "description": "EXP setup for side-lane pressure where Thunder Belt and War Axe reward repeated contact before Execute closes the trade."
+        }
+      ]
+    },
+    {
+      "slug": "hylos",
+      "name": "Hylos",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "irithel",
+      "name": "Irithel",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Irithel in Mobile Legends: Anti-Dive Flicker",
+          "icon": "",
+          "type": "",
+          "description": "Safety build for physical dive games where Flicker and Wind of Nature matter more than a greedier sixth damage slot."
+        }
+      ]
+    },
+    {
+      "slug": "ixia",
+      "name": "Ixia",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Star Helix",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f4f780b9ada962f9e52903d9ad5359fd.png",
+          "type": "Skill 2",
+          "description": "Ixia unleashes a canister of Starlium energy in the target direction, knocking back nearby enemies, and pulling enemies in range to the center line after a short delay and dealing 200( +60% Total Physical Attack) (Physical Damage)."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Dual Beam",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_a8abf9eeb77d6cb3afccd0bd4bb9d772.png",
+          "type": "Skill 1",
+          "description": "Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing 75( +80% Total Physical Attack) (Physical Damage) to enemies in a rectangular area and slowing enemy heroes by 40%. Upon hitting an enemy hero, Ixia also gains 40% Movement Speed for 2s. Enemies hit by both beams will take double damage."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Full Barrage",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_da280fb5742c603e295f58bf621d50c1.png",
+          "type": "Ultimate",
+          "description": "Ixia reassembles her weapon into 6 smaller weapons and enters the (Barrage) state for 4s. In this state, Ixia's Basic Attacks and skills can hit enemies in the large fan-shaped area in front of her but not outside it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and (Siphon Starlium) will fire simultaneously with her normal Basic Attacks."
+        }
+      ]
+    },
+    {
+      "slug": "jawhead",
+      "name": "Jawhead",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "johnson",
+      "name": "Johnson",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Johnson in Mobile Legends: Roam Pickoff Dire Hit",
+          "icon": "",
+          "type": "",
+          "description": "Fast-rotation pickoff setup for games built around one delivered passenger, chain control, and finishing low HP targets."
+        }
+      ]
+    },
+    {
+      "slug": "joy",
+      "name": "Joy",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "julian",
+      "name": "Julian",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Sword",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_d6613dbbb34db5ff5721d4837d765399.png",
+          "type": "Skill 2",
+          "description": "Julian summons a flying sword and dashes in the target direction, dealing 400( +80% Total Magic Power) (Magic Damage) to enemies along the way."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Chain",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_45cad9ef470209b6a039b6817d231ad7.png",
+          "type": "Ultimate",
+          "description": "Julian casts chains at the target location, dealing 300( +100% Total Magic Power) (Magic Damage) to enemies hit after a short delay and immobilizing them for 1.2s."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Scythe",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_00c9de405a78fdd50226b61d82c6d0eb.png",
+          "type": "Skill 1",
+          "description": "Julian hurls a flying scythe in the target direction, dealing 380( +140% Total Magic Power) (Magic Damage) to enemies along the way and slowing them by 30% for 1s. The scythe disappears upon hitting a non-minion enemy."
+        }
+      ]
+    },
+    {
+      "slug": "kadita",
+      "name": "Kadita",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Kadita in Mobile Legends: Mid Pickoff Default",
+          "icon": "",
+          "type": "",
+          "description": "Default mid build for standard ranked games where Kadita needs reliable one-combo damage on the enemy backline."
+        }
+      ]
+    },
+    {
+      "slug": "kagura",
+      "name": "Kagura",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "kaja",
+      "name": "Kaja",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "kalea",
+      "name": "Kalea",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Wavebreaker",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_e5ccc8c144997bb6676fe8199bc9979b.png",
+          "type": "Skill 1",
+          "description": "Kalea slams her fist into the ground, creating a wave that deals 200 (+5% Total HP) Physical Damage to nearby enemies and slows them by 40% for 1.5s."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Tsunami Slam",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_ff24a8b43cd23f1be612856e11e8e761.png",
+          "type": "Ultimate",
+          "description": "Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction (drag the Joystick to change landing spot). She gains Control Immunity during this process. Upon landing, deals 300 (+80% Total Physical Attack) Physical Damage to the target and nearby enemies."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Tidal Strike",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6cc2f9fe1c18c569d0f327e29f0c77fa.png",
+          "type": "Skill 2",
+          "description": "Kalea charges forward and body slams the first enemy hero she encounters, knocking them airborne for 0.6s (unaffected by Resilience) while dealing 150 (+60% Total Physical Attack) Physical Damage. If she collides with an obstacle or touches the edge of a Water Zone during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing 150 (+60% Total Physical Attack) Physical Damage and knocking enemies airborne for 0.6s (unaffected by Resilience)."
+        }
+      ]
+    },
+    {
+      "slug": "karina",
+      "name": "Karina",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "karrie",
+      "name": "Karrie",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "khaleed",
+      "name": "Khaleed",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "khufra",
+      "name": "Khufra",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "kimmy",
+      "name": "Kimmy",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "lancelot",
+      "name": "Lancelot",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "lapu-lapu",
+      "name": "Lapu-Lapu",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "layla",
+      "name": "Layla",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "leomord",
+      "name": "Leomord",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "lesley",
+      "name": "Lesley",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "ling",
+      "name": "Ling",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "lolita",
+      "name": "Lolita",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "lukas",
+      "name": "Lukas",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "lunox",
+      "name": "Lunox",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "luo-yi",
+      "name": "Luo Yi",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "lylia",
+      "name": "Lylia",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Lylia in Mobile Legends: Frontline Control",
+          "icon": "",
+          "type": "",
+          "description": "Objective-fight setup for durable drafts that must walk through layered slows, burn damage, and late penetration."
+        }
+      ]
+    },
+    {
+      "slug": "marcel",
+      "name": "Marcel",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Framed Moment",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_8cc948ee89d2fd1a4c581fb14c5dec23.png",
+          "type": "Skill 1",
+          "description": "Clemar focuses on an area around Marcel, slowing enemy heroes within by 60%. After 2.5s, he completes the shot, dealing 350 (+50% Total Physical Attack)(+120% Total Magic Defense)(+120% Total Physical Defense) Physical Damage to enemies within."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Tracking Shot",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_f5fc45ee46ef9230c3bdf1229076b28f.png",
+          "type": "Skill 2",
+          "description": "Artist inspiration time! Marcel enters the Tracking Haste state for 3s, gaining 15% Movement Speed. This bonus increases to 75% when moving toward an enemy hero. Use Again: Marcel dashes in the target direction, leaving a framing phantom behind while the Framed Moment area remains at the original location."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Platinum Snap",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_7548012a0f8fcbf32ac9b635406cc6e4.png",
+          "type": "Passive",
+          "description": "Marcel's split soul, Clemar, enters the camera to freeze the moment. His Basic Attacks deal 50 (+40% Total Physical Attack)(+40% Total Magic Defense)(+40% Total Physical Defense) Physical Damage. His Extra HP is converted into 1.5% Hybrid Defense. Clemar automatically snaps photos of enemy heroes near Marcel, causing a brief Frozen Moment and dealing 20 (+ 5% of Max HP) True Damage (triggers Attack Effects). It also grants a shield of the same value to Marcel and a nearby allied hero. Cooldown: 12s per target."
+        }
+      ]
+    },
+    {
+      "slug": "martis",
+      "name": "Martis",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "mathilda",
+      "name": "Mathilda",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "melissa",
+      "name": "Melissa",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Doll Buster",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1885d2903ffe007effddfef83f69f28f.png",
+          "type": "Passive",
+          "description": "\"My tailor shop excels at fixing and 'fixing' dolls. Am I right, Muddles?\" (Melissa deals 125% damage to Minions, Creeps, and Summoned Units.)"
+        },
+        {
+          "position": "Skill 2",
+          "name": "Falling!",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c00db06b0bccee41a914ec8301feed2b.png",
+          "type": "Skill 1",
+          "description": "\"Watch me slide forward and increase my Attack Speed for 3 seconds— Ah, that was just boring…\" \"(Muddles), go that way!\" \"(Cuddles), come here!\" (The skill's cooldown is reduced by 0.5s each time Melissa damages the enemy by attacking (Muddles).)"
+        },
+        {
+          "position": "Ultimate",
+          "name": "Eyes on You!",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_5f7c343dbca6eb726c39c44f46397e47.png",
+          "type": "Skill 2",
+          "description": "\"The plan's like this: Throw (Muddles) out to hold down the bad guys, and then… I come on stage!\" \"I puncture the bad guys, while (Giggles) hit (Muddles) to punish them as well! Hee, fantastic!\" ((Muddles) deals 250( +80% Total Physical Attack) (Physical Damage) on the first hit and links nearby enemies for up to 6s. Linked enemies are slowed by 60% that decays over 1.5s and can break the link by moving out of the range. (Muddles) will return to Melissa early when there are no enemies around and immediately if she's too far away. When (Muddles) is present, you can tap the (Attack Minion) button to directly attack (Muddles), though it cannot trigger the multi-hit damage.)"
+        }
+      ]
+    },
+    {
+      "slug": "minotaur",
+      "name": "Minotaur",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "minsitthar",
+      "name": "Minsitthar",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "miya",
+      "name": "Miya",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "moskov",
+      "name": "Moskov",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Moskov in Mobile Legends: Front-to-Back Anti-Tank",
+          "icon": "",
+          "type": "",
+          "description": "Tank-breaking setup for grouped fights where Moskov can stand behind peel and pierce through the nearest durable target."
+        }
+      ]
+    },
+    {
+      "slug": "nana",
+      "name": "Nana",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "natalia",
+      "name": "Natalia",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "natan",
+      "name": "Natan",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "nolan",
+      "name": "Nolan",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "novaria",
+      "name": "Novaria",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "obsidia",
+      "name": "Obsidia",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Phantom Shadowmeld",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_27b8bf74b5f22a09a7ae1e4d0c69c056.png",
+          "type": "Skill 2",
+          "description": "Obsidia descends into the Abyss and enters Shadowmeld Form, gaining 500% Movement Speed for 0.3s."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Abyssal Bone Needle",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_6a6cfd77d892164ae8fbb98819a7233b.png",
+          "type": "Skill 1",
+          "description": "Obsidia launches an Abyssal Bone Needle, dealing 325 (+80% Total Physical Attack) Physical Damage to enemies hit and triggering Return to Bone on the first enemy hero struck."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Return to Bone",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_636c671e6ea7c9fd89e992c42fb9f4dc.png",
+          "type": "Passive",
+          "description": "Obsidia gains Bone Energy whenever she deals damage. Basic Attacks grant 1 Energy against non-hero units and 2 against hero units. Skills grant Energy equal to 3 times the amount granted by Basic Attacks against the same unit type. No Energy is gained from hitting creeps. At 30 Bone Energy, it forms a Bone Shard (up to 25 shards). Killing an enemy hero instantly grants 1 Bone Shard(s). When Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing (+6% Total Physical Attack) Physical Damage (inherits 6% Attack Effects). Obsidia's Basic Attacks deal 70 (+70% Total Physical Attack) Physical Damage (inherits 100% Attack Effects)."
+        }
+      ]
+    },
+    {
+      "slug": "odette",
+      "name": "Odette",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "paquito",
+      "name": "Paquito",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "pharsa",
+      "name": "Pharsa",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "phoveus",
+      "name": "Phoveus",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "popol-and-kupa",
+      "name": "Popol and Kupa",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "rafaela",
+      "name": "Rafaela",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "roger",
+      "name": "Roger",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "ruby",
+      "name": "Ruby",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "How to Build Ruby in Mobile Legends: Roam Catch Frontline",
+          "icon": "",
+          "type": "",
+          "description": "Roam setup for drafts that need Ruby as a catch-and-peel frontliner rather than a side-lane bruiser."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "saber",
+      "name": "Saber",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "selena",
+      "name": "Selena",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Selena in Mobile Legends: Mid Pickoff Burst",
+          "icon": "",
+          "type": "",
+          "description": "Default mid build for turning one trap-arrow connection into a kill threat through Clock, Truncheon, and Starlium burst."
+        }
+      ]
+    },
+    {
+      "slug": "silvanna",
+      "name": "Silvanna",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "sora",
+      "name": "Sora",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "sun",
+      "name": "Sun",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "suyou",
+      "name": "Suyou",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "terizla",
+      "name": "Terizla",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "thamuz",
+      "name": "Thamuz",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "tigreal",
+      "name": "Tigreal",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "uranus",
+      "name": "Uranus",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Uranus in Mobile Legends: Anti-Physical Frontline",
+          "icon": "",
+          "type": "",
+          "description": "Pick this when the enemy marksman or physical jungler must hit through Uranus before your back line can play the fight."
+        }
+      ]
+    },
+    {
+      "slug": "vale",
+      "name": "Vale",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "How to Build Vale in Mobile Legends: Ultimate Reset Control",
+          "icon": "",
+          "type": "",
+          "description": "Assist-driven control build for coordinated fights where Vale can cast Windstorm, collect a reset, and threaten the next choke point."
+        },
+        {
+          "position": "Skill 1",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 2",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "valentina",
+      "name": "Valentina",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "How to Build Valentina in Mobile Legends: Ultimate-Cycle Tempo",
+          "icon": "",
+          "type": "",
+          "description": "Tempo build for coordinated fights where assists let Valentina recycle I Am You and keep non-ultimate skills moving between skirmishes."
+        },
+        {
+          "position": "Skill 1",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 2",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "valir",
+      "name": "Valir",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "vexana",
+      "name": "Vexana",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "wanwan",
+      "name": "Wanwan",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "How to Build Wanwan in Mobile Legends: Front-to-Back Anti-Tank",
+          "icon": "",
+          "type": "",
+          "description": "Tank-breaking setup for grouped fights where Wanwan can work through the nearest durable target before chasing resets."
+        }
+      ]
+    },
+    {
+      "slug": "x-borg",
+      "name": "X.Borg",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "xavier",
+      "name": "Xavier",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "yi-sun-shin",
+      "name": "Yi Sun-shin",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "yin",
+      "name": "Yin",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "yu-zhong",
+      "name": "Yu Zhong",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "yve",
+      "name": "Yve",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "zetian",
+      "name": "Zetian",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Fury of the Phoenix",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_c4ad79c62c6d69f54cae3baf2b8ac69d.png",
+          "type": "Ultimate",
+          "description": "Zetian calls upon her divine mandate and the hearts of her people, granting all allied heroes 40% Movement Speed that gradually decays over 3s, while bringing divine retribution upon all enemy heroes, dealing 400 (+100% Total Magic Power) Magic Damage and stunning them for 0.8s. Zetian gains vision of all enemy heroes during this time. Zetian can cast other skills while channeling this skill."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Celestial Armament",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_44934a50e133cbe0387d520f0eafd0bb.png",
+          "type": "Passive",
+          "description": "Phoenix Crown: When Zetian hits enemy heroes with Phoenix Strike or Phoenix Descent, she gains 1% Spell Vamp for 5s (up to 10 stacks). Celestial Robe: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who approaches her, dealing 90(+10*Hero Level) (+50% Total Magic Power) Magic Damage. She also gains a 300(+20*Hero Level) (+50% Total Magic Power) shield for 3s. Cooldown: 120s."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Phoenix Strike",
+          "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_d9814f641d7040f425863cbb9733ce57.png",
+          "type": "Skill 1",
+          "description": "Zetian unleashes a Phoenix Wave in the target direction. If it hits an enemy, she automatically casts another wave (up to 3 times). Zetian can cast other skills during this time. The waves deal 150 (+50% Total Magic Power), 150 (+50% Total Magic Power), and 360 (+120% Total Magic Power) Magic Damage, respectively. The 3rd wave has a larger area and pulls enemies toward the cast direction (not considered a control effect). The Spell Vamp ratio against minions is only 65%."
+        }
+      ]
+    },
+    {
+      "slug": "zhask",
+      "name": "Zhask",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "How to Build Zhask in Mobile Legends: Ultimate Tempo",
+          "icon": "",
+          "type": "",
+          "description": "Tempo build for skirmish-heavy games. Fleeting Time turns kills and assists into faster Dominator's Descent windows, while Demon Boots keeps repeated spawn placements from draining mana before objectives."
+        },
+        {
+          "position": "Skill 1",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 2",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "zhuxin",
+      "name": "Zhuxin",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    },
+    {
+      "slug": "zilong",
+      "name": "Zilong",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Slendertaker",
+          "icon": "https://mlbbhub.com/authors/slendertaker.webp",
+          "type": "",
+          "description": "Mythic Immortal, Founder & Editor of MLBBHub"
+        },
+        {
+          "position": "Skill 1",
+          "name": "Mobile Legends: Bang Bang",
+          "icon": "",
+          "type": "",
+          "description": "5v5 MOBA game for mobile devices"
+        },
+        {
+          "position": "Skill 2",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Mobile Legends: Bang Bang companion tool with hero counters, tier lists, build guides, and draft simulator."
+        },
+        {
+          "position": "Ultimate",
+          "name": "MLBBHub",
+          "icon": "",
+          "type": "",
+          "description": "Data-driven companion site for Mobile Legends: Bang Bang with hero counters, tier lists, build guides, and draft simulator."
+        }
+      ]
+    }
+  ]
+}
