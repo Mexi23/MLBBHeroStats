@@ -1,0 +1,39 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-07-11",
+  "heroes": [
+    {
+      "slug": "aamon",
+      "name": "Aamon",
+      "title": "Duke of Shards",
+      "description": "Aamon is a burst assassin who uses camouflage and shard attacks to eliminate isolated enemies.",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Magic Damage"
+      ]
+    },
+    {
+      "slug": "hayabusa",
+      "name": "Hayabusa",
+      "title": "Crimson Shadow",
+      "description": "Hayabusa is an isolation assassin designed to mark one target, eliminate them quickly, and escape before the enemy team can respond.",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Burst"
+      ]
+    },
+    {
+      "slug": "gusion",
+      "name": "Gusion",
+      "title": "Holy Blade",
+      "description": "Gusion is a high-mobility assassin who relies on fast skill combinations and precise positioning.",
+      "difficulty": "Hard",
+      "specialty": [
+        "Burst",
+        "Magic Damage"
+      ]
+    }
+  ]
+}
