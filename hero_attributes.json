@@ -1,0 +1,1312 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-07-11",
+  "source": "MLBBHub hero profile ratings",
+  "scale": {
+    "minimum": 0,
+    "maximum": 100
+  },
+  "total": 130,
+  "heroes": [
+    {
+      "slug": "aamon",
+      "name": "Aamon",
+      "attributes": {
+        "durability": 30,
+        "offense": 70,
+        "control": 10,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "akai",
+      "name": "Akai",
+      "attributes": {
+        "durability": 90,
+        "offense": 30,
+        "control": 90,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "aldous",
+      "name": "Aldous",
+      "attributes": {
+        "durability": 70,
+        "offense": 30,
+        "control": 50,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "alice",
+      "name": "Alice",
+      "attributes": {
+        "durability": 50,
+        "offense": 50,
+        "control": 70,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "alpha",
+      "name": "Alpha",
+      "attributes": {
+        "durability": 60,
+        "offense": 40,
+        "control": 70,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "alucard",
+      "name": "Alucard",
+      "attributes": {
+        "durability": 50,
+        "offense": 50,
+        "control": 10,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "angela",
+      "name": "Angela",
+      "attributes": {
+        "durability": 30,
+        "offense": 20,
+        "control": 50,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "argus",
+      "name": "Argus",
+      "attributes": {
+        "durability": 70,
+        "offense": 50,
+        "control": 50,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "arlott",
+      "name": "Arlott",
+      "attributes": {
+        "durability": 60,
+        "offense": 60,
+        "control": 50,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "atlas",
+      "name": "Atlas",
+      "attributes": {
+        "durability": 80,
+        "offense": 10,
+        "control": 90,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "aulus",
+      "name": "Aulus",
+      "attributes": {
+        "durability": 60,
+        "offense": 60,
+        "control": 10,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "attributes": {
+        "durability": 40,
+        "offense": 70,
+        "control": 100,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "badang",
+      "name": "Badang",
+      "attributes": {
+        "durability": 40,
+        "offense": 70,
+        "control": 50,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "balmond",
+      "name": "Balmond",
+      "attributes": {
+        "durability": 80,
+        "offense": 30,
+        "control": 20,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "bane",
+      "name": "Bane",
+      "attributes": {
+        "durability": 50,
+        "offense": 60,
+        "control": 40,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "barats",
+      "name": "Barats",
+      "attributes": {
+        "durability": 100,
+        "offense": 30,
+        "control": 90,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "baxia",
+      "name": "Baxia",
+      "attributes": {
+        "durability": 100,
+        "offense": 30,
+        "control": 60,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "beatrix",
+      "name": "Beatrix",
+      "attributes": {
+        "durability": 30,
+        "offense": 80,
+        "control": 10,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "belerick",
+      "name": "Belerick",
+      "attributes": {
+        "durability": 90,
+        "offense": 40,
+        "control": 100,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "benedetta",
+      "name": "Benedetta",
+      "attributes": {
+        "durability": 60,
+        "offense": 50,
+        "control": 20,
+        "difficulty": 80
+      }
+    },
+    {
+      "slug": "brody",
+      "name": "Brody",
+      "attributes": {
+        "durability": 40,
+        "offense": 70,
+        "control": 50,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "bruno",
+      "name": "Bruno",
+      "attributes": {
+        "durability": 20,
+        "offense": 60,
+        "control": 20,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "carmilla",
+      "name": "Carmilla",
+      "attributes": {
+        "durability": 90,
+        "offense": 20,
+        "control": 80,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "cecilion",
+      "name": "Cecilion",
+      "attributes": {
+        "durability": 40,
+        "offense": 100,
+        "control": 50,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "change",
+      "name": "Chang'e",
+      "attributes": {
+        "durability": 40,
+        "offense": 80,
+        "control": 20,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "chip",
+      "name": "Chip",
+      "attributes": {
+        "durability": 80,
+        "offense": 20,
+        "control": 60,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "chou",
+      "name": "Chou",
+      "attributes": {
+        "durability": 50,
+        "offense": 30,
+        "control": 80,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "cici",
+      "name": "Cici",
+      "attributes": {
+        "durability": 50,
+        "offense": 60,
+        "control": 30,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "claude",
+      "name": "Claude",
+      "attributes": {
+        "durability": 30,
+        "offense": 60,
+        "control": 10,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "clint",
+      "name": "Clint",
+      "attributes": {
+        "durability": 30,
+        "offense": 70,
+        "control": 40,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "attributes": {
+        "durability": 30,
+        "offense": 100,
+        "control": 70,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "diggie",
+      "name": "Diggie",
+      "attributes": {
+        "durability": 40,
+        "offense": 40,
+        "control": 20,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "dyrroth",
+      "name": "Dyrroth",
+      "attributes": {
+        "durability": 50,
+        "offense": 50,
+        "control": 20,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "edith",
+      "name": "Edith",
+      "attributes": {
+        "durability": 70,
+        "offense": 30,
+        "control": 100,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "esmeralda",
+      "name": "Esmeralda",
+      "attributes": {
+        "durability": 90,
+        "offense": 30,
+        "control": 60,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "estes",
+      "name": "Estes",
+      "attributes": {
+        "durability": 70,
+        "offense": 10,
+        "control": 20,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "eudora",
+      "name": "Eudora",
+      "attributes": {
+        "durability": 10,
+        "offense": 80,
+        "control": 80,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "fanny",
+      "name": "Fanny",
+      "attributes": {
+        "durability": 60,
+        "offense": 70,
+        "control": 10,
+        "difficulty": 100
+      }
+    },
+    {
+      "slug": "faramis",
+      "name": "Faramis",
+      "attributes": {
+        "durability": 40,
+        "offense": 60,
+        "control": 10,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "floryn",
+      "name": "Floryn",
+      "attributes": {
+        "durability": 60,
+        "offense": 10,
+        "control": 70,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "franco",
+      "name": "Franco",
+      "attributes": {
+        "durability": 80,
+        "offense": 10,
+        "control": 100,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "fredrinn",
+      "name": "Fredrinn",
+      "attributes": {
+        "durability": 80,
+        "offense": 50,
+        "control": 60,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "gatotkaca",
+      "name": "Gatotkaca",
+      "attributes": {
+        "durability": 90,
+        "offense": 30,
+        "control": 90,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "gloo",
+      "name": "Gloo",
+      "attributes": {
+        "durability": 100,
+        "offense": 30,
+        "control": 100,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "gord",
+      "name": "Gord",
+      "attributes": {
+        "durability": 10,
+        "offense": 70,
+        "control": 80,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "granger",
+      "name": "Granger",
+      "attributes": {
+        "durability": 30,
+        "offense": 70,
+        "control": 10,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "grock",
+      "name": "Grock",
+      "attributes": {
+        "durability": 90,
+        "offense": 40,
+        "control": 80,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "guinevere",
+      "name": "Guinevere",
+      "attributes": {
+        "durability": 40,
+        "offense": 50,
+        "control": 70,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "gusion",
+      "name": "Gusion",
+      "attributes": {
+        "durability": 30,
+        "offense": 90,
+        "control": 10,
+        "difficulty": 80
+      }
+    },
+    {
+      "slug": "hanabi",
+      "name": "Hanabi",
+      "attributes": {
+        "durability": 20,
+        "offense": 70,
+        "control": 80,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "hanzo",
+      "name": "Hanzo",
+      "attributes": {
+        "durability": 70,
+        "offense": 80,
+        "control": 20,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "harith",
+      "name": "Harith",
+      "attributes": {
+        "durability": 40,
+        "offense": 50,
+        "control": 10,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "harley",
+      "name": "Harley",
+      "attributes": {
+        "durability": 30,
+        "offense": 90,
+        "control": 10,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "hayabusa",
+      "name": "Hayabusa",
+      "attributes": {
+        "durability": 40,
+        "offense": 50,
+        "control": 10,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "helcurt",
+      "name": "Helcurt",
+      "attributes": {
+        "durability": 30,
+        "offense": 50,
+        "control": 50,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "hilda",
+      "name": "Hilda",
+      "attributes": {
+        "durability": 90,
+        "offense": 40,
+        "control": 40,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "hylos",
+      "name": "Hylos",
+      "attributes": {
+        "durability": 100,
+        "offense": 20,
+        "control": 80,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "irithel",
+      "name": "Irithel",
+      "attributes": {
+        "durability": 10,
+        "offense": 80,
+        "control": 10,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "ixia",
+      "name": "Ixia",
+      "attributes": {
+        "durability": 30,
+        "offense": 70,
+        "control": 50,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "jawhead",
+      "name": "Jawhead",
+      "attributes": {
+        "durability": 60,
+        "offense": 30,
+        "control": 60,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "johnson",
+      "name": "Johnson",
+      "attributes": {
+        "durability": 80,
+        "offense": 30,
+        "control": 90,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "joy",
+      "name": "Joy",
+      "attributes": {
+        "durability": 30,
+        "offense": 70,
+        "control": 10,
+        "difficulty": 90
+      }
+    },
+    {
+      "slug": "julian",
+      "name": "Julian",
+      "attributes": {
+        "durability": 60,
+        "offense": 60,
+        "control": 70,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "kadita",
+      "name": "Kadita",
+      "attributes": {
+        "durability": 40,
+        "offense": 80,
+        "control": 80,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "kagura",
+      "name": "Kagura",
+      "attributes": {
+        "durability": 30,
+        "offense": 90,
+        "control": 40,
+        "difficulty": 90
+      }
+    },
+    {
+      "slug": "kaja",
+      "name": "Kaja",
+      "attributes": {
+        "durability": 30,
+        "offense": 20,
+        "control": 60,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "kalea",
+      "name": "Kalea",
+      "attributes": {
+        "durability": 60,
+        "offense": 20,
+        "control": 90,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "karina",
+      "name": "Karina",
+      "attributes": {
+        "durability": 50,
+        "offense": 70,
+        "control": 10,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "karrie",
+      "name": "Karrie",
+      "attributes": {
+        "durability": 30,
+        "offense": 80,
+        "control": 10,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "khaleed",
+      "name": "Khaleed",
+      "attributes": {
+        "durability": 80,
+        "offense": 50,
+        "control": 50,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "khufra",
+      "name": "Khufra",
+      "attributes": {
+        "durability": 90,
+        "offense": 20,
+        "control": 100,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "kimmy",
+      "name": "Kimmy",
+      "attributes": {
+        "durability": 30,
+        "offense": 80,
+        "control": 50,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "lancelot",
+      "name": "Lancelot",
+      "attributes": {
+        "durability": 40,
+        "offense": 50,
+        "control": 10,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "lapu-lapu",
+      "name": "Lapu-Lapu",
+      "attributes": {
+        "durability": 80,
+        "offense": 40,
+        "control": 40,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "layla",
+      "name": "Layla",
+      "attributes": {
+        "durability": 10,
+        "offense": 80,
+        "control": 10,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "leomord",
+      "name": "Leomord",
+      "attributes": {
+        "durability": 70,
+        "offense": 50,
+        "control": 30,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "lesley",
+      "name": "Lesley",
+      "attributes": {
+        "durability": 10,
+        "offense": 70,
+        "control": 20,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "ling",
+      "name": "Ling",
+      "attributes": {
+        "durability": 50,
+        "offense": 60,
+        "control": 30,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "lolita",
+      "name": "Lolita",
+      "attributes": {
+        "durability": 100,
+        "offense": 10,
+        "control": 90,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "lukas",
+      "name": "Lukas",
+      "attributes": {
+        "durability": 70,
+        "offense": 50,
+        "control": 60,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "lunox",
+      "name": "Lunox",
+      "attributes": {
+        "durability": 30,
+        "offense": 90,
+        "control": 20,
+        "difficulty": 90
+      }
+    },
+    {
+      "slug": "luo-yi",
+      "name": "Luo Yi",
+      "attributes": {
+        "durability": 20,
+        "offense": 100,
+        "control": 40,
+        "difficulty": 80
+      }
+    },
+    {
+      "slug": "lylia",
+      "name": "Lylia",
+      "attributes": {
+        "durability": 50,
+        "offense": 100,
+        "control": 20,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "marcel",
+      "name": "Marcel",
+      "attributes": {
+        "durability": 70,
+        "offense": 30,
+        "control": 100,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "martis",
+      "name": "Martis",
+      "attributes": {
+        "durability": 60,
+        "offense": 30,
+        "control": 50,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "mathilda",
+      "name": "Mathilda",
+      "attributes": {
+        "durability": 80,
+        "offense": 20,
+        "control": 40,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "melissa",
+      "name": "Melissa",
+      "attributes": {
+        "durability": 20,
+        "offense": 90,
+        "control": 40,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "minotaur",
+      "name": "Minotaur",
+      "attributes": {
+        "durability": 100,
+        "offense": 10,
+        "control": 80,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "minsitthar",
+      "name": "Minsitthar",
+      "attributes": {
+        "durability": 60,
+        "offense": 40,
+        "control": 80,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "miya",
+      "name": "Miya",
+      "attributes": {
+        "durability": 10,
+        "offense": 70,
+        "control": 40,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "moskov",
+      "name": "Moskov",
+      "attributes": {
+        "durability": 20,
+        "offense": 60,
+        "control": 60,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "nana",
+      "name": "Nana",
+      "attributes": {
+        "durability": 50,
+        "offense": 60,
+        "control": 100,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "natalia",
+      "name": "Natalia",
+      "attributes": {
+        "durability": 10,
+        "offense": 60,
+        "control": 60,
+        "difficulty": 90
+      }
+    },
+    {
+      "slug": "natan",
+      "name": "Natan",
+      "attributes": {
+        "durability": 20,
+        "offense": 60,
+        "control": 20,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "nolan",
+      "name": "Nolan",
+      "attributes": {
+        "durability": 30,
+        "offense": 60,
+        "control": 20,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "novaria",
+      "name": "Novaria",
+      "attributes": {
+        "durability": 30,
+        "offense": 90,
+        "control": 30,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "obsidia",
+      "name": "Obsidia",
+      "attributes": {
+        "durability": 30,
+        "offense": 80,
+        "control": 10,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "odette",
+      "name": "Odette",
+      "attributes": {
+        "durability": 30,
+        "offense": 100,
+        "control": 70,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "paquito",
+      "name": "Paquito",
+      "attributes": {
+        "durability": 60,
+        "offense": 50,
+        "control": 40,
+        "difficulty": 90
+      }
+    },
+    {
+      "slug": "pharsa",
+      "name": "Pharsa",
+      "attributes": {
+        "durability": 20,
+        "offense": 90,
+        "control": 50,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "phoveus",
+      "name": "Phoveus",
+      "attributes": {
+        "durability": 60,
+        "offense": 80,
+        "control": 50,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "popol-and-kupa",
+      "name": "Popol and Kupa",
+      "attributes": {
+        "durability": 30,
+        "offense": 70,
+        "control": 70,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "rafaela",
+      "name": "Rafaela",
+      "attributes": {
+        "durability": 60,
+        "offense": 20,
+        "control": 70,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "roger",
+      "name": "Roger",
+      "attributes": {
+        "durability": 60,
+        "offense": 40,
+        "control": 10,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "ruby",
+      "name": "Ruby",
+      "attributes": {
+        "durability": 90,
+        "offense": 20,
+        "control": 90,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "saber",
+      "name": "Saber",
+      "attributes": {
+        "durability": 20,
+        "offense": 60,
+        "control": 60,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "selena",
+      "name": "Selena",
+      "attributes": {
+        "durability": 30,
+        "offense": 70,
+        "control": 100,
+        "difficulty": 80
+      }
+    },
+    {
+      "slug": "silvanna",
+      "name": "Silvanna",
+      "attributes": {
+        "durability": 50,
+        "offense": 40,
+        "control": 70,
+        "difficulty": 30
+      }
+    },
+    {
+      "slug": "sora",
+      "name": "Sora",
+      "attributes": {
+        "durability": 60,
+        "offense": 60,
+        "control": 50,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "sun",
+      "name": "Sun",
+      "attributes": {
+        "durability": 50,
+        "offense": 50,
+        "control": 10,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "suyou",
+      "name": "Suyou",
+      "attributes": {
+        "durability": 60,
+        "offense": 60,
+        "control": 50,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "terizla",
+      "name": "Terizla",
+      "attributes": {
+        "durability": 90,
+        "offense": 30,
+        "control": 40,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "thamuz",
+      "name": "Thamuz",
+      "attributes": {
+        "durability": 70,
+        "offense": 40,
+        "control": 20,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "tigreal",
+      "name": "Tigreal",
+      "attributes": {
+        "durability": 80,
+        "offense": 10,
+        "control": 100,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "uranus",
+      "name": "Uranus",
+      "attributes": {
+        "durability": 100,
+        "offense": 20,
+        "control": 20,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "vale",
+      "name": "Vale",
+      "attributes": {
+        "durability": 20,
+        "offense": 100,
+        "control": 70,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "valentina",
+      "name": "Valentina",
+      "attributes": {
+        "durability": 50,
+        "offense": 40,
+        "control": 40,
+        "difficulty": 80
+      }
+    },
+    {
+      "slug": "valir",
+      "name": "Valir",
+      "attributes": {
+        "durability": 20,
+        "offense": 70,
+        "control": 70,
+        "difficulty": 20
+      }
+    },
+    {
+      "slug": "vexana",
+      "name": "Vexana",
+      "attributes": {
+        "durability": 20,
+        "offense": 90,
+        "control": 50,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "wanwan",
+      "name": "Wanwan",
+      "attributes": {
+        "durability": 20,
+        "offense": 60,
+        "control": 30,
+        "difficulty": 80
+      }
+    },
+    {
+      "slug": "x-borg",
+      "name": "X.Borg",
+      "attributes": {
+        "durability": 80,
+        "offense": 30,
+        "control": 10,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "xavier",
+      "name": "Xavier",
+      "attributes": {
+        "durability": 20,
+        "offense": 100,
+        "control": 80,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "yi-sun-shin",
+      "name": "Yi Sun-shin",
+      "attributes": {
+        "durability": 40,
+        "offense": 90,
+        "control": 40,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "yin",
+      "name": "Yin",
+      "attributes": {
+        "durability": 50,
+        "offense": 60,
+        "control": 80,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "yu-zhong",
+      "name": "Yu Zhong",
+      "attributes": {
+        "durability": 70,
+        "offense": 40,
+        "control": 70,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "yve",
+      "name": "Yve",
+      "attributes": {
+        "durability": 40,
+        "offense": 80,
+        "control": 40,
+        "difficulty": 50
+      }
+    },
+    {
+      "slug": "zetian",
+      "name": "Zetian",
+      "attributes": {
+        "durability": 40,
+        "offense": 70,
+        "control": 50,
+        "difficulty": 10
+      }
+    },
+    {
+      "slug": "zhask",
+      "name": "Zhask",
+      "attributes": {
+        "durability": 10,
+        "offense": 100,
+        "control": 40,
+        "difficulty": 70
+      }
+    },
+    {
+      "slug": "zhuxin",
+      "name": "Zhuxin",
+      "attributes": {
+        "durability": 40,
+        "offense": 80,
+        "control": 80,
+        "difficulty": 40
+      }
+    },
+    {
+      "slug": "zilong",
+      "name": "Zilong",
+      "attributes": {
+        "durability": 20,
+        "offense": 50,
+        "control": 60,
+        "difficulty": 10
+      }
+    }
+  ]
+}
