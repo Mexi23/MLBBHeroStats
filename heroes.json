@@ -1,4 +1,1494 @@
-
 {
-  "heroes": []
+  "version": "1.0.0",
+  "updated": "2026-07-11",
+  "total": 130,
+  "heroes": [
+    {
+      "slug": "aamon",
+      "name": "Aamon",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_26b1c0ec95ad9e98f81b07d6838a8652.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "akai",
+      "name": "Akai",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2fab842e4c04d903b1b46c3c4a1d02ad.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "aldous",
+      "name": "Aldous",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_e4f7847a1b687a2e4f414e531cd66b1b.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "alice",
+      "name": "Alice",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/66c9a33b830173a5fd93d9940429b491.jpg",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "EXP",
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "alpha",
+      "name": "Alpha",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0fd2c33fbf0235703b1c936059cf1b8e.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "alucard",
+      "name": "Alucard",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c9a8a8b1bb1fed4190f3168d44810ce3.jpg",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "angela",
+      "name": "Angela",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_187b8452435b469e8867e8fb2d387a5b.jpg",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "argus",
+      "name": "Argus",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_802afa50ffd43d553c3b924d111249c1.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "arlott",
+      "name": "Arlott",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d29e8f9f2d129f18a944da0a8e9044c2.jpg",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "atlas",
+      "name": "Atlas",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a217534db9b67c6db2c45d57a0d640c.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "aulus",
+      "name": "Aulus",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/df1df2053afbdda1167d647bbb8b3a81.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "aurora",
+      "name": "Aurora",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_58b97db6a5c286059057d42289612b16.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "badang",
+      "name": "Badang",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ce3e2759eb9ccd7a94ae3a2ee4e8b8e7.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "balmond",
+      "name": "Balmond",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8f49801963afcd9b7c6fe6f59153ccc0.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "bane",
+      "name": "Bane",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7060e1c063474bb8ff9472d61f7ce4c3.jpg",
+      "role": [
+        "Fighter",
+        "Mage"
+      ],
+      "lane": [
+        "Jungle",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "barats",
+      "name": "Barats",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1b9fec44c21db9ecba0229ac227c7d51.jpg",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "baxia",
+      "name": "Baxia",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_478a4875002331e56e73835a2697ad5d.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "beatrix",
+      "name": "Beatrix",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2f25a8ef9bbb2d52eaaea8d6eee85d22.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "belerick",
+      "name": "Belerick",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64900b3344e166f05645ac5759207897.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "benedetta",
+      "name": "Benedetta",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2153076135c5ea537f796c4352dd9800.jpg",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "brody",
+      "name": "Brody",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_9a3feb044b76ac87f886a0fdf4ef4f13.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "bruno",
+      "name": "Bruno",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_03cd0ea0a0f0bd80ca4f7462174f80b1.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "carmilla",
+      "name": "Carmilla",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_08d58580aaeaab354c2d267d8746c42d.jpg",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "cecilion",
+      "name": "Cecilion",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_71d6b7fc8cfe8fd9b0c20ad3be1af4e8.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "change",
+      "name": "Chang'e",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bf3d5cdc1c0e33f5aab7732e153c7409.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "chip",
+      "name": "Chip",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_fb8b4e345db174545e967b7bcbd219f4.jpg",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "chou",
+      "name": "Chou",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_011409dfe1a2cf4cf5f879ea07fb3a8e.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP",
+        "Roam"
+      ]
+    },
+    {
+      "slug": "cici",
+      "name": "Cici",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_eb1705dc650b3980d57c638d02bfb470.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "claude",
+      "name": "Claude",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1edf19b0839ffd2bffb60b4ee4953239.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "clint",
+      "name": "Clint",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8136b5ece3387dfe347956f797a14a5d.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "cyclops",
+      "name": "Cyclops",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b506976dcb608de1f369ab8f6b3cb055.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "diggie",
+      "name": "Diggie",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_91b0167c49a789de46de29c3714da515.jpg",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "dyrroth",
+      "name": "Dyrroth",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/636054ad39847fcc242d0b03feadffac.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP",
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "edith",
+      "name": "Edith",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0598a42d46dd271410f403b57eb02e2a.jpg",
+      "role": [
+        "Tank",
+        "Marksman"
+      ],
+      "lane": [
+        "EXP",
+        "Roam"
+      ]
+    },
+    {
+      "slug": "esmeralda",
+      "name": "Esmeralda",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_980e6419f7763a9dd26818312d73cc6d.jpg",
+      "role": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "estes",
+      "name": "Estes",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_137acad8cd747ef9d0dec755158aff18.jpg",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "eudora",
+      "name": "Eudora",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/8db55c33fd2a5c84822a2a6c51e1fb18.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "fanny",
+      "name": "Fanny",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_74fabc6c0d5db065fbb836b6879f36ca.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "faramis",
+      "name": "Faramis",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a171d8e12dd5eda201750e794dd5e313.jpg",
+      "role": [
+        "Support",
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "floryn",
+      "name": "Floryn",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_854338f3ad90cb9e14aec15c8b8a08c7.jpg",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "franco",
+      "name": "Franco",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ad018d324520174ab87b3a1098507fb6.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "fredrinn",
+      "name": "Fredrinn",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bafe5308a1e6db91ba57e39c45874a92.jpg",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "gatotkaca",
+      "name": "Gatotkaca",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9a9551515638bb9b6128eef1ee916bd.jpg",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "gloo",
+      "name": "Gloo",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/7257d4ee30eff4d5bc5726027eee5f96.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "gord",
+      "name": "Gord",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/fe7d492d0a71f96da12ff710d41a76cb.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "granger",
+      "name": "Granger",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/5d272478f2f89dcae9e6896cb19743ac.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "grock",
+      "name": "Grock",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/c5df319054bcefec1d17c771b45b9e10.jpg",
+      "role": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "guinevere",
+      "name": "Guinevere",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5acbfb73c47c25d4689f93c3c950fc8f.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "gusion",
+      "name": "Gusion",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/a888de3fe448be8f29b50a62d0193aaf.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "hanabi",
+      "name": "Hanabi",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/0208ca2382d8cfdcd277ef5d532316f7.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "hanzo",
+      "name": "Hanzo",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/4e77b4cc8c101bbd62f548ed10ea1ed4.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "harith",
+      "name": "Harith",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_c1dcef05408b7c644298bab812517de3.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Gold",
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "harley",
+      "name": "Harley",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7b867b2f05de71466a0e98ea6898eff2.jpg",
+      "role": [
+        "Assassin",
+        "Mage"
+      ],
+      "lane": [
+        "Jungle",
+        "Mid"
+      ]
+    },
+    {
+      "slug": "hayabusa",
+      "name": "Hayabusa",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_82560b092a98bcb328def807a2a48cfe.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "helcurt",
+      "name": "Helcurt",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7d54de9ffe40c05d51b4a27318ed5f6d.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ]
+    },
+    {
+      "slug": "hilda",
+      "name": "Hilda",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_35f2e88037398136c01b314deb573eb0.jpg",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "Roam",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "hylos",
+      "name": "Hylos",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bcc177e4f62634fca493732e4058c626.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "irithel",
+      "name": "Irithel",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f999fb58616e2d87c29dcb92177990f5.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "ixia",
+      "name": "Ixia",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_48896a3cf0ee41c3d54c2b651ed926ea.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "jawhead",
+      "name": "Jawhead",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a48e93159c30c31e05dcd6cf7f53c07c.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "johnson",
+      "name": "Johnson",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b40543fb2ad8f8ef198c66f0d9eadeef.jpg",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "joy",
+      "name": "Joy",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f647bf6dbb80b4b2b2310ab5af88773d.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "julian",
+      "name": "Julian",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5b493fa77cd6ea1a799577a69c86fbd2.jpg",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "kadita",
+      "name": "Kadita",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3671cbec60a1b4f62971d37e7ecc0e89.jpg",
+      "role": [
+        "Mage",
+        "Assassin"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "kagura",
+      "name": "Kagura",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_64bda78279297278301e236555a15404.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "kaja",
+      "name": "Kaja",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1a0b70adda2acee8c950dd0982b45e5c.jpg",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "kalea",
+      "name": "Kalea",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/6bde4242228d5ea98b700c9cfc1e837d.jpg",
+      "role": [
+        "Support",
+        "Fighter"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "karina",
+      "name": "Karina",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_37b5cfef887a7afc63dfaf7b6dfd65c4.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "karrie",
+      "name": "Karrie",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bd34b1ec70de7a32b724dd606cb56331.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "khaleed",
+      "name": "Khaleed",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_155712d0d854711a12f2754865acc17b.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Roam",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "khufra",
+      "name": "Khufra",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_3ffc413118c62fc17f599cb35172ba9c.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "kimmy",
+      "name": "Kimmy",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/f2851daf34080fb5406f8d602b9fa489.jpg",
+      "role": [
+        "Marksman",
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "lancelot",
+      "name": "Lancelot",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_015bacc4e1111e5e2b4a33b5e58ff106.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "lapu-lapu",
+      "name": "Lapu-Lapu",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_d407ccb622db392981d2fceff06d757c.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "layla",
+      "name": "Layla",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_0db5131842bec1fdbdf5f8533ebada2c.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "leomord",
+      "name": "Leomord",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_77c6d6b5b84b658c8f25e6f371658cbd.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "lesley",
+      "name": "Lesley",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/1f0d645266d902f3f927ea7fc04c1bca.jpg",
+      "role": [
+        "Marksman",
+        "Assassin"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "ling",
+      "name": "Ling",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f76a7dfe805afa316e5ec44295b75772.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "lolita",
+      "name": "Lolita",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1bc4973e512cf4958fe639e12391666e.jpg",
+      "role": [
+        "Support",
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "lukas",
+      "name": "Lukas",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/95b6f94a0e37fd02e069223493540e75.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP",
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "lunox",
+      "name": "Lunox",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8cd47d47126be5496fecb45304368069.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "luo-yi",
+      "name": "Luo Yi",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_52c14752b29b6f9039da26a50e860c5c.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "lylia",
+      "name": "Lylia",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_8d16667b16673a1919c513fa46bbf2d0.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "marcel",
+      "name": "Marcel",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/3542718f699058d42801d88ec9b8fb8b.jpg",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "martis",
+      "name": "Martis",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_01b9995a75249c3155ca96e4713139a9.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "mathilda",
+      "name": "Mathilda",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5d6eb0491da5709648beca54f906c0a3.jpg",
+      "role": [
+        "Support",
+        "Assassin"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "melissa",
+      "name": "Melissa",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5c2a434757066a779c8adec5af05a8d1.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "minotaur",
+      "name": "Minotaur",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_db4fda77f902f3dde09d247498da23cc.jpg",
+      "role": [
+        "Tank",
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "minsitthar",
+      "name": "Minsitthar",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5a18fa300eb0de4324601c116eab655c.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP",
+        "Roam"
+      ]
+    },
+    {
+      "slug": "miya",
+      "name": "Miya",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/6667b3e9109ca180e63c524471f29278.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "moskov",
+      "name": "Moskov",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_843f1c2c3a1b2d4da2fc2ec73cf47cfa.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "nana",
+      "name": "Nana",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4258783f9b44a4ad1c67c0b8781051fa.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "natalia",
+      "name": "Natalia",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_79e90c124d786bbfdae31f3a28827e7d.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ]
+    },
+    {
+      "slug": "natan",
+      "name": "Natan",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_bc73ea56e3e05b4f9ed8046b959e1290.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "nolan",
+      "name": "Nolan",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cae4b6dafe9d345f84eee1c983333c0c.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "novaria",
+      "name": "Novaria",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b2599c8a6c681afdee9a06a92190a58d.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "obsidia",
+      "name": "Obsidia",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/1dca7f088da27d5a12faf83f7c1f8269.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "odette",
+      "name": "Odette",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7448f16293a6be9311f82d581e78749a.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "paquito",
+      "name": "Paquito",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ef4c59d1923663a6aaa77d1c0a7ff258.jpg",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "pharsa",
+      "name": "Pharsa",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_353d39f8ae9ea1454e34ad8546db8417.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "phoveus",
+      "name": "Phoveus",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_b811616b91e45a75437a6d5b9f386bd3.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "popol-and-kupa",
+      "name": "Popol and Kupa",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_555eb8df475f57d6f01a1f2a2675671c.jpg",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle",
+        "Gold"
+      ]
+    },
+    {
+      "slug": "rafaela",
+      "name": "Rafaela",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_491618ae5cb3d561f5f02fbb3d82a83d.jpg",
+      "role": [
+        "Support"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "roger",
+      "name": "Roger",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ff92c4b5afb41060af1b951ba9f03edd.jpg",
+      "role": [
+        "Fighter",
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "ruby",
+      "name": "Ruby",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2cfc71331f6e2435394bfa44c322405c.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "saber",
+      "name": "Saber",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_15e49c7cc5398ca2d903a485145c0702.jpg",
+      "role": [
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "Roam"
+      ]
+    },
+    {
+      "slug": "selena",
+      "name": "Selena",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_4ce7dbe0cbcbaf4c2fcc47bd96780b35.jpg",
+      "role": [
+        "Assassin",
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "silvanna",
+      "name": "Silvanna",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_a9de8642b6e62f44652c519f153620d2.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "sora",
+      "name": "Sora",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/d6348e65d8d0d4ca8b0738d691cef440.jpg",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "sun",
+      "name": "Sun",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5dd440a371270f458071305b9bf107b5.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP",
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "suyou",
+      "name": "Suyou",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/13912f0dbc96b6cf53a00e80ff731dab.jpg",
+      "role": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "terizla",
+      "name": "Terizla",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_2352b6ef3a86441e2a3880fa436df1de.jpg",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "thamuz",
+      "name": "Thamuz",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/1699a938c6938947e534aa2874341d58.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "tigreal",
+      "name": "Tigreal",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_ec2ad5967a2d8a0ac5e2cef2a1e24411.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "Roam"
+      ]
+    },
+    {
+      "slug": "uranus",
+      "name": "Uranus",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_1e52a042e596bd333ccab46d00bb8c72.jpg",
+      "role": [
+        "Tank"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "vale",
+      "name": "Vale",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_25040275a37d04d6ed8930a64f9e20bd.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "valentina",
+      "name": "Valentina",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_cdd151e2293c14b2abc3c1c8e57d4392.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "valir",
+      "name": "Valir",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_7a285a7d75ceb5fecceec6b2608b232f.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "vexana",
+      "name": "Vexana",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_f1a01e297d30d147c16342efc357275e.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "wanwan",
+      "name": "Wanwan",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/9b163e2146ae6b0e84941032c3f10a41.png",
+      "role": [
+        "Marksman"
+      ],
+      "lane": [
+        "Gold"
+      ]
+    },
+    {
+      "slug": "x-borg",
+      "name": "X.Borg",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/52e2334206e3b30354b129f86ada1ef5.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "xavier",
+      "name": "Xavier",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6ebaf2a24b6b6cf256c9bae408b0400e.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "yi-sun-shin",
+      "name": "Yi Sun-shin",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_42a497ad29f61bdc1cea4bc6a9e1e163.jpg",
+      "role": [
+        "Assassin",
+        "Marksman"
+      ],
+      "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "yin",
+      "name": "Yin",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_5324c7bcbfd9932aca9b8d2e7b8e307a.jpg",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "Jungle",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "yu-zhong",
+      "name": "Yu Zhong",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_97280cb443adc3bcb4ca9b36a0fada53.jpg",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    },
+    {
+      "slug": "yve",
+      "name": "Yve",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/0b6e910cb702dcbb68614c9bac4ba590.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "zetian",
+      "name": "Zetian",
+      "image": "https://akmweb.youngjoygame.com/web/gms/image/b617a6b4d9e2c22a5bc24d886e453399.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "zhask",
+      "name": "Zhask",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_6e99f11105dc89bff1932cd4b3809c12.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "zhuxin",
+      "name": "Zhuxin",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage_92/100_999ac33ac284f6dc38a5f5ae7a6921b8.jpg",
+      "role": [
+        "Mage"
+      ],
+      "lane": [
+        "Mid"
+      ]
+    },
+    {
+      "slug": "zilong",
+      "name": "Zilong",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/file/mlbb/homepage/100_90df181873c42df22049aa056662a934.jpg",
+      "role": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": [
+        "EXP"
+      ]
+    }
+  ]
 }
