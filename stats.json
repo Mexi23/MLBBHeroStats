@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated": "2026-07-11",
+  "updated": "2026-07-16",
   "source": "MLBBHub statistics page",
-  "total": 130,
+  "total": 132,
   "heroes": [
     {
       "slug": "aamon",
@@ -694,6 +694,23 @@
       "pick_rate": 0.9,
       "ban_rate": 10.01,
       "win_rate_delta": 1.39
+    },
+    {
+      "slug": "freya",
+      "name": "Freya",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Ftest%2Fhomepage_2_1_88_1201_1%2F100_b9c34c88762ca8e66ccd4d84071bf0bc.png&w=3840&output=webp&q=75&we",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP",
+        "Jungle"
+      ],
+      "tier": "C",
+      "win_rate": 48.23,
+      "pick_rate": 0.69,
+      "ban_rate": 3.87,
+      "win_rate_delta": null
     },
     {
       "slug": "gatotkaca",
@@ -1403,6 +1420,22 @@
       "pick_rate": 0.57,
       "ban_rate": 0.52,
       "win_rate_delta": -0.15
+    },
+    {
+      "slug": "masha",
+      "name": "Masha",
+      "image": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Ftest%2Fhomepage_2_1_88_1201_1%2F100_c97a314dc260dfad1311512ddc03f936.png&w=3840&output=webp&q=75&we",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP"
+      ],
+      "tier": "S",
+      "win_rate": 57.33,
+      "pick_rate": 0.13,
+      "ban_rate": 0.44,
+      "win_rate_delta": null
     },
     {
       "slug": "mathilda",

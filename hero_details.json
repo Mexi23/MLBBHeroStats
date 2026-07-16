@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "updated": "2026-07-11",
   "source": "MLBBHub hero profile pages",
-  "total": 130,
+  "total": 132,
   "heroes": [
     {
       "slug": "aamon",
@@ -467,6 +467,17 @@
       ]
     },
     {
+      "slug": "freya",
+      "name": "Freya",
+      "title": "",
+      "description": "Freya after the November 2025 rework is a different hero. The 6 Sacred Orb system turned her from a \"spam skills for attack speed\" duelist into a resource manager: stock orbs before the fight, burn them during Valkyrie state, run dry and you are a melee bruiser with no escape. Patch 2.1.88 shortened the Valkyrie window from 12 to 10 seconds and raised the cooldown, so the cost of wasting orbs or mistiming the dive is higher than ever ([patch notes](/patch-notes)).",
+      "difficulty": "Medium",
+      "specialty": [
+        "Chase",
+        "Damage"
+      ]
+    },
+    {
       "slug": "gatotkaca",
       "name": "Gatotkaca",
       "title": "Mighty Legend",
@@ -745,7 +756,7 @@
       "slug": "karina",
       "name": "Karina",
       "title": "Shadow Blade",
-      "description": "Karina's third consecutive attack on the same enemy deals extra (True Damage) equal to 50 plus 5( +3% Total Magic Power)% of their lost HP (up to 2000 (True Damage) against creeps).\\nIf the target is an enemy hero, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5s.\",\"descriptionRich\":[{\"type\":\"text\",\"text\":\"Karina's third consecutive attack on the same enemy deals extra (True Damage) equal to 50 plus 5( +3% Total Magic Power)% of their lost HP (up to 2000 (True Damage) against creeps).\\nIf the target is an enemy hero, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5s.\"}],\"tips\":\"This is Karina's key skill for securing kills, due to it doing more damage to low health targets. The true damage effect ignores the enemy's physical and magical resists.\",\"tipsRich\":[{\"type\":\"text\",\"text\":\"This is Karina's key skill for securing kills, due to it doing more damage to low health targets. The true damage effect ignores the enemy's physical and magical resists.\"}],\"cooldown\":null,\"manaCost\":null,\"icon\":\"https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_fb37b0cbc5e9952ec756e3f58c5df22f.png\",\"tags\":[\"Buff\",\"Damage\"]},{\"name\":",
+      "description": "Karina is less an assassin than a kill-reset engine. Her ultimate cooldown resets on kill and her passive shaves cooldowns off every non-ultimate skill each time she hits a hero, which means the moment she catches the first low-HP target the rest of the enemy team is on borrowed time. That only happens if the draft actually gives her a first pick to catch.",
       "difficulty": "Medium",
       "specialty": [
         "Finisher",
@@ -937,6 +948,17 @@
       "specialty": [
         "Finisher",
         "Charge"
+      ]
+    },
+    {
+      "slug": "masha",
+      "name": "Masha",
+      "title": "",
+      "description": "Masha is not a bruiser who survives fights by being hard to kill. She is a fighter who gets stronger the closer she is to death, and she has three chances to reach that state before she falls. Every decision you make on her should optimize for spending HP on offense, not preserving it.",
+      "difficulty": "Medium",
+      "specialty": [
+        "Push",
+        "Damage"
       ]
     },
     {
