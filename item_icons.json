@@ -6,419 +6,899 @@
   "assets": [
     {
       "name": "Allow Throw",
-      "icon": "https://mlbbhub.com/images/items/allow-throw.png"
+      "icon": "https://mlbbhub.com/images/items/allow-throw.png",
+      "stats": [],
+      "passive": "Trust. Purchase to allow your Jawhead teammate to fling you."
     },
     {
       "name": "Antique Cuirass",
-      "icon": "https://mlbbhub.com/images/items/antique-cuirass.png"
+      "icon": "https://mlbbhub.com/images/items/antique-cuirass.png",
+      "stats": [
+        "+920 HP",
+        "+40 Physical Defense",
+        "+4 HP Regen"
+      ],
+      "passive": "Deter. When hit by a skill, reduces the attacker's Physical Damage by 6% for 2s (this effect stacks up to 3 times)."
     },
     {
       "name": "Arcane Boots",
-      "icon": "https://mlbbhub.com/images/items/arcane-boots.png"
+      "icon": "https://mlbbhub.com/images/items/arcane-boots.png",
+      "stats": [
+        "+10% Magic Penetration",
+        "+40 Movement Speed"
+      ],
+      "passive": ""
     },
     {
       "name": "Ares Belt",
-      "icon": "https://mlbbhub.com/images/items/ares-belt.png"
+      "icon": "https://mlbbhub.com/images/items/ares-belt.png",
+      "stats": [
+        "+770 HP"
+      ],
+      "passive": ""
     },
     {
       "name": "Athena's Shield",
-      "icon": "https://mlbbhub.com/images/items/athenas-shield.png"
+      "icon": "https://mlbbhub.com/images/items/athenas-shield.png",
+      "stats": [
+        "+900 HP",
+        "+48 Magic Defense",
+        "+2 HP Regen"
+      ],
+      "passive": "Shield. Upon taking Magic Damage, gains 25% Magic Damage Reduction for 3s (applies before taking damage). Regains this effect 5s after leaving combat."
     },
     {
       "name": "Azure Blade",
-      "icon": "https://mlbbhub.com/images/items/azure-blade.png"
+      "icon": "https://mlbbhub.com/images/items/azure-blade.png",
+      "stats": [
+        "+5% Cooldown Reduction",
+        "+5 Mana Regen"
+      ],
+      "passive": "Judgement. Within 3s after using a skill, the next Basic Attack deals an additional 50 True Damage. Cooldown: 1.5s."
     },
     {
       "name": "Berserker's Fury",
-      "icon": "https://mlbbhub.com/images/items/berserkers-fury.png"
+      "icon": "https://mlbbhub.com/images/items/berserkers-fury.png",
+      "stats": [
+        "+65 Physical Attack",
+        "+25% Critical Chance"
+      ],
+      "passive": "Doom. Critical strikes grant 5% extra Physical Attack for 2s."
     },
     {
       "name": "Black Ice Shield",
-      "icon": "https://mlbbhub.com/images/items/black-ice-shield.png"
+      "icon": "https://mlbbhub.com/images/items/black-ice-shield.png",
+      "stats": [
+        "+400 Mana",
+        "+18 Physical Defense"
+      ],
+      "passive": "Arctic Cold. Taking damage reduces the attacker's Attack Speed to 90% of normal for 1s."
     },
     {
       "name": "Blade Armor",
-      "icon": "https://mlbbhub.com/images/items/blade-armor.png"
+      "icon": "https://mlbbhub.com/images/items/blade-armor.png",
+      "stats": [
+        "+70 Physical Defense"
+      ],
+      "passive": "Bladed Armor. When struck by a Basic Attack, deals Physical Damage equal to 30% of the incoming damage (calculated before Damage Reduction) plus 20% of the hero's Physical Defense to the attacker and slows them by 15% for 1s."
     },
     {
       "name": "Blade of Despair",
-      "icon": "https://mlbbhub.com/images/items/blade-of-despair.png"
+      "icon": "https://mlbbhub.com/images/items/blade-of-despair.png",
+      "stats": [
+        "+160 Physical Attack",
+        "+5% Movement Speed"
+      ],
+      "passive": "Despair. Dealing damage to non-Minion enemies below 50% HP grants 25% extra Physical Attack for 2s, taking effect before the damage is dealt."
     },
     {
       "name": "Blade of the Heptaseas",
-      "icon": "https://mlbbhub.com/images/items/blade-of-the-heptaseas.png"
+      "icon": "https://mlbbhub.com/images/items/blade-of-the-heptaseas.png",
+      "stats": [
+        "+250 HP",
+        "+70 Physical Attack"
+      ],
+      "passive": "Ambush. If no damage is taken or dealt within 5s, the next Basic Attack deals extra Physical Damage equal to 160 plus 40% Physical Attack and slows the target by 40% for 1.5s."
     },
     {
       "name": "Blood Wings",
-      "icon": "https://mlbbhub.com/images/items/blood-wings.png"
+      "icon": "https://mlbbhub.com/images/items/blood-wings.png",
+      "stats": [
+        "+90 Magic Power"
+      ],
+      "passive": "Guard. Gain an 800 (+100% Total Magic Power) Shield that regenerates 20s after being damaged. The shield grants 30 Movement Speed while active and 150 Movement Speed for 1s after it breaks."
     },
     {
       "name": "Bloody Retribution",
-      "icon": "https://mlbbhub.com/images/items/bloody-retribution.png"
+      "icon": "https://mlbbhub.com/images/items/bloody-retribution.png",
+      "stats": [],
+      "passive": "Bloody Retribution. Retribution damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals 100 True Damage and steals HP equal to 250 plus 20% of the caster's extra HP for 4s. Upgrades after the total number of creep kills, hero kills, and assists reaches 5."
     },
     {
       "name": "Book of Sages",
-      "icon": "https://mlbbhub.com/images/items/book-of-sages.png"
+      "icon": "https://mlbbhub.com/images/items/book-of-sages.png",
+      "stats": [
+        "+8 Magic Power",
+        "+5% Cooldown Reduction"
+      ],
+      "passive": ""
     },
     {
       "name": "Boots",
-      "icon": "https://mlbbhub.com/images/items/boots.png"
+      "icon": "https://mlbbhub.com/images/items/boots.png",
+      "stats": [
+        "+20 Movement Speed"
+      ],
+      "passive": ""
     },
     {
       "name": "Broken Heart",
-      "icon": "https://mlbbhub.com/images/items/broken-heart.png"
+      "icon": "https://mlbbhub.com/images/items/broken-heart.png",
+      "stats": [],
+      "passive": "Heart Broken. After purchasing, Cecilion will not be able to use Moonlit Waltz on you during this game."
     },
     {
       "name": "Brute Force Breastplate",
-      "icon": "https://mlbbhub.com/images/items/brute-force-breastplate.png"
+      "icon": "https://mlbbhub.com/images/items/brute-force-breastplate.png",
+      "stats": [
+        "+600 HP",
+        "+20 Physical Defense",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Brute Force. Each second after dealing damage, gain 6 Adaptive Attack and 2% extra Movement Speed for 4s, up to 6 stacks. Gain 15% extra Control Duration Reduction at full stacks."
     },
     {
       "name": "Chastise Pauldron",
-      "icon": "https://mlbbhub.com/images/items/chastise-pauldron.png"
+      "icon": "https://mlbbhub.com/images/items/chastise-pauldron.png",
+      "stats": [
+        "+1800 HP",
+        "+40 Physical Defense"
+      ],
+      "passive": "Chastise. Taking damage reduces the attacker's Attack Speed and Attack Speed cap to 75% of normal for 2s."
     },
     {
       "name": "Clock of Destiny",
-      "icon": "https://mlbbhub.com/images/items/clock-of-destiny.png"
+      "icon": "https://mlbbhub.com/images/items/clock-of-destiny.png",
+      "stats": [
+        "+400 HP",
+        "+400 Mana",
+        "+45 Magic Power"
+      ],
+      "passive": "Destiny. Gains 4.5 (+0.5 × Hero Level) Hybrid Defense for 5s when dealing Magic Damage to enemy heroes, stacking up to 6 times. Can gain 1 stack every 0.4s."
     },
     {
       "name": "Conceal",
-      "icon": "https://mlbbhub.com/images/items/conceal.png"
+      "icon": "https://mlbbhub.com/images/items/conceal.png",
+      "stats": [],
+      "passive": "Conceal. Conceals nearby allied heroes, including self, and grants 24%–60% extra Movement Speed for 5s or until they deal or take damage. Requires Roaming Blessing progress to unlock."
     },
     {
       "name": "Concentrated Energy",
-      "icon": "https://mlbbhub.com/images/items/concentrated-energy.png"
+      "icon": "https://mlbbhub.com/images/items/concentrated-energy.png",
+      "stats": [
+        "+400 HP",
+        "+70 Magic Power"
+      ],
+      "passive": "Recharge. Increases Magic Power by 5 after dealing Magic Damage, stacking up to 6 times and gaining at most 1 stack every 0.4s. At full stacks, increases Magic Damage by 12% for 3s."
     },
     {
       "name": "Corrosion Scythe",
-      "icon": "https://mlbbhub.com/images/items/corrosion-scythe.png"
+      "icon": "https://mlbbhub.com/images/items/corrosion-scythe.png",
+      "stats": [
+        "+30 Physical Attack",
+        "+30% Attack Speed",
+        "+5% Movement Speed"
+      ],
+      "passive": "Corrosion. Basic Attacks gain 80 extra Physical Damage and slow the target by 8% for 1.5s. The effect is halved for ranged Basic Attacks and stacks up to 5 times."
     },
     {
       "name": "Cursed Helmet",
-      "icon": "https://mlbbhub.com/images/items/cursed-helmet.png"
+      "icon": "https://mlbbhub.com/images/items/cursed-helmet.png",
+      "stats": [
+        "+1200 HP",
+        "+20 Magic Defense"
+      ],
+      "passive": "Burning Soul. Deals Magic Damage equal to 1.2% of the hero's Max HP per second to nearby enemies. Damage is increased against creeps and minions and scales with level."
     },
     {
       "name": "Dagger",
-      "icon": "https://mlbbhub.com/images/items/dagger.png"
+      "icon": "https://mlbbhub.com/images/items/dagger.png",
+      "stats": [
+        "+15 Physical Attack"
+      ],
+      "passive": ""
     },
     {
       "name": "Demon Boots",
-      "icon": "https://mlbbhub.com/images/items/demon-boots.png"
+      "icon": "https://mlbbhub.com/images/items/demon-boots.png",
+      "stats": [
+        "+40 Movement Speed",
+        "+10 Mana Regen"
+      ],
+      "passive": "Mysticism. Getting a kill or assist on an enemy Minion restores 4% Mana."
     },
     {
       "name": "Demon Hunter Sword",
-      "icon": "https://mlbbhub.com/images/items/demon-hunter-sword.png"
+      "icon": "https://mlbbhub.com/images/items/demon-hunter-sword.png",
+      "stats": [
+        "+35 Physical Attack",
+        "+20% Attack Speed"
+      ],
+      "passive": "Devour. Basic Attacks deal 8% of the target's current HP as extra Physical Damage, capped at 60 against minions."
     },
     {
       "name": "Dire Hit",
-      "icon": "https://mlbbhub.com/images/items/dire-hit.png"
+      "icon": "https://mlbbhub.com/images/items/dire-hit.png",
+      "stats": [],
+      "passive": "Devotion. In the first 8 minutes, forfeit EXP and Gold rewards gained from minions and creeps to prevent reducing nearby allies' rewards."
     },
     {
       "name": "Divine Glaive",
-      "icon": "https://mlbbhub.com/images/items/divine-glaive.png"
+      "icon": "https://mlbbhub.com/images/items/divine-glaive.png",
+      "stats": [
+        "+60 Magic Power"
+      ],
+      "passive": "Spellbreaker. When attacking an enemy, gains 0.1% extra Magic Penetration for each point of the enemy's Magic Defense, capped at 20%."
     },
     {
       "name": "Dominance Ice",
-      "icon": "https://mlbbhub.com/images/items/dominance-ice.png"
+      "icon": "https://mlbbhub.com/images/items/dominance-ice.png",
+      "stats": [
+        "+500 Mana",
+        "+55 Physical Defense",
+        "+5% Movement Speed"
+      ],
+      "passive": "Arctic Cold. Taking damage reduces the attacker's Attack Speed to 80% of normal for 1s."
     },
     {
       "name": "Dreadnaught Armor",
-      "icon": "https://mlbbhub.com/images/items/dreadnaught-armor.png"
+      "icon": "https://mlbbhub.com/images/items/dreadnaught-armor.png",
+      "stats": [
+        "+30 Physical Defense"
+      ],
+      "passive": "Deter. When attacked by an enemy hero's skill, reduces their Physical Attack by 4% for 2s, stacking up to 3 times."
     },
     {
       "name": "Elegant Gem",
-      "icon": "https://mlbbhub.com/images/items/elegant-gem.png"
+      "icon": "https://mlbbhub.com/images/items/elegant-gem.png",
+      "stats": [
+        "+300 HP",
+        "+380 Mana"
+      ],
+      "passive": "Gift. When HP drops below 50%, recovers 15% HP over 3s. When Mana drops below 50%, restores 15% Mana over 3s. Cooldown: 60s."
     },
     {
       "name": "Enchanted Talisman",
-      "icon": "https://mlbbhub.com/images/items/enchanted-talisman.png"
+      "icon": "https://mlbbhub.com/images/items/enchanted-talisman.png",
+      "stats": [
+        "+250 HP",
+        "+50 Magic Power",
+        "+20% Cooldown Reduction"
+      ],
+      "passive": "Mana Spring. Regenerates 15% of Max Mana every 10s."
     },
     {
       "name": "Encourage",
-      "icon": "https://mlbbhub.com/images/items/encourage.png"
+      "icon": "https://mlbbhub.com/images/items/encourage.png",
+      "stats": [],
+      "passive": "Devotion. In the first 8 minutes, forfeit EXP and Gold rewards gained from minions and creeps to prevent reducing nearby allies' rewards."
     },
     {
       "name": "Endless Battle",
-      "icon": "https://mlbbhub.com/images/items/endless-battle.png"
+      "icon": "https://mlbbhub.com/images/items/endless-battle.png",
+      "stats": [
+        "+250 HP",
+        "+60 Physical Attack",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Divine Justice. After casting a skill, the next Basic Attack within 3s deals 60% Physical Attack as extra True Damage. Cooldown: 1.5s."
     },
     {
       "name": "Exotic Veil",
-      "icon": "https://mlbbhub.com/images/items/exotic-veil.png"
+      "icon": "https://mlbbhub.com/images/items/exotic-veil.png",
+      "stats": [
+        "+30 Magic Power",
+        "+5% Movement Speed"
+      ],
+      "passive": ""
     },
     {
       "name": "Expert Gloves",
-      "icon": "https://mlbbhub.com/images/items/expert-gloves.png"
+      "icon": "https://mlbbhub.com/images/items/expert-gloves.png",
+      "stats": [],
+      "passive": ""
     },
     {
       "name": "Favor",
-      "icon": "https://mlbbhub.com/images/items/favor.png"
+      "icon": "https://mlbbhub.com/images/items/favor.png",
+      "stats": [],
+      "passive": "Devotion. In the first 8 minutes, forfeit EXP and Gold rewards gained from minions and creeps to prevent reducing nearby allies' rewards."
     },
     {
       "name": "Feather of Heaven",
-      "icon": "https://mlbbhub.com/images/items/feather-of-heaven.png"
+      "icon": "https://mlbbhub.com/images/items/feather-of-heaven.png",
+      "stats": [
+        "+55 Magic Power",
+        "+20% Attack Speed",
+        "+5% Cooldown Reduction"
+      ],
+      "passive": "Affliction. Basic Attacks deal an extra 50 (+30% Magic Power) Magic Damage."
     },
     {
       "name": "Flame Retribution",
-      "icon": "https://mlbbhub.com/images/items/flame-retribution.png"
+      "icon": "https://mlbbhub.com/images/items/flame-retribution.png",
+      "stats": [],
+      "passive": "Flame Retribution. Retribution damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals 100 True Damage and steals 58–100 Physical Attack and Magic Power, scaling with level, for 4s. Upgrades after the total number of creep kills, hero kills, and assists reaches 5."
     },
     {
       "name": "Flask of the Oasis",
-      "icon": "https://mlbbhub.com/images/items/flask-of-the-oasis.png"
+      "icon": "https://mlbbhub.com/images/items/flask-of-the-oasis.png",
+      "stats": [
+        "+300 HP",
+        "+60 Magic Power",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Blessing. When casting a healing or shielding skill, if the target's HP is below 35% or falls below 35% within 3s, grants a level-scaling shield for 3s and reduces the caster's skill cooldowns by 2s. This effect has a per-target cooldown."
     },
     {
       "name": "Fleeting Time",
-      "icon": "https://mlbbhub.com/images/items/fleeting-time.png"
+      "icon": "https://mlbbhub.com/images/items/fleeting-time.png",
+      "stats": [
+        "+600 HP",
+        "+15% Cooldown Reduction"
+      ],
+      "passive": "Timestream. Hero kills or assists reduce the Ultimate's current cooldown by 30%."
     },
     {
       "name": "Flower of Hope",
-      "icon": "https://mlbbhub.com/images/items/flower-of-hope.png"
+      "icon": "https://mlbbhub.com/images/items/flower-of-hope.png",
+      "stats": [],
+      "passive": "Flower of Hope. Every 6s, a skill or Basic Attack deals 60 (+30% Total Physical Attack) (+30% Total Magic Power) Magic Damage."
     },
     {
       "name": "Fury Hammer",
-      "icon": "https://mlbbhub.com/images/items/fury-hammer.png"
+      "icon": "https://mlbbhub.com/images/items/fury-hammer.png",
+      "stats": [
+        "+35 Physical Attack"
+      ],
+      "passive": ""
     },
     {
       "name": "Genius Wand",
-      "icon": "https://mlbbhub.com/images/items/genius-wand.png"
+      "icon": "https://mlbbhub.com/images/items/genius-wand.png",
+      "stats": [
+        "+75 Magic Power",
+        "+5% Movement Speed"
+      ],
+      "passive": "Magic. Dealing damage to enemy heroes reduces their Magic Defense by 3 + (0.3 × Hero Level) for 2s, stacking up to 3 times."
     },
     {
       "name": "Glowing Wand",
-      "icon": "https://mlbbhub.com/images/items/glowing-wand.png"
+      "icon": "https://mlbbhub.com/images/items/glowing-wand.png",
+      "stats": [
+        "+400 HP",
+        "+75 Magic Power",
+        "+5% Movement Speed"
+      ],
+      "passive": "Scorch. Burns the target for 3s, dealing Magic Damage equal to 1.5% of the target's Max HP per second."
     },
     {
       "name": "Golden Staff",
-      "icon": "https://mlbbhub.com/images/items/golden-staff.png"
+      "icon": "https://mlbbhub.com/images/items/golden-staff.png",
+      "stats": [
+        "+55 Physical Attack",
+        "+15% Attack Speed"
+      ],
+      "passive": "Swift. Every 1% Critical Chance gained increases Attack Speed by 1%."
     },
     {
       "name": "Great Dragon Spear",
-      "icon": "https://mlbbhub.com/images/items/great-dragon-spear.png"
+      "icon": "https://mlbbhub.com/images/items/great-dragon-spear.png",
+      "stats": [
+        "+70 Physical Attack",
+        "+20% Critical Chance",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Supreme Warrior. After casting an Ultimate, increases Movement Speed by 30% for 7.5s. Cooldown: 15s."
     },
     {
       "name": "Guardian Helmet",
-      "icon": "https://mlbbhub.com/images/items/guardian-helmet.png"
+      "icon": "https://mlbbhub.com/images/items/guardian-helmet.png",
+      "stats": [
+        "+1550 HP",
+        "+20 HP Regen"
+      ],
+      "passive": "Recovery. Regenerates 2.5% Max HP per second, reduced to 0.5% per second for 5s after taking damage."
     },
     {
       "name": "Haas's Claws",
-      "icon": "https://mlbbhub.com/images/items/haass-claws.png"
+      "icon": "https://mlbbhub.com/images/items/haass-claws.png",
+      "stats": [
+        "+40 Physical Attack",
+        "+15% Attack Speed",
+        "+20% Critical Chance"
+      ],
+      "passive": "Frenzy. Critical strikes grant 20% extra Attack Speed for 2s."
     },
     {
       "name": "Healing Necklace",
-      "icon": "https://mlbbhub.com/images/items/healing-necklace.png"
+      "icon": "https://mlbbhub.com/images/items/healing-necklace.png",
+      "stats": [
+        "+4 HP Regen"
+      ],
+      "passive": ""
     },
     {
       "name": "Hero's Ring",
-      "icon": "https://mlbbhub.com/images/items/heros-ring.png"
+      "icon": "https://mlbbhub.com/images/items/heros-ring.png",
+      "stats": [
+        "+150 HP",
+        "+5% Cooldown Reduction"
+      ],
+      "passive": ""
     },
     {
       "name": "Holy Crystal",
-      "icon": "https://mlbbhub.com/images/items/holy-crystal.png"
+      "icon": "https://mlbbhub.com/images/items/holy-crystal.png",
+      "stats": [
+        "+185 Magic Power"
+      ],
+      "passive": "Mystery. Gains 21%–35% extra Magic Power, scaling with level."
     },
     {
       "name": "Hunter Strike",
-      "icon": "https://mlbbhub.com/images/items/hunter-strike.png"
+      "icon": "https://mlbbhub.com/images/items/hunter-strike.png",
+      "stats": [
+        "+80 Physical Attack",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Retribution. Dealing damage to an enemy hero or creep 5 times in a row grants 50% extra Movement Speed that rapidly decays over 3s. Cooldown: 8s."
     },
     {
       "name": "Ice Queen Wand",
-      "icon": "https://mlbbhub.com/images/items/ice-queen-wand.png"
+      "icon": "https://mlbbhub.com/images/items/ice-queen-wand.png",
+      "stats": [
+        "+300 HP",
+        "+75 Magic Power",
+        "+10% Spell Vamp"
+      ],
+      "passive": "Ice Bound. Skill damage slows an enemy hero by 10% for 2s, stacking up to 3 times. Cooldown: 1s."
     },
     {
       "name": "Ice Retribution",
-      "icon": "https://mlbbhub.com/images/items/ice-retribution.png"
+      "icon": "https://mlbbhub.com/images/items/ice-retribution.png",
+      "stats": [],
+      "passive": "Ice Retribution. Retribution damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals 100 True Damage and steals 72–100 Movement Speed, scaling with level, for 4s. Upgrades after the total number of creep kills, hero kills, and assists reaches 5."
     },
     {
       "name": "Immortality",
-      "icon": "https://mlbbhub.com/images/items/immortality.png"
+      "icon": "https://mlbbhub.com/images/items/immortality.png",
+      "stats": [
+        "+800 HP",
+        "+15 Physical Defense"
+      ],
+      "passive": "Immortal. Revives 2.5s after death with 16% Max HP and a 220–1200 shield, scaling with level, for 3s. Cooldown: 210s."
     },
     {
       "name": "Iron Hunting Bow",
-      "icon": "https://mlbbhub.com/images/items/iron-hunting-bow.png"
+      "icon": "https://mlbbhub.com/images/items/iron-hunting-bow.png",
+      "stats": [
+        "+10 Physical Attack",
+        "+5% Cooldown Reduction"
+      ],
+      "passive": ""
     },
     {
       "name": "Javelin",
-      "icon": "https://mlbbhub.com/images/items/javelin.png"
+      "icon": "https://mlbbhub.com/images/items/javelin.png",
+      "stats": [
+        "+8% Critical Chance"
+      ],
+      "passive": ""
     },
     {
       "name": "Knife",
-      "icon": "https://mlbbhub.com/images/items/knife.png"
+      "icon": "https://mlbbhub.com/images/items/knife.png",
+      "stats": [
+        "+10% Attack Speed"
+      ],
+      "passive": ""
     },
     {
       "name": "Lantern of Hope",
-      "icon": "https://mlbbhub.com/images/items/lantern-of-hope.png"
+      "icon": "https://mlbbhub.com/images/items/lantern-of-hope.png",
+      "stats": [
+        "+20 Magic Power",
+        "+2% Cooldown Reduction",
+        "+4% Movement Speed"
+      ],
+      "passive": "Lantern of Hope. The equipment's attributes scale with hero level."
     },
     {
       "name": "Leather Jerkin",
-      "icon": "https://mlbbhub.com/images/items/leather-jerkin.png"
+      "icon": "https://mlbbhub.com/images/items/leather-jerkin.png",
+      "stats": [
+        "+14 Physical Defense"
+      ],
+      "passive": ""
     },
     {
       "name": "Legion Sword",
-      "icon": "https://mlbbhub.com/images/items/legion-sword.png"
+      "icon": "https://mlbbhub.com/images/items/legion-sword.png",
+      "stats": [
+        "+60 Physical Attack"
+      ],
+      "passive": ""
     },
     {
       "name": "Lightning Truncheon",
-      "icon": "https://mlbbhub.com/images/items/lightning-truncheon.png"
+      "icon": "https://mlbbhub.com/images/items/lightning-truncheon.png",
+      "stats": [
+        "+400 Mana",
+        "+75 Magic Power",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Resonate. Every 6s, the next damaging skill resonates, dealing 120% Magic Power as extra Magic Damage to up to 3 enemies and granting 30% Movement Speed that decays over 2s."
     },
     {
       "name": "Magic Blade",
-      "icon": "https://mlbbhub.com/images/items/magic-blade.png"
+      "icon": "https://mlbbhub.com/images/items/magic-blade.png",
+      "stats": [
+        "+35 Physical Attack",
+        "+10% Lifesteal"
+      ],
+      "passive": "Lifeline. When damage reduces HP below 30%, gains a level-scaling shield and 50% Movement Speed that rapidly decays over 3s. Cooldown: 60s."
     },
     {
       "name": "Magic Boots",
-      "icon": "https://mlbbhub.com/images/items/magic-boots.png"
+      "icon": "https://mlbbhub.com/images/items/magic-boots.png",
+      "stats": [
+        "+10% Cooldown Reduction",
+        "+40 Movement Speed"
+      ],
+      "passive": ""
     },
     {
       "name": "Magic Necklace",
-      "icon": "https://mlbbhub.com/images/items/magic-necklace.png"
+      "icon": "https://mlbbhub.com/images/items/magic-necklace.png",
+      "stats": [
+        "+2 Mana Regen"
+      ],
+      "passive": ""
     },
     {
       "name": "Magic Potion",
-      "icon": "https://mlbbhub.com/images/items/magic-potion.png"
+      "icon": "https://mlbbhub.com/images/items/magic-potion.png",
+      "stats": [],
+      "passive": "Increase Power. Automatically used after purchasing, increasing Magic Power by 30 and Cooldown Reduction by 10% for 120s."
     },
     {
       "name": "Magic Resist Cloak",
-      "icon": "https://mlbbhub.com/images/items/magic-resist-cloak.png"
+      "icon": "https://mlbbhub.com/images/items/magic-resist-cloak.png",
+      "stats": [
+        "+14 Magic Defense"
+      ],
+      "passive": ""
     },
     {
       "name": "Magic Wand",
-      "icon": "https://mlbbhub.com/images/items/magic-wand.png"
+      "icon": "https://mlbbhub.com/images/items/magic-wand.png",
+      "stats": [
+        "+45 Magic Power"
+      ],
+      "passive": ""
     },
     {
       "name": "Malefic Gun",
-      "icon": "https://mlbbhub.com/images/items/malefic-gun.png"
+      "icon": "https://mlbbhub.com/images/items/malefic-gun.png",
+      "stats": [
+        "+40 Physical Attack",
+        "+20% Attack Speed"
+      ],
+      "passive": "Armor Buster. Increases Physical Penetration by 30%."
     },
     {
       "name": "Malefic Roar",
-      "icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+      "icon": "https://mlbbhub.com/images/items/malefic-roar.png",
+      "stats": [
+        "+60 Physical Attack"
+      ],
+      "passive": "Armor Buster. When attacking an enemy, gains 0.1% extra Physical Penetration for each point of the enemy's Physical Defense, capped at 30%."
     },
     {
       "name": "Molten Essence",
-      "icon": "https://mlbbhub.com/images/items/molten-essence.png"
+      "icon": "https://mlbbhub.com/images/items/molten-essence.png",
+      "stats": [
+        "+540 HP"
+      ],
+      "passive": "Burning Soul. Deals Magic Damage equal to 0.6% of the hero's Max HP per second to nearby enemies. Damage is increased against creeps and minions and scales with level."
     },
     {
       "name": "Mystery Codex",
-      "icon": "https://mlbbhub.com/images/items/mystery-codex.png"
+      "icon": "https://mlbbhub.com/images/items/mystery-codex.png",
+      "stats": [
+        "+15 Magic Power"
+      ],
+      "passive": ""
     },
     {
       "name": "Mystic Container",
-      "icon": "https://mlbbhub.com/images/items/mystic-container.png"
+      "icon": "https://mlbbhub.com/images/items/mystic-container.png",
+      "stats": [
+        "+15 Magic Power",
+        "+8% Spell Vamp"
+      ],
+      "passive": ""
     },
     {
       "name": "Ogre Tomahawk",
-      "icon": "https://mlbbhub.com/images/items/ogre-tomahawk.png"
+      "icon": "https://mlbbhub.com/images/items/ogre-tomahawk.png",
+      "stats": [
+        "+230 HP",
+        "+25 Physical Attack"
+      ],
+      "passive": ""
     },
     {
       "name": "Oracle",
-      "icon": "https://mlbbhub.com/images/items/oracle.png"
+      "icon": "https://mlbbhub.com/images/items/oracle.png",
+      "stats": [
+        "+850 HP",
+        "+20 Physical Defense",
+        "+20 Magic Defense"
+      ],
+      "passive": "Bless. Received Shield and HP Regen effects are increased by 30%."
     },
     {
       "name": "Power Crystal",
-      "icon": "https://mlbbhub.com/images/items/power-crystal.png"
+      "icon": "https://mlbbhub.com/images/items/power-crystal.png",
+      "stats": [
+        "+280 Mana"
+      ],
+      "passive": ""
     },
     {
       "name": "Power Potion",
-      "icon": "https://mlbbhub.com/images/items/power-potion.png"
+      "icon": "https://mlbbhub.com/images/items/power-potion.png",
+      "stats": [],
+      "passive": "Increase Power. Upon purchase, grants 30 Physical Attack and 15% Lifesteal for 120s."
     },
     {
       "name": "Queen's Wings",
-      "icon": "https://mlbbhub.com/images/items/queens-wings.png"
+      "icon": "https://mlbbhub.com/images/items/queens-wings.png",
+      "stats": [
+        "+600 HP",
+        "+10% Cooldown Reduction",
+        "+10% Spell Vamp"
+      ],
+      "passive": "Demonize. When HP drops below 40%, gains 30% Damage Reduction for 3s and reduces skill cooldowns by 2s. Cooldown: 60s."
     },
     {
       "name": "Radiant Armor",
-      "icon": "https://mlbbhub.com/images/items/radiant-armor.png"
+      "icon": "https://mlbbhub.com/images/items/radiant-armor.png",
+      "stats": [
+        "+950 HP",
+        "+40 Magic Defense",
+        "+12 HP Regen"
+      ],
+      "passive": "Holy Blessing. Taking Magic Damage grants 6–20 Magic Defense, scaling with level, for 5s, up to 6 stacks. Can gain 1 stack every 0.6s."
     },
     {
       "name": "Rapid Boots",
-      "icon": "https://mlbbhub.com/images/items/rapid-boots.png"
+      "icon": "https://mlbbhub.com/images/items/rapid-boots.png",
+      "stats": [
+        "+65 Movement Speed"
+      ],
+      "passive": "Side Effect. Loses 25 Movement Speed for 5s after dealing or taking damage."
     },
     {
       "name": "Regular Spear",
-      "icon": "https://mlbbhub.com/images/items/regular-spear.png"
+      "icon": "https://mlbbhub.com/images/items/regular-spear.png",
+      "stats": [
+        "+20 Physical Attack",
+        "+10% Attack Speed"
+      ],
+      "passive": ""
     },
     {
       "name": "Rock Potion",
-      "icon": "https://mlbbhub.com/images/items/rock-potion.png"
+      "icon": "https://mlbbhub.com/images/items/rock-potion.png",
+      "stats": [],
+      "passive": "Increase Power. Upon purchase, grants 500 extra Max HP and 25% Resilience for 120s."
     },
     {
       "name": "Rogue Meteor",
-      "icon": "https://mlbbhub.com/images/items/rogue-meteor.png"
+      "icon": "https://mlbbhub.com/images/items/rogue-meteor.png",
+      "stats": [
+        "+15% Attack Speed",
+        "+10% Critical Chance"
+      ],
+      "passive": ""
     },
     {
       "name": "Rose Gold Meteor",
-      "icon": "https://mlbbhub.com/images/items/rose-gold-meteor.png"
+      "icon": "https://mlbbhub.com/images/items/rose-gold-meteor.png",
+      "stats": [
+        "+30 Physical Attack",
+        "+20% Attack Speed",
+        "+10% Lifesteal"
+      ],
+      "passive": "Dragon Scale. Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50. The effect is halved when the hero's main role is not Fighter."
     },
     {
       "name": "Sea Halberd",
-      "icon": "https://mlbbhub.com/images/items/sea-halberd.png"
+      "icon": "https://mlbbhub.com/images/items/sea-halberd.png",
+      "stats": [
+        "+80 Physical Attack",
+        "+20% Attack Speed"
+      ],
+      "passive": "Lifebane. Dealing damage to a target reduces their Shield and HP Regen effects to 60% of normal for 3s."
     },
     {
       "name": "Silence Robe",
-      "icon": "https://mlbbhub.com/images/items/silence-robe.png"
+      "icon": "https://mlbbhub.com/images/items/silence-robe.png",
+      "stats": [
+        "+540 HP",
+        "+23 Magic Defense"
+      ],
+      "passive": ""
     },
     {
       "name": "Sky Piercer",
-      "icon": "https://mlbbhub.com/images/items/sky-piercer.png"
+      "icon": "https://mlbbhub.com/images/items/sky-piercer.png",
+      "stats": [
+        "+15 Movement Speed"
+      ],
+      "passive": "Lethality. After dealing damage to an enemy hero, executes them if their HP is below 4%. Gains 10 Lifebane stacks per kill and loses 30% of current stacks per death. Each stack raises the execute threshold by 0.1%, up to 80 stacks."
     },
     {
       "name": "Starlium Scythe",
-      "icon": "https://mlbbhub.com/images/items/starlium-scythe.png"
+      "icon": "https://mlbbhub.com/images/items/starlium-scythe.png",
+      "stats": [
+        "+70 Magic Power",
+        "+10% Cooldown Reduction",
+        "+6 Mana Regen"
+      ],
+      "passive": "Crisis. Within 3s after using a skill, the next Basic Attack deals an additional 100 (+100% Total Magic Power) True Damage. Cooldown: 1.5s. Then briefly gains 10% Movement Speed."
     },
     {
       "name": "Steel Legplates",
-      "icon": "https://mlbbhub.com/images/items/steel-legplates.png"
+      "icon": "https://mlbbhub.com/images/items/steel-legplates.png",
+      "stats": [
+        "+35 Physical Defense"
+      ],
+      "passive": ""
     },
     {
       "name": "Swift Boots",
-      "icon": "https://mlbbhub.com/images/items/swift-boots.png"
+      "icon": "https://mlbbhub.com/images/items/swift-boots.png",
+      "stats": [
+        "+15% Attack Speed",
+        "+40 Movement Speed"
+      ],
+      "passive": ""
     },
     {
       "name": "Swift Crossbow",
-      "icon": "https://mlbbhub.com/images/items/swift-crossbow.png"
+      "icon": "https://mlbbhub.com/images/items/swift-crossbow.png",
+      "stats": [
+        "+20% Attack Speed"
+      ],
+      "passive": "Crossbow. Each Basic Attack deals 40 extra Adaptive Damage."
     },
     {
       "name": "Throw Forbidden",
-      "icon": "https://mlbbhub.com/images/items/throw-forbidden.png"
+      "icon": "https://mlbbhub.com/images/items/throw-forbidden.png",
+      "stats": [],
+      "passive": "Heavy Mountain. Become immune to allied Jawhead's Ejector in this match."
     },
     {
       "name": "Thunder Belt",
-      "icon": "https://mlbbhub.com/images/items/thunder-belt.png"
+      "icon": "https://mlbbhub.com/images/items/thunder-belt.png",
+      "stats": [
+        "+800 HP",
+        "+15 Physical Defense",
+        "+15 Magic Defense"
+      ],
+      "passive": "Thunderbolt. Every 4s, the next Basic Attack deals 50 (+100% Total Physical Defense) (+100% Total Magic Defense) extra True Damage around the target and briefly slows by 99%. Hybrid Defense permanently increases by 1 whenever it hits an enemy hero. The effect is reduced for Marksmen and Mages."
     },
     {
       "name": "Tome of Evil",
-      "icon": "https://mlbbhub.com/images/items/tome-of-evil.png"
+      "icon": "https://mlbbhub.com/images/items/tome-of-evil.png",
+      "stats": [
+        "+35 Magic Power",
+        "+8% Cooldown Reduction",
+        "+4 Mana Regen"
+      ],
+      "passive": ""
     },
     {
       "name": "Tough Boots",
-      "icon": "https://mlbbhub.com/images/items/tough-boots.png"
+      "icon": "https://mlbbhub.com/images/items/tough-boots.png",
+      "stats": [
+        "+18 Magic Defense",
+        "+40 Movement Speed"
+      ],
+      "passive": "Fortitude. Reduces Crowd Control and Slow duration by 30%."
     },
     {
       "name": "Vampire Mallet",
-      "icon": "https://mlbbhub.com/images/items/vampire-mallet.png"
+      "icon": "https://mlbbhub.com/images/items/vampire-mallet.png",
+      "stats": [
+        "+8 Physical Attack",
+        "+8% Lifesteal"
+      ],
+      "passive": ""
     },
     {
       "name": "Vitality Crystal",
-      "icon": "https://mlbbhub.com/images/items/vitality-crystal.png"
+      "icon": "https://mlbbhub.com/images/items/vitality-crystal.png",
+      "stats": [
+        "+230 HP"
+      ],
+      "passive": ""
     },
     {
       "name": "War Axe",
-      "icon": "https://mlbbhub.com/images/items/war-axe.png"
+      "icon": "https://mlbbhub.com/images/items/war-axe.png",
+      "stats": [
+        "+400 HP",
+        "+35 Physical Attack",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Fighting Spirit. Attacks grant 12 extra Physical Attack per second for 4s, stacking up to 6 times. At full stacks, deals 10% extra True Damage based on damage dealt. Marksmen, Mages, and Supports receive 50% of the stacked effects."
     },
     {
       "name": "Warrior Boots",
-      "icon": "https://mlbbhub.com/images/items/warrior-boots.png"
+      "icon": "https://mlbbhub.com/images/items/warrior-boots.png",
+      "stats": [
+        "+18 Physical Defense",
+        "+40 Movement Speed"
+      ],
+      "passive": "Valor. Gain 4 extra Physical Defense for 3s when taking Physical Damage, stacking up to 20."
     },
     {
       "name": "Wind of Nature",
-      "icon": "https://mlbbhub.com/images/items/wind-of-nature.png"
+      "icon": "https://mlbbhub.com/images/items/wind-of-nature.png",
+      "stats": [
+        "+30 Physical Attack",
+        "+20% Attack Speed",
+        "+10% Lifesteal"
+      ],
+      "passive": "Wind Chant. Become immune to all Physical Damage for 2s. Duration is halved for non-Marksmen."
     },
     {
       "name": "Windtalker",
-      "icon": "https://mlbbhub.com/images/items/windtalker.png"
+      "icon": "https://mlbbhub.com/images/items/windtalker.png",
+      "stats": [
+        "+35% Attack Speed",
+        "+20% Critical Chance",
+        "+20 Movement Speed"
+      ],
+      "passive": "Typhoon. Every 5–2s, reduced by 0.2s for each Basic Attack, the next Basic Attack hits up to 3 enemy units for 150–362 Magic Damage. It can critically strike and deals 200% damage to Minions."
     },
     {
       "name": "Winter Crown",
-      "icon": "https://mlbbhub.com/images/items/winter-crown.png"
+      "icon": "https://mlbbhub.com/images/items/winter-crown.png",
+      "stats": [
+        "+400 HP",
+        "+5% Cooldown Reduction"
+      ],
+      "passive": "Frozen. Become frozen, untargetable, and immune to damage for 2s. Cannot move or cast skills while frozen, but already-cast skills are not interrupted. Cooldown: 100s."
     },
     {
       "name": "Wishing Lantern",
-      "icon": "https://mlbbhub.com/images/items/wishing-lantern.png"
+      "icon": "https://mlbbhub.com/images/items/wishing-lantern.png",
+      "stats": [
+        "+400 Mana",
+        "+75 Magic Power",
+        "+10% Cooldown Reduction"
+      ],
+      "passive": "Butterfly Goddess. For every 800 Magic Damage dealt to an enemy hero before damage reduction, summons a Butterfly Goddess that deals Magic Damage equal to 10% of the target's current HP."
     }
+  ],
+  "fields_added": [
+    "stats",
+    "passive"
   ]
 }
