@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "updated": "2026-07-11",
-  "total": 130,
+  "updated": "2026-07-16",
+  "total": 132,
   "heroes": [
     {
       "slug": "aamon",
@@ -481,6 +481,18 @@
         "Tank"
       ],
       "lane": [
+        "Jungle"
+      ]
+    },
+    {
+      "slug": "freya",
+      "name": "Freya",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage_2_1_18_2/100_b9c34c88762ca8e66ccd4d84071bf0bc.png",
+      "role": [
+        "Fighter"
+      ],
+      "lane": [
+        "EXP",
         "Jungle"
       ]
     },
@@ -975,6 +987,18 @@
       ],
       "lane": [
         "Jungle",
+        "EXP"
+      ]
+    },
+    {
+      "slug": "masha",
+      "name": "Masha",
+      "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_c97a314dc260dfad1311512ddc03f936.png",
+      "role": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": [
         "EXP"
       ]
     },
