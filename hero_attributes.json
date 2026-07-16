@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
-  "updated": "2026-07-11",
+  "updated": "2026-07-16",
   "source": "MLBBHub hero profile ratings",
   "scale": {
     "minimum": 0,
     "maximum": 100
   },
-  "total": 130,
+  "total": 132,
   "heroes": [
     {
       "slug": "aamon",
@@ -426,6 +426,16 @@
         "offense": 50,
         "control": 60,
         "difficulty": 60
+      }
+    },
+    {
+      "slug": "freya",
+      "name": "Freya",
+      "attributes": {
+        "durability": 60,
+        "offense": 70,
+        "control": 60,
+        "difficulty": 40
       }
     },
     {
@@ -855,6 +865,16 @@
         "durability": 60,
         "offense": 30,
         "control": 50,
+        "difficulty": 60
+      }
+    },
+    {
+      "slug": "masha",
+      "name": "Masha",
+      "attributes": {
+        "durability": 50,
+        "offense": 70,
+        "control": 30,
         "difficulty": 60
       }
     },
