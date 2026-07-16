@@ -3,7 +3,7 @@
   "updated": "2026-07-16",
   "source": "MLBBHub hero counter sections",
   "matchups_per_section": 5,
-  "total": 130,
+  "total": 132,
   "heroes": [
     {
       "slug": "aamon",
@@ -6108,6 +6108,153 @@
           "time": "14+ min",
           "average_win_rate": 50.4,
           "summary": "Even matchup phase"
+        }
+      }
+    },
+    {
+      "slug": "freya",
+      "name": "Freya",
+      "top_counter": {
+        "hero": "Alpha",
+        "win_rate": 54.1
+      },
+      "weak_to": [
+        {
+          "rank": 1,
+          "hero": "Alpha",
+          "tier": "D",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 54.1,
+          "win_rate_delta": 1.6,
+          "description": "Alpha outscales Freya in the late game, turning team fights in your favor as the match progresses."
+        },
+        {
+          "rank": 2,
+          "hero": "Esmeralda",
+          "tier": "D",
+          "roles": [
+            "Tank",
+            "Mage"
+          ],
+          "win_rate": 53.2,
+          "win_rate_delta": 1.6,
+          "description": "Esmeralda dominates Freya in the early game. Apply pressure before Freya can scale and become a threat."
+        },
+        {
+          "rank": 3,
+          "hero": "Phoveus",
+          "tier": "C",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 51.1,
+          "win_rate_delta": 4.3,
+          "description": "Freya's movement-heavy skills make her vulnerable to Phoveus, who can repeatedly punish her dashes and control her engage."
+        },
+        {
+          "rank": 4,
+          "hero": "Edith",
+          "tier": "C",
+          "roles": [
+            "Tank",
+            "Marksman"
+          ],
+          "win_rate": 49.1,
+          "win_rate_delta": 1.7,
+          "description": "Edith's durability and kit give them a strong matchup advantage against Freya throughout the game."
+        },
+        {
+          "rank": 5,
+          "hero": "Minsitthar",
+          "tier": "S",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 47.7,
+          "win_rate_delta": 4.4,
+          "description": "Minsitthar's crowd control disrupts Freya's aggressive playstyle and prevents clean dives and resets."
+        }
+      ],
+      "strong_against": [
+        {
+          "rank": 1,
+          "hero": "Ling",
+          "tier": "A",
+          "roles": [
+            "Assassin"
+          ],
+          "win_rate": 53.2,
+          "win_rate_delta": 2.2,
+          "description": "Freya outscales Ling as the match progresses, gaining a significant advantage in late game fights."
+        },
+        {
+          "rank": 2,
+          "hero": "Yve",
+          "tier": "C",
+          "roles": [
+            "Mage"
+          ],
+          "win_rate": 52.0,
+          "win_rate_delta": 3.2,
+          "description": "Freya can close the gap on Yve and win fights at close range where mages are vulnerable."
+        },
+        {
+          "rank": 3,
+          "hero": "Faramis",
+          "tier": "C",
+          "roles": [
+            "Support",
+            "Mage"
+          ],
+          "win_rate": 51.4,
+          "win_rate_delta": 2.5,
+          "description": "Freya can close the gap on Faramis and win fights at close range where mages are vulnerable."
+        },
+        {
+          "rank": 4,
+          "hero": "Joy",
+          "tier": "D",
+          "roles": [
+            "Assassin"
+          ],
+          "win_rate": 49.4,
+          "win_rate_delta": 2.5,
+          "description": "Freya outscales Joy as the match progresses, gaining a significant advantage in late game fights."
+        },
+        {
+          "rank": 5,
+          "hero": "Mathilda",
+          "tier": "D",
+          "roles": [
+            "Support",
+            "Assassin"
+          ],
+          "win_rate": 46.3,
+          "win_rate_delta": 2.2,
+          "description": "Freya outscales Mathilda as the match progresses, gaining a significant advantage in late game fights."
+        }
+      ],
+      "game_phase": {
+        "analysis": "Freya is most vulnerable in the early game, where counters average a 53.0% win rate. As the match progresses, Freya becomes harder to shut down (48.8% mid, 47.7% late). Prioritize early aggression and ganks to build an advantage before Freya can scale.",
+        "early": {
+          "label": "Early Game",
+          "time": "0-8 min",
+          "average_win_rate": 53.0,
+          "summary": "Freya is vulnerable here"
+        },
+        "mid": {
+          "label": "Mid Game",
+          "time": "8-14 min",
+          "average_win_rate": 48.8,
+          "summary": "Even matchup phase"
+        },
+        "late": {
+          "label": "Late Game",
+          "time": "14+ min",
+          "average_win_rate": 47.7,
+          "summary": "Freya is strong here"
         }
       }
     },
@@ -12363,6 +12510,149 @@
           "time": "14+ min",
           "average_win_rate": 47.0,
           "summary": "Martis is strong here"
+        }
+      }
+    },
+    {
+      "slug": "masha",
+      "name": "Masha",
+      "top_counter": {
+        "hero": "Uranus",
+        "win_rate": 49.5
+      },
+      "weak_to": [
+        {
+          "rank": 1,
+          "hero": "Uranus",
+          "tier": "C",
+          "roles": [
+            "Tank"
+          ],
+          "win_rate": 49.5,
+          "win_rate_delta": 3.2,
+          "description": "Uranus's durability and kit give them a strong matchup advantage against Masha throughout the game."
+        },
+        {
+          "rank": 2,
+          "hero": "Aamon",
+          "tier": "B",
+          "roles": [
+            "Assassin"
+          ],
+          "win_rate": 48.9,
+          "win_rate_delta": 3.0,
+          "description": "Aamon dominates Masha in the early game. Apply pressure before Masha can scale and become a threat."
+        },
+        {
+          "rank": 3,
+          "hero": "Aulus",
+          "tier": "C",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 48.8,
+          "win_rate_delta": 3.6,
+          "description": "Aulus dominates Masha in the early game. Apply pressure before Masha can scale and become a threat."
+        },
+        {
+          "rank": 4,
+          "hero": "Sun",
+          "tier": "S",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 46.2,
+          "win_rate_delta": 4.3,
+          "description": "Sun dominates Masha in the early game. Apply pressure before Masha can scale and become a threat."
+        },
+        {
+          "rank": 5,
+          "hero": "Argus",
+          "tier": "A",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 46.1,
+          "win_rate_delta": 4.8,
+          "description": "Argus outscales Masha in the late game, turning team fights in your favor as the match progresses."
+        }
+      ],
+      "strong_against": [
+        {
+          "rank": 1,
+          "hero": "Ling",
+          "tier": "A",
+          "roles": [
+            "Assassin"
+          ],
+          "win_rate": 53.2,
+          "win_rate_delta": 3.3,
+          "description": "Masha has a strong early game advantage over Ling. Control the tempo before Ling scales."
+        },
+        {
+          "rank": 2,
+          "hero": "Silvanna",
+          "tier": "A",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 52.0,
+          "win_rate_delta": 2.6,
+          "description": "Masha has a strong early game advantage over Silvanna. Control the tempo before Silvanna scales."
+        },
+        {
+          "rank": 3,
+          "hero": "Guinevere",
+          "tier": "S",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 51.1,
+          "win_rate_delta": 3.2,
+          "description": "Masha has a strong early game advantage over Guinevere. Control the tempo before Guinevere scales."
+        },
+        {
+          "rank": 4,
+          "hero": "Yu Zhong",
+          "tier": "C",
+          "roles": [
+            "Fighter"
+          ],
+          "win_rate": 49.3,
+          "win_rate_delta": 3.8,
+          "description": "Masha has a strong early game advantage over Yu Zhong. Control the tempo before Yu Zhong scales."
+        },
+        {
+          "rank": 5,
+          "hero": "Fanny",
+          "tier": "D",
+          "roles": [
+            "Assassin"
+          ],
+          "win_rate": 43.2,
+          "win_rate_delta": 2.9,
+          "description": "Masha has a strong early game advantage over Fanny. Control the tempo before Fanny scales."
+        }
+      ],
+      "game_phase": {
+        "analysis": "Masha struggles the most in the late game, where counters average a 57.5% win rate. Early game matchups are tighter at 42.2%. If the match extends, your counter advantage grows, so focus on farming and scaling to outperform Masha in late team fights.",
+        "early": {
+          "label": "Early Game",
+          "time": "0-8 min",
+          "average_win_rate": 42.2,
+          "summary": "Masha is strong here"
+        },
+        "mid": {
+          "label": "Mid Game",
+          "time": "8-14 min",
+          "average_win_rate": 54.8,
+          "summary": "Masha is vulnerable here"
+        },
+        "late": {
+          "label": "Late Game",
+          "time": "14+ min",
+          "average_win_rate": 57.5,
+          "summary": "Masha is vulnerable here"
         }
       }
     },
