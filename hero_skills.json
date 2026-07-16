@@ -1,10 +1,10 @@
 {
   "version": "2.0.0",
-  "updated": "2026-07-11",
+  "updated": "2026-07-16",
   "source": "MLBBHub hero page embedded skill data",
   "max_displayed_skills": 4,
   "changeable_skills_included": false,
-  "total": 130,
+  "total": 132,
   "heroes": [
     {
       "slug": "aamon",
@@ -1431,6 +1431,40 @@
           "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_1b377f78451ed0315312ed90835a01c9.png",
           "type": "Skill 3",
           "description": "Fredrinn deals 210( +100% Extra Physical Attack) (Physical Damage) to nearby enemies and taunts them for 1s. Hitting a non-minion enemy grants Fredrinn 15 Physical & Magic Defense for 3s and reduces the cooldowns of (Piercing Strike) and (Brave Assault) by 75%. This skill costs 1 (Combo Point)."
+        }
+      ]
+    },
+    {
+      "slug": "freya",
+      "name": "Freya",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Power of Einherjar",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/freya/passive.png",
+          "type": "Passive",
+          "description": "Freya gains Sacred Orbs through Basic Attacks, up to 6. Consuming a Sacred Orb grants increased Attack Speed for her next Basic Attack. Sacred Orbs gradually recover while Freya is out of combat."
+        },
+        {
+          "position": "Skill 1",
+          "name": "Leap of Faith",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/freya/skill_1.png",
+          "type": "Skill 1",
+          "description": "Freya leaps to the target area and strikes the ground with her shield, gaining a shield, dealing Physical Damage to nearby enemies, and knocking them airborne briefly."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Valkyrie Slash",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/freya/skill_2.png",
+          "type": "Skill 2",
+          "description": "Freya charges forward and slashes enemies, dealing Physical Damage and slowing them. The skill has no normal base cooldown but consumes 2 Sacred Orbs each time it is cast."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Valkyrie Descent",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/freya/ultimate.png",
+          "type": "Ultimate",
+          "description": "Freya dives toward a target area, dealing Physical Damage and slowing enemies. After landing, she enters the Valkyrie state, gaining enhanced ranged Basic Attacks with splash damage and improved combat power for a limited duration."
         }
       ]
     },
@@ -2893,6 +2927,40 @@
           "icon": "https://akmweb.youngjoygame.com/web/svnres/img/test/homepage_2_1_88_1201_1/100_bbdf118fe86a5279e943a6db86fc4d7a.png",
           "type": "Ultimate",
           "description": "Martis lunges at a designated enemy hero, dealing 800( +100% Total Physical Attack) (Physical Damage) (deals True Damage if the enemy's HP is below 50%). If the enemy is killed by this skill, Martis can cast the skill again within 10s and gains 100% extra Movement Speed that gradually decays over 5s. Each successive cast also increases the skill's damage by 15% (up to 30%)."
+        }
+      ]
+    },
+    {
+      "slug": "masha",
+      "name": "Masha",
+      "skills": [
+        {
+          "position": "Passive",
+          "name": "Ancient Strength",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/masha/passive.png",
+          "type": "Passive",
+          "description": "Masha has 3 HP bars and only dies after all of them are depleted. She can ignore an instance of damage whenever she loses an HP bar. Her skill HP costs are reduced when fewer HP bars remain."
+        },
+        {
+          "position": "Skill 1",
+          "name": "Wild Power",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/masha/skill_1.png",
+          "type": "Skill 1",
+          "description": "Masha empowers herself by spending HP, gaining Movement Speed and enhanced Basic Attacks that deal additional Physical Damage based on the target's HP. She also gains extra Attack Speed for her next attacks."
+        },
+        {
+          "position": "Skill 2",
+          "name": "Howl Shock",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/masha/skill_2.png",
+          "type": "Skill 2",
+          "description": "Masha spends HP to release a shockwave, dealing Physical Damage to enemies and reducing their Attack Speed for a short duration."
+        },
+        {
+          "position": "Ultimate",
+          "name": "Thunderclap",
+          "icon": "https://raw.githubusercontent.com/p3hndrx/MLBB-API/main/v1/hero-skills-images/masha/ultimate.png",
+          "type": "Ultimate",
+          "description": "Masha spends part of her current HP bar to charge toward an enemy hero while being immune to most control effects during the lunge. She deals heavy Physical Damage, slows the target, and knocks nearby enemies back. The cooldown resets whenever she loses an HP bar."
         }
       ]
     },
