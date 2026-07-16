@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-07-16",
+  "source": "https://mlbbhub.com/spells",
+  "total": 12,
+  "assets": [
+    {
+      "name": "Aegis",
+      "icon": "https://mlbbhub.com/images/spells/aegis.png"
+    },
+    {
+      "name": "Arrival",
+      "icon": "https://mlbbhub.com/images/spells/arrival.png"
+    },
+    {
+      "name": "Execute",
+      "icon": "https://mlbbhub.com/images/spells/execute.png"
+    },
+    {
+      "name": "Flameshot",
+      "icon": "https://mlbbhub.com/images/spells/flameshot.png"
+    },
+    {
+      "name": "Flicker",
+      "icon": "https://mlbbhub.com/images/spells/flicker.png"
+    },
+    {
+      "name": "Inspire",
+      "icon": "https://mlbbhub.com/images/spells/inspire.png"
+    },
+    {
+      "name": "Petrify",
+      "icon": "https://mlbbhub.com/images/spells/petrify.png"
+    },
+    {
+      "name": "Purify",
+      "icon": "https://mlbbhub.com/images/spells/purify.png"
+    },
+    {
+      "name": "Retribution",
+      "icon": "https://mlbbhub.com/images/spells/retribution.png"
+    },
+    {
+      "name": "Revitalize",
+      "icon": "https://mlbbhub.com/images/spells/revitalize.png"
+    },
+    {
+      "name": "Sprint",
+      "icon": "https://mlbbhub.com/images/spells/sprint.png"
+    },
+    {
+      "name": "Vengeance",
+      "icon": "https://mlbbhub.com/images/spells/vengeance.png"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-07-16",
+  "source": "https://mlbbhub.com/items",
+  "total": 104,
+  "assets": [
+    {
+      "name": "Allow Throw",
+      "icon": "https://mlbbhub.com/images/items/allow-throw.png"
+    },
+    {
+      "name": "Antique Cuirass",
+      "icon": "https://mlbbhub.com/images/items/antique-cuirass.png"
+    },
+    {
+      "name": "Arcane Boots",
+      "icon": "https://mlbbhub.com/images/items/arcane-boots.png"
+    },
+    {
+      "name": "Ares Belt",
+      "icon": "https://mlbbhub.com/images/items/ares-belt.png"
+    },
+    {
+      "name": "Athena's Shield",
+      "icon": "https://mlbbhub.com/images/items/athenas-shield.png"
+    },
+    {
+      "name": "Azure Blade",
+      "icon": "https://mlbbhub.com/images/items/azure-blade.png"
+    },
+    {
+      "name": "Berserker's Fury",
+      "icon": "https://mlbbhub.com/images/items/berserkers-fury.png"
+    },
+    {
+      "name": "Black Ice Shield",
+      "icon": "https://mlbbhub.com/images/items/black-ice-shield.png"
+    },
+    {
+      "name": "Blade Armor",
+      "icon": "https://mlbbhub.com/images/items/blade-armor.png"
+    },
+    {
+      "name": "Blade of Despair",
+      "icon": "https://mlbbhub.com/images/items/blade-of-despair.png"
+    },
+    {
+      "name": "Blade of the Heptaseas",
+      "icon": "https://mlbbhub.com/images/items/blade-of-the-heptaseas.png"
+    },
+    {
+      "name": "Blood Wings",
+      "icon": "https://mlbbhub.com/images/items/blood-wings.png"
+    },
+    {
+      "name": "Bloody Retribution",
+      "icon": "https://mlbbhub.com/images/items/bloody-retribution.png"
+    },
+    {
+      "name": "Book of Sages",
+      "icon": "https://mlbbhub.com/images/items/book-of-sages.png"
+    },
+    {
+      "name": "Boots",
+      "icon": "https://mlbbhub.com/images/items/boots.png"
+    },
+    {
+      "name": "Broken Heart",
+      "icon": "https://mlbbhub.com/images/items/broken-heart.png"
+    },
+    {
+      "name": "Brute Force Breastplate",
+      "icon": "https://mlbbhub.com/images/items/brute-force-breastplate.png"
+    },
+    {
+      "name": "Chastise Pauldron",
+      "icon": "https://mlbbhub.com/images/items/chastise-pauldron.png"
+    },
+    {
+      "name": "Clock of Destiny",
+      "icon": "https://mlbbhub.com/images/items/clock-of-destiny.png"
+    },
+    {
+      "name": "Conceal",
+      "icon": "https://mlbbhub.com/images/items/conceal.png"
+    },
+    {
+      "name": "Concentrated Energy",
+      "icon": "https://mlbbhub.com/images/items/concentrated-energy.png"
+    },
+    {
+      "name": "Corrosion Scythe",
+      "icon": "https://mlbbhub.com/images/items/corrosion-scythe.png"
+    },
+    {
+      "name": "Cursed Helmet",
+      "icon": "https://mlbbhub.com/images/items/cursed-helmet.png"
+    },
+    {
+      "name": "Dagger",
+      "icon": "https://mlbbhub.com/images/items/dagger.png"
+    },
+    {
+      "name": "Demon Boots",
+      "icon": "https://mlbbhub.com/images/items/demon-boots.png"
+    },
+    {
+      "name": "Demon Hunter Sword",
+      "icon": "https://mlbbhub.com/images/items/demon-hunter-sword.png"
+    },
+    {
+      "name": "Dire Hit",
+      "icon": "https://mlbbhub.com/images/items/dire-hit.png"
+    },
+    {
+      "name": "Divine Glaive",
+      "icon": "https://mlbbhub.com/images/items/divine-glaive.png"
+    },
+    {
+      "name": "Dominance Ice",
+      "icon": "https://mlbbhub.com/images/items/dominance-ice.png"
+    },
+    {
+      "name": "Dreadnaught Armor",
+      "icon": "https://mlbbhub.com/images/items/dreadnaught-armor.png"
+    },
+    {
+      "name": "Elegant Gem",
+      "icon": "https://mlbbhub.com/images/items/elegant-gem.png"
+    },
+    {
+      "name": "Enchanted Talisman",
+      "icon": "https://mlbbhub.com/images/items/enchanted-talisman.png"
+    },
+    {
+      "name": "Encourage",
+      "icon": "https://mlbbhub.com/images/items/encourage.png"
+    },
+    {
+      "name": "Endless Battle",
+      "icon": "https://mlbbhub.com/images/items/endless-battle.png"
+    },
+    {
+      "name": "Exotic Veil",
+      "icon": "https://mlbbhub.com/images/items/exotic-veil.png"
+    },
+    {
+      "name": "Expert Gloves",
+      "icon": "https://mlbbhub.com/images/items/expert-gloves.png"
+    },
+    {
+      "name": "Favor",
+      "icon": "https://mlbbhub.com/images/items/favor.png"
+    },
+    {
+      "name": "Feather of Heaven",
+      "icon": "https://mlbbhub.com/images/items/feather-of-heaven.png"
+    },
+    {
+      "name": "Flame Retribution",
+      "icon": "https://mlbbhub.com/images/items/flame-retribution.png"
+    },
+    {
+      "name": "Flask of the Oasis",
+      "icon": "https://mlbbhub.com/images/items/flask-of-the-oasis.png"
+    },
+    {
+      "name": "Fleeting Time",
+      "icon": "https://mlbbhub.com/images/items/fleeting-time.png"
+    },
+    {
+      "name": "Flower of Hope",
+      "icon": "https://mlbbhub.com/images/items/flower-of-hope.png"
+    },
+    {
+      "name": "Fury Hammer",
+      "icon": "https://mlbbhub.com/images/items/fury-hammer.png"
+    },
+    {
+      "name": "Genius Wand",
+      "icon": "https://mlbbhub.com/images/items/genius-wand.png"
+    },
+    {
+      "name": "Glowing Wand",
+      "icon": "https://mlbbhub.com/images/items/glowing-wand.png"
+    },
+    {
+      "name": "Golden Staff",
+      "icon": "https://mlbbhub.com/images/items/golden-staff.png"
+    },
+    {
+      "name": "Great Dragon Spear",
+      "icon": "https://mlbbhub.com/images/items/great-dragon-spear.png"
+    },
+    {
+      "name": "Guardian Helmet",
+      "icon": "https://mlbbhub.com/images/items/guardian-helmet.png"
+    },
+    {
+      "name": "Haas's Claws",
+      "icon": "https://mlbbhub.com/images/items/haass-claws.png"
+    },
+    {
+      "name": "Healing Necklace",
+      "icon": "https://mlbbhub.com/images/items/healing-necklace.png"
+    },
+    {
+      "name": "Hero's Ring",
+      "icon": "https://mlbbhub.com/images/items/heros-ring.png"
+    },
+    {
+      "name": "Holy Crystal",
+      "icon": "https://mlbbhub.com/images/items/holy-crystal.png"
+    },
+    {
+      "name": "Hunter Strike",
+      "icon": "https://mlbbhub.com/images/items/hunter-strike.png"
+    },
+    {
+      "name": "Ice Queen Wand",
+      "icon": "https://mlbbhub.com/images/items/ice-queen-wand.png"
+    },
+    {
+      "name": "Ice Retribution",
+      "icon": "https://mlbbhub.com/images/items/ice-retribution.png"
+    },
+    {
+      "name": "Immortality",
+      "icon": "https://mlbbhub.com/images/items/immortality.png"
+    },
+    {
+      "name": "Iron Hunting Bow",
+      "icon": "https://mlbbhub.com/images/items/iron-hunting-bow.png"
+    },
+    {
+      "name": "Javelin",
+      "icon": "https://mlbbhub.com/images/items/javelin.png"
+    },
+    {
+      "name": "Knife",
+      "icon": "https://mlbbhub.com/images/items/knife.png"
+    },
+    {
+      "name": "Lantern of Hope",
+      "icon": "https://mlbbhub.com/images/items/lantern-of-hope.png"
+    },
+    {
+      "name": "Leather Jerkin",
+      "icon": "https://mlbbhub.com/images/items/leather-jerkin.png"
+    },
+    {
+      "name": "Legion Sword",
+      "icon": "https://mlbbhub.com/images/items/legion-sword.png"
+    },
+    {
+      "name": "Lightning Truncheon",
+      "icon": "https://mlbbhub.com/images/items/lightning-truncheon.png"
+    },
+    {
+      "name": "Magic Blade",
+      "icon": "https://mlbbhub.com/images/items/magic-blade.png"
+    },
+    {
+      "name": "Magic Boots",
+      "icon": "https://mlbbhub.com/images/items/magic-boots.png"
+    },
+    {
+      "name": "Magic Necklace",
+      "icon": "https://mlbbhub.com/images/items/magic-necklace.png"
+    },
+    {
+      "name": "Magic Potion",
+      "icon": "https://mlbbhub.com/images/items/magic-potion.png"
+    },
+    {
+      "name": "Magic Resist Cloak",
+      "icon": "https://mlbbhub.com/images/items/magic-resist-cloak.png"
+    },
+    {
+      "name": "Magic Wand",
+      "icon": "https://mlbbhub.com/images/items/magic-wand.png"
+    },
+    {
+      "name": "Malefic Gun",
+      "icon": "https://mlbbhub.com/images/items/malefic-gun.png"
+    },
+    {
+      "name": "Malefic Roar",
+      "icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+    },
+    {
+      "name": "Molten Essence",
+      "icon": "https://mlbbhub.com/images/items/molten-essence.png"
+    },
+    {
+      "name": "Mystery Codex",
+      "icon": "https://mlbbhub.com/images/items/mystery-codex.png"
+    },
+    {
+      "name": "Mystic Container",
+      "icon": "https://mlbbhub.com/images/items/mystic-container.png"
+    },
+    {
+      "name": "Ogre Tomahawk",
+      "icon": "https://mlbbhub.com/images/items/ogre-tomahawk.png"
+    },
+    {
+      "name": "Oracle",
+      "icon": "https://mlbbhub.com/images/items/oracle.png"
+    },
+    {
+      "name": "Power Crystal",
+      "icon": "https://mlbbhub.com/images/items/power-crystal.png"
+    },
+    {
+      "name": "Power Potion",
+      "icon": "https://mlbbhub.com/images/items/power-potion.png"
+    },
+    {
+      "name": "Queen's Wings",
+      "icon": "https://mlbbhub.com/images/items/queens-wings.png"
+    },
+    {
+      "name": "Radiant Armor",
+      "icon": "https://mlbbhub.com/images/items/radiant-armor.png"
+    },
+    {
+      "name": "Rapid Boots",
+      "icon": "https://mlbbhub.com/images/items/rapid-boots.png"
+    },
+    {
+      "name": "Regular Spear",
+      "icon": "https://mlbbhub.com/images/items/regular-spear.png"
+    },
+    {
+      "name": "Rock Potion",
+      "icon": "https://mlbbhub.com/images/items/rock-potion.png"
+    },
+    {
+      "name": "Rogue Meteor",
+      "icon": "https://mlbbhub.com/images/items/rogue-meteor.png"
+    },
+    {
+      "name": "Rose Gold Meteor",
+      "icon": "https://mlbbhub.com/images/items/rose-gold-meteor.png"
+    },
+    {
+      "name": "Sea Halberd",
+      "icon": "https://mlbbhub.com/images/items/sea-halberd.png"
+    },
+    {
+      "name": "Silence Robe",
+      "icon": "https://mlbbhub.com/images/items/silence-robe.png"
+    },
+    {
+      "name": "Sky Piercer",
+      "icon": "https://mlbbhub.com/images/items/sky-piercer.png"
+    },
+    {
+      "name": "Starlium Scythe",
+      "icon": "https://mlbbhub.com/images/items/starlium-scythe.png"
+    },
+    {
+      "name": "Steel Legplates",
+      "icon": "https://mlbbhub.com/images/items/steel-legplates.png"
+    },
+    {
+      "name": "Swift Boots",
+      "icon": "https://mlbbhub.com/images/items/swift-boots.png"
+    },
+    {
+      "name": "Swift Crossbow",
+      "icon": "https://mlbbhub.com/images/items/swift-crossbow.png"
+    },
+    {
+      "name": "Throw Forbidden",
+      "icon": "https://mlbbhub.com/images/items/throw-forbidden.png"
+    },
+    {
+      "name": "Thunder Belt",
+      "icon": "https://mlbbhub.com/images/items/thunder-belt.png"
+    },
+    {
+      "name": "Tome of Evil",
+      "icon": "https://mlbbhub.com/images/items/tome-of-evil.png"
+    },
+    {
+      "name": "Tough Boots",
+      "icon": "https://mlbbhub.com/images/items/tough-boots.png"
+    },
+    {
+      "name": "Vampire Mallet",
+      "icon": "https://mlbbhub.com/images/items/vampire-mallet.png"
+    },
+    {
+      "name": "Vitality Crystal",
+      "icon": "https://mlbbhub.com/images/items/vitality-crystal.png"
+    },
+    {
+      "name": "War Axe",
+      "icon": "https://mlbbhub.com/images/items/war-axe.png"
+    },
+    {
+      "name": "Warrior Boots",
+      "icon": "https://mlbbhub.com/images/items/warrior-boots.png"
+    },
+    {
+      "name": "Wind of Nature",
+      "icon": "https://mlbbhub.com/images/items/wind-of-nature.png"
+    },
+    {
+      "name": "Windtalker",
+      "icon": "https://mlbbhub.com/images/items/windtalker.png"
+    },
+    {
+      "name": "Winter Crown",
+      "icon": "https://mlbbhub.com/images/items/winter-crown.png"
+    },
+    {
+      "name": "Wishing Lantern",
+      "icon": "https://mlbbhub.com/images/items/wishing-lantern.png"
+    }
+  ]
+}
