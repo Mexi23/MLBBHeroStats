@@ -7,51 +7,30 @@
   "total": 132,
   "heroes": [
 
-    {
+  {
   "slug": "hirara",
   "name": "Hirara",
   "skills": [
     {
       "position": "Passive",
-      "name": "Twin Fan Marks",
-      "icon": "",
+      "name": "Twin Fans: Ukifune",
+      "icon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Ftest%2Fhomepage_2_1_88_1201_1%2F100_08027b326d3c236be35e6d82a6b7dbf2.png&w=750&output=webp&q=75&we",
       "type": "Passive",
-      "description": "Hirara's two fans apply different marks to enemies. Meisen-e applies the Crimson Mark, while Kaerazu applies the Death Mark. When both marks are present on the same target, the enemy is briefly immobilized."
+      "description": "Hirara has only two skills, representing her two weapons: Meisen-e and Kaerazu. Drag one skill onto the other to cast a combo skill. Hirara has Crimson and Death Energy, and casting a combo skill consumes one corresponding Energy. Enemies affected by both marks are briefly immobilized."
     },
     {
       "position": "Skill 1",
       "name": "Meisen-e",
-      "icon": "",
+      "icon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Ftest%2Fhomepage_2_1_88_1201_1%2F100_e474b986578e520c42bef6d49e5509cb.png&w=128&output=webp&q=75&we",
       "type": "Skill 1",
-      "description": "Hirara uses her movement fan to dash and strike enemies, applying the Crimson Mark. The skill can be combined with Kaerazu to trigger an enhanced combo."
+      "description": "Hirara uses Meisen-e to dash and strike enemies, dealing Physical Damage and applying the Crimson Mark. Meisen-e can be dragged onto Kaerazu to cast a combo skill."
     },
     {
       "position": "Skill 2",
       "name": "Kaerazu",
-      "icon": "",
+      "icon": "https://wsrv.nl/?url=https%3A%2F%2Fakmweb.youngjoygame.com%2Fweb%2Fsvnres%2Fimg%2Ftest%2Fhomepage_2_1_88_1201_1%2F100_14b0cce85253b33fb3d1bd1e21a09d9f.png&w=48&output=webp&q=75&we",
       "type": "Skill 2",
-      "description": "Hirara throws or attacks using her damage fan, applying the Death Mark. It deals physical damage and can combine with Meisen-e to activate a stronger effect."
-    },
-    {
-      "position": "Combo Skill",
-      "name": "Meisen-e + Kaerazu",
-      "icon": "",
-      "type": "Combo",
-      "description": "Hirara combines her first skill followed by her second skill to close the distance, apply both marks, and immobilize the target."
-    },
-    {
-      "position": "Combo Skill",
-      "name": "Kaerazu + Meisen-e",
-      "icon": "",
-      "type": "Combo",
-      "description": "Hirara combines her second skill followed by her first skill to deal heavy damage and reposition or dash away after attacking."
-    },
-    {
-      "position": "Combo Skill",
-      "name": "Falling Maple",
-      "icon": "",
-      "type": "Combo",
-      "description": "Hirara performs an enhanced fan combination that grants a brief untargetable moment and allows her to dash twice, helping her finish an enemy or escape."
+      "description": "Hirara uses Kaerazu to attack enemies in an area, dealing Physical Damage and applying the Death Mark. Kaerazu can be dragged onto Meisen-e to cast a different combo skill."
     }
   ]
 },
