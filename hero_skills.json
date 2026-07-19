@@ -6,6 +6,59 @@
   "changeable_skills_included": false,
   "total": 132,
   "heroes": [
+
+    {
+  "slug": "hirara",
+  "name": "Hirara",
+  "skills": [
+    {
+      "position": "Passive",
+      "name": "Twin Fan Marks",
+      "icon": "",
+      "type": "Passive",
+      "description": "Hirara's two fans apply different marks to enemies. Meisen-e applies the Crimson Mark, while Kaerazu applies the Death Mark. When both marks are present on the same target, the enemy is briefly immobilized."
+    },
+    {
+      "position": "Skill 1",
+      "name": "Meisen-e",
+      "icon": "",
+      "type": "Skill 1",
+      "description": "Hirara uses her movement fan to dash and strike enemies, applying the Crimson Mark. The skill can be combined with Kaerazu to trigger an enhanced combo."
+    },
+    {
+      "position": "Skill 2",
+      "name": "Kaerazu",
+      "icon": "",
+      "type": "Skill 2",
+      "description": "Hirara throws or attacks using her damage fan, applying the Death Mark. It deals physical damage and can combine with Meisen-e to activate a stronger effect."
+    },
+    {
+      "position": "Combo Skill",
+      "name": "Meisen-e + Kaerazu",
+      "icon": "",
+      "type": "Combo",
+      "description": "Hirara combines her first skill followed by her second skill to close the distance, apply both marks, and immobilize the target."
+    },
+    {
+      "position": "Combo Skill",
+      "name": "Kaerazu + Meisen-e",
+      "icon": "",
+      "type": "Combo",
+      "description": "Hirara combines her second skill followed by her first skill to deal heavy damage and reposition or dash away after attacking."
+    },
+    {
+      "position": "Combo Skill",
+      "name": "Falling Maple",
+      "icon": "",
+      "type": "Combo",
+      "description": "Hirara performs an enhanced fan combination that grants a brief untargetable moment and allows her to dash twice, helping her finish an enemy or escape."
+    }
+  ]
+},
+
+
+
+    
     {
       "slug": "aamon",
       "name": "Aamon",
