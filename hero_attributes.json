@@ -8,6 +8,20 @@
   },
   "total": 132,
   "heroes": [
+
+    {
+  "slug": "hirara",
+  "name": "Hirara",
+  "attributes": {
+    "durability": 40,
+    "offense": 70,
+    "control": 40,
+    "difficulty": 60
+  }
+},
+
+
+    
     {
       "slug": "aamon",
       "name": "Aamon",
