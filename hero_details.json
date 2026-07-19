@@ -4,6 +4,26 @@
   "source": "MLBBHub hero profile pages",
   "total": 132,
   "heroes": [
+
+
+    {
+  "slug": "hirara",
+  "name": "Hirara",
+  "title": "Fallen Scarlet",
+  "description": "Hirara is a jungle assassin who uses two fans to apply separate marks. When both marks are placed on the same target, the enemy is briefly immobilized, allowing Hirara to complete her combo and finish vulnerable targets.",
+  "role": [
+    "Assassin"
+  ],
+  "lane": [
+    "Jungle"
+  ],
+  "specialty": [
+    "Chase",
+    "Finisher"
+  ],
+  "difficulty": "Medium"
+},
+    
     {
       "slug": "aamon",
       "name": "Aamon",
