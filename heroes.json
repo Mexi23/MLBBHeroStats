@@ -3,6 +3,23 @@
   "updated": "2026-07-16",
   "total": 132,
   "heroes": [
+
+{
+  "slug": "hirara",
+  "name": "Hirara",
+  "image": "https://cdn.jsdelivr.net/gh/Mexi23/MobaHub-Assets@main/hirara.png",
+  "role": [
+    "Assassin"
+  ],
+  "lane": [
+    "Jungle"
+  ]
+},
+
+
+
+
+    
     {
       "slug": "aamon",
       "name": "Aamon",
