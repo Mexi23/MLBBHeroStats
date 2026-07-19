@@ -4,6 +4,24 @@
   "source": "MLBBHub statistics page",
   "total": 132,
   "heroes": [
+
+
+    {
+  "slug": "hirara",
+  "name": "Hirara",
+  "image": "https://cdn.jsdelivr.net/gh/Mexi23/MobaHub-Assets@main/hirara.png",
+  "role": [
+    "Assassin"
+  ],
+  "lane": [
+    "Jungle"
+  ],
+  "tier": "S",
+  "win_rate": 49.86,
+  "pick_rate": 0.53,
+  "ban_rate": 26.06
+},
+    
     {
       "slug": "aamon",
       "name": "Aamon",
