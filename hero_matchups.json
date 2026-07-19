@@ -5,6 +5,155 @@
   "matchups_per_section": 5,
   "total": 132,
   "heroes": [
+
+
+    {
+  "slug": "hirara",
+  "name": "Hirara",
+  "top_counter": {
+    "hero": "Zilong",
+    "win_rate": 53.3
+  },
+  "weak_to": [
+    {
+      "rank": 1,
+      "hero": "Zilong",
+      "tier": "D",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "win_rate": 53.3,
+      "win_rate_delta": 2.5,
+      "description": "Zilong outscales Hirara in the late game, turning team fights in your favor as the match progresses."
+    },
+    {
+      "rank": 2,
+      "hero": "Layla",
+      "tier": "C",
+      "roles": [
+        "Marksman"
+      ],
+      "win_rate": 52.1,
+      "win_rate_delta": 2.6,
+      "description": "Layla outscales Hirara in the late game, turning team fights in your favor as the match progresses."
+    },
+    {
+      "rank": 3,
+      "hero": "Odette",
+      "tier": "C",
+      "roles": [
+        "Mage"
+      ],
+      "win_rate": 50.6,
+      "win_rate_delta": 2.9,
+      "description": "Odette has a statistical advantage against Hirara based on ranked matchup data."
+    },
+    {
+      "rank": 4,
+      "hero": "Saber",
+      "tier": "S",
+      "roles": [
+        "Assassin"
+      ],
+      "win_rate": 49.8,
+      "win_rate_delta": 3.7,
+      "description": "Saber can lock down and burst Hirara before she completes her marks or escape combo."
+    },
+    {
+      "rank": 5,
+      "hero": "Cyclops",
+      "tier": "B",
+      "roles": [
+        "Mage"
+      ],
+      "win_rate": 48.8,
+      "win_rate_delta": 2.3,
+      "description": "Cyclops outscales Hirara in the late game and can restrict her movement with targeted control."
+    }
+  ],
+  "strong_against": [
+    {
+      "rank": 1,
+      "hero": "Gloo",
+      "tier": "S",
+      "roles": [
+        "Tank"
+      ],
+      "win_rate": 54.9,
+      "win_rate_delta": 2.8,
+      "description": "Hirara outscales Gloo as the match progresses, gaining a significant advantage in late-game fights."
+    },
+    {
+      "rank": 2,
+      "hero": "Atlas",
+      "tier": "S",
+      "roles": [
+        "Tank"
+      ],
+      "win_rate": 53.3,
+      "win_rate_delta": 2.9,
+      "description": "Hirara has a strong early-game advantage over Atlas and can control the tempo before he scales."
+    },
+    {
+      "rank": 3,
+      "hero": "Hanzo",
+      "tier": "A",
+      "roles": [
+        "Assassin"
+      ],
+      "win_rate": 52.0,
+      "win_rate_delta": 3.3,
+      "description": "Hirara outscales Hanzo as the match progresses and can punish his vulnerable body."
+    },
+    {
+      "rank": 4,
+      "hero": "Baxia",
+      "tier": "C",
+      "roles": [
+        "Tank"
+      ],
+      "win_rate": 49.3,
+      "win_rate_delta": 2.4,
+      "description": "Hirara outscales Baxia as the match progresses, gaining an advantage in late-game fights."
+    },
+    {
+      "rank": 5,
+      "hero": "Zhuxin",
+      "tier": "C",
+      "roles": [
+        "Mage"
+      ],
+      "win_rate": 48.2,
+      "win_rate_delta": 2.6,
+      "description": "Hirara has a strong early-game advantage over Zhuxin and can close the distance before she controls the fight."
+    }
+  ],
+  "game_phase": {
+    "analysis": "Hirara is most vulnerable in the early game, where counters average a 55.0% win rate. She becomes harder to shut down as the match progresses, dropping to 50.1% in the mid game and 48.7% in the late game.",
+    "early": {
+      "label": "Early Game",
+      "time": "0-8 min",
+      "average_win_rate": 55.0,
+      "summary": "Hirara is vulnerable here"
+    },
+    "mid": {
+      "label": "Mid Game",
+      "time": "8-14 min",
+      "average_win_rate": 50.1,
+      "summary": "Even matchup phase"
+    },
+    "late": {
+      "label": "Late Game",
+      "time": "14+ min",
+      "average_win_rate": 48.7,
+      "summary": "Even matchup phase"
+    }
+  }
+},
+
+
+    
     {
       "slug": "aamon",
       "name": "Aamon",
