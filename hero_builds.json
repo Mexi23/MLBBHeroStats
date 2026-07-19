@@ -6,6 +6,293 @@
   "items_per_build": 6,
   "total": 130,
   "heroes": [
+
+    {
+  "slug": "hirara",
+  "name": "Hirara",
+  "builds": [
+    {
+      "title": "Jungle Burst Default",
+      "description": "Default jungle burst setup that gives Hirara early movement and penetration, then enough raw damage to eliminate backliners before escaping with her second combo.",
+      "cost": 11850,
+      "items": [
+        {
+          "name": "Tough Boots",
+          "icon": "https://mlbbhub.com/images/items/tough-boots.png"
+        },
+        {
+          "name": "Hunter Strike",
+          "icon": "https://mlbbhub.com/images/items/hunter-strike.png"
+        },
+        {
+          "name": "Blade of Despair",
+          "icon": "https://mlbbhub.com/images/items/blade-of-despair.png"
+        },
+        {
+          "name": "Blade of the Heptaseas",
+          "icon": "https://mlbbhub.com/images/items/blade-of-the-heptaseas.png"
+        },
+        {
+          "name": "Malefic Roar",
+          "icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+        },
+        {
+          "name": "Immortality",
+          "icon": "https://mlbbhub.com/images/items/immortality.png"
+        }
+      ],
+      "stats": {
+        "physical_attack": "+370",
+        "physical_penetration": "+30",
+        "hp": "+1050",
+        "physical_defense": "+15"
+      },
+      "emblem": {
+        "name": "Assassin Emblem",
+        "icon": "https://mlbbhub.com/images/emblems/assassin.png",
+        "talents": [
+          {
+            "name": "Rupture",
+            "icon": "https://mlbbhub.com/images/talents/rupture.png"
+          },
+          {
+            "name": "Seasoned Hunter",
+            "icon": "https://mlbbhub.com/images/talents/seasoned-hunter.png"
+          },
+          {
+            "name": "Killing Spree",
+            "icon": "https://mlbbhub.com/images/talents/killing-spree.png"
+          }
+        ]
+      },
+      "battle_spell": {
+        "name": "Retribution",
+        "icon": "https://mlbbhub.com/images/spells/retribution.png"
+      },
+      "blessing": {
+        "name": "Ice Retribution",
+        "icon": "https://mlbbhub.com/images/items/ice-retribution.png"
+      },
+      "situational_swaps": [
+        {
+          "replace_with": "Magic Boots",
+          "replace": "Tough Boots",
+          "reason": "Use when the enemy team has little crowd control and faster skill cooldowns are more valuable than resilience.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/magic-boots.png",
+          "replace_icon": "https://mlbbhub.com/images/items/tough-boots.png"
+        },
+        {
+          "replace_with": "Sea Halberd",
+          "replace": "Blade of the Heptaseas",
+          "reason": "Use against heroes with strong healing, regeneration, or shields that survive Hirara's first combo.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/sea-halberd.png",
+          "replace_icon": "https://mlbbhub.com/images/items/blade-of-the-heptaseas.png"
+        },
+        {
+          "replace_with": "Rose Gold Meteor",
+          "replace": "Immortality",
+          "reason": "Use against heavy magic burst when an immediate shield is more useful than a delayed revive.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/rose-gold-meteor.png",
+          "replace_icon": "https://mlbbhub.com/images/items/immortality.png"
+        },
+        {
+          "replace_with": "Winter Crown",
+          "replace": "Immortality",
+          "reason": "Use when stasis can protect Hirara after diving into the enemy backline and completing her combo.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/winter-crown.png",
+          "replace_icon": "https://mlbbhub.com/images/items/immortality.png"
+        }
+      ]
+    },
+    {
+      "title": "Snowball Execute",
+      "description": "High-tempo jungle setup for matches where Hirara gains an early lead and can protect Sky Piercer stacks while repeatedly hunting isolated targets.",
+      "cost": 11230,
+      "items": [
+        {
+          "name": "Tough Boots",
+          "icon": "https://mlbbhub.com/images/items/tough-boots.png"
+        },
+        {
+          "name": "Sky Piercer",
+          "icon": "https://mlbbhub.com/images/items/sky-piercer.png"
+        },
+        {
+          "name": "Hunter Strike",
+          "icon": "https://mlbbhub.com/images/items/hunter-strike.png"
+        },
+        {
+          "name": "Blade of the Heptaseas",
+          "icon": "https://mlbbhub.com/images/items/blade-of-the-heptaseas.png"
+        },
+        {
+          "name": "Blade of Despair",
+          "icon": "https://mlbbhub.com/images/items/blade-of-despair.png"
+        },
+        {
+          "name": "Malefic Roar",
+          "icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+        }
+      ],
+      "stats": {
+        "physical_attack": "+370",
+        "adaptive_attack": "+60",
+        "physical_penetration": "+30",
+        "hp": "+250"
+      },
+      "emblem": {
+        "name": "Assassin Emblem",
+        "icon": "https://mlbbhub.com/images/emblems/assassin.png",
+        "talents": [
+          {
+            "name": "Rupture",
+            "icon": "https://mlbbhub.com/images/talents/rupture.png"
+          },
+          {
+            "name": "Master Assassin",
+            "icon": "https://mlbbhub.com/images/talents/master-assassin.png"
+          },
+          {
+            "name": "Lethal Ignition",
+            "icon": "https://mlbbhub.com/images/talents/lethal-ignition.png"
+          }
+        ]
+      },
+      "battle_spell": {
+        "name": "Retribution",
+        "icon": "https://mlbbhub.com/images/spells/retribution.png"
+      },
+      "blessing": {
+        "name": "Flame Retribution",
+        "icon": "https://mlbbhub.com/images/items/flame-retribution.png"
+      },
+      "situational_swaps": [
+        {
+          "replace_with": "Immortality",
+          "replace": "Malefic Roar",
+          "reason": "Use when protecting Sky Piercer stacks and avoiding a shutdown becomes more important than maximum penetration.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/immortality.png",
+          "replace_icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+        },
+        {
+          "replace_with": "Rose Gold Meteor",
+          "replace": "Malefic Roar",
+          "reason": "Use when a burst mage repeatedly removes Hirara before she can finish her combo.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/rose-gold-meteor.png",
+          "replace_icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+        },
+        {
+          "replace_with": "Sea Halberd",
+          "replace": "Blade of the Heptaseas",
+          "reason": "Use when enemy healing or shielding prevents Sky Piercer from reaching its execute threshold.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/sea-halberd.png",
+          "replace_icon": "https://mlbbhub.com/images/items/blade-of-the-heptaseas.png"
+        },
+        {
+          "replace_with": "Winter Crown",
+          "replace": "Malefic Roar",
+          "reason": "Use when Hirara needs stasis after diving deep into the enemy formation during late-game fights.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/winter-crown.png",
+          "replace_icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+        }
+      ]
+    },
+    {
+      "title": "Sustain Reset Jungle",
+      "description": "Bruiser-style jungle setup for extended fights. War Axe and Queen's Wings help Hirara survive long enough to recover energy and perform another combo cycle.",
+      "cost": 11240,
+      "items": [
+        {
+          "name": "Tough Boots",
+          "icon": "https://mlbbhub.com/images/items/tough-boots.png"
+        },
+        {
+          "name": "Hunter Strike",
+          "icon": "https://mlbbhub.com/images/items/hunter-strike.png"
+        },
+        {
+          "name": "War Axe",
+          "icon": "https://mlbbhub.com/images/items/war-axe.png"
+        },
+        {
+          "name": "Queen's Wings",
+          "icon": "https://mlbbhub.com/images/items/queens-wings.png"
+        },
+        {
+          "name": "Malefic Roar",
+          "icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+        },
+        {
+          "name": "Immortality",
+          "icon": "https://mlbbhub.com/images/items/immortality.png"
+        }
+      ],
+      "stats": {
+        "physical_attack": "+175",
+        "adaptive_attack": "+40",
+        "physical_penetration": "+15",
+        "spell_vamp": "+18%",
+        "hp": "+2250"
+      },
+      "emblem": {
+        "name": "Fighter Emblem",
+        "icon": "https://mlbbhub.com/images/emblems/fighter.png",
+        "talents": [
+          {
+            "name": "Rupture",
+            "icon": "https://mlbbhub.com/images/talents/rupture.png"
+          },
+          {
+            "name": "Festival of Blood",
+            "icon": "https://mlbbhub.com/images/talents/festival-of-blood.png"
+          },
+          {
+            "name": "War Cry",
+            "icon": "https://mlbbhub.com/images/talents/war-cry.png"
+          }
+        ]
+      },
+      "battle_spell": {
+        "name": "Retribution",
+        "icon": "https://mlbbhub.com/images/spells/retribution.png"
+      },
+      "blessing": {
+        "name": "Bloody Retribution",
+        "icon": "https://mlbbhub.com/images/items/bloody-retribution.png"
+      },
+      "situational_swaps": [
+        {
+          "replace_with": "Brute Force Breastplate",
+          "replace": "Immortality",
+          "reason": "Use when repeated slows and crowd control prevent Hirara from completing her second combo cycle.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/brute-force-breastplate.png",
+          "replace_icon": "https://mlbbhub.com/images/items/immortality.png"
+        },
+        {
+          "replace_with": "Oracle",
+          "replace": "Immortality",
+          "reason": "Use in long fights when increased healing, shielding, and sustain provide more value than a revive.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/oracle.png",
+          "replace_icon": "https://mlbbhub.com/images/items/immortality.png"
+        },
+        {
+          "replace_with": "Sea Halberd",
+          "replace": "Malefic Roar",
+          "reason": "Use when the enemy relies on healing or shields instead of stacking large amounts of Physical Defense.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/sea-halberd.png",
+          "replace_icon": "https://mlbbhub.com/images/items/malefic-roar.png"
+        },
+        {
+          "replace_with": "Athena's Shield",
+          "replace": "Immortality",
+          "reason": "Use against front-loaded magic burst that can eliminate Hirara before Queen's Wings activates.",
+          "replace_with_icon": "https://mlbbhub.com/images/items/athenas-shield.png",
+          "replace_icon": "https://mlbbhub.com/images/items/immortality.png"
+        }
+      ]
+    }
+  ]
+},
     {
       "slug": "aamon",
       "name": "Aamon",
